@@ -1,6 +1,6 @@
 import React, { useEffect, useState, useRef } from 'react';
 import api from '../utils/axios';
-import { Plus, Trash2, RefreshCcw, Image as ImageIcon } from 'lucide-react';
+import { Plus, Trash2, RefreshCcw } from 'lucide-react';
 
 export default function AdminBingo() {
   const [data, setData] = useState({ classes: [], words: [] });

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { useNavigate, useParams } from "react-router-dom";
-import { ArrowLeft, Play, Trophy, Lock } from "lucide-react";
+import { ArrowLeft } from "lucide-react";
 import GameRoadMap from "./GameRoadMap";
 import { useAuth } from "../contexts/AuthContext";
 import api from "../utils/axios";
@@ -8,9 +8,11 @@ import api from "../utils/axios";
 const CreativityRoadMap = () => {
   const navigate = useNavigate();
   const { gameType } = useParams();
+  // eslint-disable-next-line no-unused-vars
   const { user } = useAuth();
   
   const [games, setGames] = useState([]);
+  // eslint-disable-next-line no-unused-vars
   const [loading, setLoading] = useState(true);
   const [roadMapProgress, setRoadMapProgress] = useState({
     creativite: {
@@ -24,6 +26,7 @@ const CreativityRoadMap = () => {
   });
 
   // Charger les jeux depuis l'API
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   useEffect(() => {
     fetchGames();
   }, [gameType]);
@@ -91,6 +94,7 @@ const CreativityRoadMap = () => {
   }, [gameType, games.length]);
 
   // Sauvegarder la progression dans le localStorage
+  // eslint-disable-next-line no-unused-vars
   const saveProgress = (newProgress) => {
     setRoadMapProgress(newProgress);
     localStorage.setItem(`roadMapProgress_${gameType}`, JSON.stringify(newProgress[gameType]));

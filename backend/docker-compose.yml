@@ -1,0 +1,20 @@
+# PostgreSQL local pour LingoRaid (optionnel)
+# Démarrer : docker compose up -d
+# DATABASE_URL dans .env :
+#   postgresql://postgres:postgres@localhost:5432/lingoraid?schema=public
+
+services:
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: lingoraid
+    ports:
+      - "5433:5432"
+    volumes:
+      - lingoraid_pg_data:/var/lib/postgresql/data
+
+volumes:
+  lingoraid_pg_data:

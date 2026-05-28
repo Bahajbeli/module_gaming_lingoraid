@@ -1,0 +1,6791 @@
+{
+  "version": 1,
+  "description": "German crossword word bank (answer + English clue)",
+  "count": 1696,
+  "words": [
+    {
+      "answer": "AFFE",
+      "clue": "Monkey, a primate animal"
+    },
+    {
+      "answer": "APFEL",
+      "clue": "Apple, a common fruit"
+    },
+    {
+      "answer": "ARBEIT",
+      "clue": "Work, labor or employment"
+    },
+    {
+      "answer": "ARM",
+      "clue": "Arm, part of the human body"
+    },
+    {
+      "answer": "ARZT",
+      "clue": "Doctor, medical professional"
+    },
+    {
+      "answer": "AUGE",
+      "clue": "Eye, organ of sight"
+    },
+    {
+      "answer": "AUTO",
+      "clue": "Car, motor vehicle"
+    },
+    {
+      "answer": "BACH",
+      "clue": "Stream, small body of flowing water"
+    },
+    {
+      "answer": "BALL",
+      "clue": "Ball, round object used in sports"
+    },
+    {
+      "answer": "BANK",
+      "clue": "Bank, financial institution or bench"
+    },
+    {
+      "answer": "BAUM",
+      "clue": "Tree, large woody plant"
+    },
+    {
+      "answer": "BERG",
+      "clue": "Mountain, large natural elevation"
+    },
+    {
+      "answer": "BIER",
+      "clue": "Beer, alcoholic beverage made from grain"
+    },
+    {
+      "answer": "BILD",
+      "clue": "Picture, image or photograph"
+    },
+    {
+      "answer": "BLATT",
+      "clue": "Leaf, flat part of a plant"
+    },
+    {
+      "answer": "BLUME",
+      "clue": "Flower, colorful part of a plant"
+    },
+    {
+      "answer": "BOOT",
+      "clue": "Boat, small watercraft"
+    },
+    {
+      "answer": "BROT",
+      "clue": "Bread, baked food made from flour"
+    },
+    {
+      "answer": "BRUDER",
+      "clue": "Brother, male sibling"
+    },
+    {
+      "answer": "BUCH",
+      "clue": "Book, written or printed work"
+    },
+    {
+      "answer": "BUS",
+      "clue": "Bus, large public transport vehicle"
+    },
+    {
+      "answer": "DAME",
+      "clue": "Lady, a woman of refinement"
+    },
+    {
+      "answer": "DORF",
+      "clue": "Village, small rural settlement"
+    },
+    {
+      "answer": "DREI",
+      "clue": "Three, the number 3"
+    },
+    {
+      "answer": "EI",
+      "clue": "Egg, oval object laid by birds"
+    },
+    {
+      "answer": "EIMER",
+      "clue": "Bucket, container for carrying liquids"
+    },
+    {
+      "answer": "EIS",
+      "clue": "Ice, frozen water or ice cream"
+    },
+    {
+      "answer": "ESEL",
+      "clue": "Donkey, a domesticated animal"
+    },
+    {
+      "answer": "FISCH",
+      "clue": "Fish, aquatic vertebrate animal"
+    },
+    {
+      "answer": "FUSS",
+      "clue": "Foot, lower part of the leg"
+    },
+    {
+      "answer": "GABEL",
+      "clue": "Fork, utensil used for eating"
+    },
+    {
+      "answer": "GARTEN",
+      "clue": "Garden, cultivated piece of land"
+    },
+    {
+      "answer": "GELD",
+      "clue": "Money, currency used for transactions"
+    },
+    {
+      "answer": "GLAS",
+      "clue": "Glass, transparent material or drinking vessel"
+    },
+    {
+      "answer": "GOLD",
+      "clue": "Gold, precious yellow metal"
+    },
+    {
+      "answer": "GROSS",
+      "clue": "Big, large in size"
+    },
+    {
+      "answer": "HAND",
+      "clue": "Hand, part of the arm below the wrist"
+    },
+    {
+      "answer": "HAUS",
+      "clue": "House, building for human habitation"
+    },
+    {
+      "answer": "HERZ",
+      "clue": "Heart, organ that pumps blood"
+    },
+    {
+      "answer": "HUND",
+      "clue": "Dog, domesticated canine animal"
+    },
+    {
+      "answer": "INSEL",
+      "clue": "Island, land surrounded by water"
+    },
+    {
+      "answer": "JAGD",
+      "clue": "Hunt, pursuit of wild animals"
+    },
+    {
+      "answer": "JAHR",
+      "clue": "Year, period of twelve months"
+    },
+    {
+      "answer": "KALT",
+      "clue": "Cold, low in temperature"
+    },
+    {
+      "answer": "KATZE",
+      "clue": "Cat, small domesticated feline"
+    },
+    {
+      "answer": "KIND",
+      "clue": "Child, young human being"
+    },
+    {
+      "answer": "KIRCHE",
+      "clue": "Church, building for Christian worship"
+    },
+    {
+      "answer": "KLEIN",
+      "clue": "Small, little in size"
+    },
+    {
+      "answer": "KNIE",
+      "clue": "Knee, joint between thigh and lower leg"
+    },
+    {
+      "answer": "KOPF",
+      "clue": "Head, upper part of the human body"
+    },
+    {
+      "answer": "KUH",
+      "clue": "Cow, female cattle"
+    },
+    {
+      "answer": "LAND",
+      "clue": "Country, nation or rural area"
+    },
+    {
+      "answer": "LICHT",
+      "clue": "Light, electromagnetic radiation visible to the eye"
+    },
+    {
+      "answer": "LIEBE",
+      "clue": "Love, deep affection for someone"
+    },
+    {
+      "answer": "LUFT",
+      "clue": "Air, invisible gaseous substance"
+    },
+    {
+      "answer": "MAUS",
+      "clue": "Mouse, small rodent"
+    },
+    {
+      "answer": "MEER",
+      "clue": "Sea, large body of salt water"
+    },
+    {
+      "answer": "MESSER",
+      "clue": "Knife, cutting instrument"
+    },
+    {
+      "answer": "MILCH",
+      "clue": "Milk, white liquid produced by mammals"
+    },
+    {
+      "answer": "MOND",
+      "clue": "Moon, natural satellite of Earth"
+    },
+    {
+      "answer": "MUTTER",
+      "clue": "Mother, female parent"
+    },
+    {
+      "answer": "NACHT",
+      "clue": "Night, time between sunset and sunrise"
+    },
+    {
+      "answer": "NASE",
+      "clue": "Nose, organ of smell"
+    },
+    {
+      "answer": "NATUR",
+      "clue": "Nature, the natural world"
+    },
+    {
+      "answer": "OFEN",
+      "clue": "Oven, heated chamber for cooking"
+    },
+    {
+      "answer": "OHR",
+      "clue": "Ear, organ of hearing"
+    },
+    {
+      "answer": "ONKEL",
+      "clue": "Uncle, brother of one's parent"
+    },
+    {
+      "answer": "PFERD",
+      "clue": "Horse, large domesticated animal"
+    },
+    {
+      "answer": "REGEN",
+      "clue": "Rain, water falling from clouds"
+    },
+    {
+      "answer": "ROSE",
+      "clue": "Rose, beautiful flowering plant with thorns"
+    },
+    {
+      "answer": "SALZ",
+      "clue": "Salt, mineral used to season food"
+    },
+    {
+      "answer": "SCHAF",
+      "clue": "Sheep, woolly farm animal"
+    },
+    {
+      "answer": "SCHIFF",
+      "clue": "Ship, large watercraft"
+    },
+    {
+      "answer": "SCHUH",
+      "clue": "Shoe, footwear"
+    },
+    {
+      "answer": "SCHWEIN",
+      "clue": "Pig, farm animal known for pork"
+    },
+    {
+      "answer": "SONNE",
+      "clue": "Sun, star at center of our solar system"
+    },
+    {
+      "answer": "STADT",
+      "clue": "City, large urban settlement"
+    },
+    {
+      "answer": "STERN",
+      "clue": "Star, luminous celestial body"
+    },
+    {
+      "answer": "STRASSE",
+      "clue": "Street, public road in a city"
+    },
+    {
+      "answer": "STUHL",
+      "clue": "Chair, seat with a back"
+    },
+    {
+      "answer": "TAG",
+      "clue": "Day, 24-hour period"
+    },
+    {
+      "answer": "TASSE",
+      "clue": "Cup, small container for drinks"
+    },
+    {
+      "answer": "TISCH",
+      "clue": "Table, flat surface on legs"
+    },
+    {
+      "answer": "TÜR",
+      "clue": "Door, movable barrier at an entrance"
+    },
+    {
+      "answer": "VATER",
+      "clue": "Father, male parent"
+    },
+    {
+      "answer": "VOGEL",
+      "clue": "Bird, feathered flying animal"
+    },
+    {
+      "answer": "WASSER",
+      "clue": "Water, clear liquid essential for life"
+    },
+    {
+      "answer": "WELT",
+      "clue": "World, the Earth and all life on it"
+    },
+    {
+      "answer": "WIND",
+      "clue": "Wind, moving air"
+    },
+    {
+      "answer": "WOLF",
+      "clue": "Wolf, wild canine predator"
+    },
+    {
+      "answer": "ZAHN",
+      "clue": "Tooth, hard structure in the mouth"
+    },
+    {
+      "answer": "ZAHL",
+      "clue": "Number, mathematical quantity"
+    },
+    {
+      "answer": "ZEIT",
+      "clue": "Time, ongoing sequence of events"
+    },
+    {
+      "answer": "ZIMMER",
+      "clue": "Room, space within a building"
+    },
+    {
+      "answer": "ZUG",
+      "clue": "Train, rail vehicle for transport"
+    },
+    {
+      "answer": "ABEND",
+      "clue": "Evening, end of the day"
+    },
+    {
+      "answer": "ADLER",
+      "clue": "Eagle, large bird of prey"
+    },
+    {
+      "answer": "ALARM",
+      "clue": "Alarm, warning signal"
+    },
+    {
+      "answer": "ALLEE",
+      "clue": "Avenue, tree-lined road"
+    },
+    {
+      "answer": "ALTAR",
+      "clue": "Altar, sacred table in a church"
+    },
+    {
+      "answer": "ANGEL",
+      "clue": "Fishing rod, tool for catching fish"
+    },
+    {
+      "answer": "ANKER",
+      "clue": "Anchor, heavy device to moor a ship"
+    },
+    {
+      "answer": "ANZUG",
+      "clue": "Suit, formal set of matching clothing"
+    },
+    {
+      "answer": "ATLAS",
+      "clue": "Atlas, book of maps"
+    },
+    {
+      "answer": "BEERE",
+      "clue": "Berry, small round fruit"
+    },
+    {
+      "answer": "BIRKE",
+      "clue": "Birch, white-barked tree"
+    },
+    {
+      "answer": "BODEN",
+      "clue": "Floor, ground surface inside a building"
+    },
+    {
+      "answer": "BRIEF",
+      "clue": "Letter, written message"
+    },
+    {
+      "answer": "BUCHT",
+      "clue": "Bay, inlet of the sea"
+    },
+    {
+      "answer": "BÜRO",
+      "clue": "Office, place of work"
+    },
+    {
+      "answer": "BUSCH",
+      "clue": "Bush, dense shrub"
+    },
+    {
+      "answer": "BUTTER",
+      "clue": "Butter, dairy product made from cream"
+    },
+    {
+      "answer": "CHAOS",
+      "clue": "Chaos, complete disorder"
+    },
+    {
+      "answer": "CHOR",
+      "clue": "Choir, group of singers"
+    },
+    {
+      "answer": "DECKE",
+      "clue": "Ceiling, upper interior surface of a room"
+    },
+    {
+      "answer": "DEPOT",
+      "clue": "Depot, storage facility"
+    },
+    {
+      "answer": "DIEB",
+      "clue": "Thief, person who steals"
+    },
+    {
+      "answer": "DRUCK",
+      "clue": "Pressure, force applied to surface"
+    },
+    {
+      "answer": "DUFT",
+      "clue": "Fragrance, pleasant smell"
+    },
+    {
+      "answer": "DUNKEL",
+      "clue": "Dark, absence of light"
+    },
+    {
+      "answer": "EBENE",
+      "clue": "Plain, flat open landscape"
+    },
+    {
+      "answer": "ECHO",
+      "clue": "Echo, sound reflection"
+    },
+    {
+      "answer": "ECKE",
+      "clue": "Corner, point where two lines meet"
+    },
+    {
+      "answer": "EICHE",
+      "clue": "Oak, large deciduous tree"
+    },
+    {
+      "answer": "EIFER",
+      "clue": "Zeal, great energy or enthusiasm"
+    },
+    {
+      "answer": "ELCH",
+      "clue": "Elk, large deer species"
+    },
+    {
+      "answer": "ELTERN",
+      "clue": "Parents, mother and father"
+    },
+    {
+      "answer": "ENGEL",
+      "clue": "Angel, spiritual being in religion"
+    },
+    {
+      "answer": "ENKEL",
+      "clue": "Grandchild, child of one's child"
+    },
+    {
+      "answer": "ERNTE",
+      "clue": "Harvest, gathering of ripe crops"
+    },
+    {
+      "answer": "FACKEL",
+      "clue": "Torch, stick with a flame at the top"
+    },
+    {
+      "answer": "FAHNE",
+      "clue": "Flag, piece of cloth used as a symbol"
+    },
+    {
+      "answer": "FAHRT",
+      "clue": "Journey, act of traveling"
+    },
+    {
+      "answer": "FALKE",
+      "clue": "Falcon, bird of prey"
+    },
+    {
+      "answer": "FALLE",
+      "clue": "Trap, device for catching animals"
+    },
+    {
+      "answer": "FARBE",
+      "clue": "Color, visual property of objects"
+    },
+    {
+      "answer": "FEDER",
+      "clue": "Feather, light structure covering birds"
+    },
+    {
+      "answer": "FEIER",
+      "clue": "Celebration, festive event"
+    },
+    {
+      "answer": "FEIND",
+      "clue": "Enemy, person who is hostile"
+    },
+    {
+      "answer": "FENSTER",
+      "clue": "Window, glass-covered opening in a wall"
+    },
+    {
+      "answer": "FERNE",
+      "clue": "Distance, far away"
+    },
+    {
+      "answer": "FEST",
+      "clue": "Festival, celebration or party"
+    },
+    {
+      "answer": "FEUER",
+      "clue": "Fire, combustion producing heat and light"
+    },
+    {
+      "answer": "FIEBER",
+      "clue": "Fever, abnormally high body temperature"
+    },
+    {
+      "answer": "FLUSS",
+      "clue": "River, large natural stream of water"
+    },
+    {
+      "answer": "FLUT",
+      "clue": "Flood, overflow of water onto land"
+    },
+    {
+      "answer": "FORST",
+      "clue": "Forest, large area covered with trees"
+    },
+    {
+      "answer": "FRAU",
+      "clue": "Woman, adult female human"
+    },
+    {
+      "answer": "FREI",
+      "clue": "Free, not under control"
+    },
+    {
+      "answer": "FREUDE",
+      "clue": "Joy, feeling of great happiness"
+    },
+    {
+      "answer": "FREUND",
+      "clue": "Friend, person you like and trust"
+    },
+    {
+      "answer": "FROST",
+      "clue": "Frost, thin layer of ice crystals"
+    },
+    {
+      "answer": "FRUCHT",
+      "clue": "Fruit, sweet product of a plant"
+    },
+    {
+      "answer": "FUCHS",
+      "clue": "Fox, sly reddish wild animal"
+    },
+    {
+      "answer": "GAUL",
+      "clue": "Horse, old term for a horse"
+    },
+    {
+      "answer": "GEIST",
+      "clue": "Ghost, spirit of a dead person"
+    },
+    {
+      "answer": "GIPFEL",
+      "clue": "Summit, highest point of a mountain"
+    },
+    {
+      "answer": "GLAUBE",
+      "clue": "Faith, belief in something"
+    },
+    {
+      "answer": "GLEIS",
+      "clue": "Rail, track for trains"
+    },
+    {
+      "answer": "GLÜCK",
+      "clue": "Luck, chance of positive outcome"
+    },
+    {
+      "answer": "GRENZE",
+      "clue": "Border, boundary between territories"
+    },
+    {
+      "answer": "GRUBE",
+      "clue": "Pit, hole in the ground"
+    },
+    {
+      "answer": "GRUND",
+      "clue": "Reason, cause for an action"
+    },
+    {
+      "answer": "GRUPPE",
+      "clue": "Group, number of people together"
+    },
+    {
+      "answer": "GURT",
+      "clue": "Belt, strap worn around the waist"
+    },
+    {
+      "answer": "HAFEN",
+      "clue": "Harbor, sheltered port for ships"
+    },
+    {
+      "answer": "HAHN",
+      "clue": "Rooster, adult male chicken"
+    },
+    {
+      "answer": "HAKEN",
+      "clue": "Hook, curved fastening device"
+    },
+    {
+      "answer": "HALLE",
+      "clue": "Hall, large room or building"
+    },
+    {
+      "answer": "HAMSTER",
+      "clue": "Hamster, small furry rodent"
+    },
+    {
+      "answer": "HANG",
+      "clue": "Slope, inclined piece of ground"
+    },
+    {
+      "answer": "HARFE",
+      "clue": "Harp, stringed musical instrument"
+    },
+    {
+      "answer": "HASE",
+      "clue": "Hare, animal similar to a rabbit"
+    },
+    {
+      "answer": "HAUT",
+      "clue": "Skin, outer covering of the body"
+    },
+    {
+      "answer": "HEBEL",
+      "clue": "Lever, rigid bar used to lift objects"
+    },
+    {
+      "answer": "HEER",
+      "clue": "Army, large organized military force"
+    },
+    {
+      "answer": "HEIMAT",
+      "clue": "Homeland, one's native country"
+    },
+    {
+      "answer": "HELM",
+      "clue": "Helmet, protective head covering"
+    },
+    {
+      "answer": "HEMD",
+      "clue": "Shirt, garment worn on upper body"
+    },
+    {
+      "answer": "HERBST",
+      "clue": "Autumn, season after summer"
+    },
+    {
+      "answer": "HERDE",
+      "clue": "Herd, group of animals"
+    },
+    {
+      "answer": "HERING",
+      "clue": "Herring, type of edible fish"
+    },
+    {
+      "answer": "HIMMEL",
+      "clue": "Sky, the expanse above the Earth"
+    },
+    {
+      "answer": "HIRSCH",
+      "clue": "Deer, graceful woodland animal"
+    },
+    {
+      "answer": "HIRTE",
+      "clue": "Shepherd, person who tends sheep"
+    },
+    {
+      "answer": "HOCHZEIT",
+      "clue": "Wedding, marriage ceremony"
+    },
+    {
+      "answer": "HOF",
+      "clue": "Courtyard, enclosed area beside a building"
+    },
+    {
+      "answer": "HÖHLE",
+      "clue": "Cave, natural underground chamber"
+    },
+    {
+      "answer": "HOLZ",
+      "clue": "Wood, hard material from trees"
+    },
+    {
+      "answer": "HONIG",
+      "clue": "Honey, sweet substance made by bees"
+    },
+    {
+      "answer": "HORN",
+      "clue": "Horn, hard projection on an animal"
+    },
+    {
+      "answer": "HÜGEL",
+      "clue": "Hill, raised area of land"
+    },
+    {
+      "answer": "HUNGER",
+      "clue": "Hunger, feeling of needing food"
+    },
+    {
+      "answer": "HUHN",
+      "clue": "Chicken, common farm bird"
+    },
+    {
+      "answer": "HÜTTE",
+      "clue": "Hut, small simple shelter"
+    },
+    {
+      "answer": "IGEL",
+      "clue": "Hedgehog, spiny mammal"
+    },
+    {
+      "answer": "IMKER",
+      "clue": "Beekeeper, person who keeps bees"
+    },
+    {
+      "answer": "INSEKT",
+      "clue": "Insect, small six-legged arthropod"
+    },
+    {
+      "answer": "JACHT",
+      "clue": "Yacht, sailing or motor vessel"
+    },
+    {
+      "answer": "JACKE",
+      "clue": "Jacket, short coat"
+    },
+    {
+      "answer": "JUGEND",
+      "clue": "Youth, period of being young"
+    },
+    {
+      "answer": "JUNGE",
+      "clue": "Boy, young male person"
+    },
+    {
+      "answer": "KÄFIG",
+      "clue": "Cage, enclosure for animals"
+    },
+    {
+      "answer": "KAMEL",
+      "clue": "Camel, desert animal with humps"
+    },
+    {
+      "answer": "KAMPF",
+      "clue": "Fight, struggle or battle"
+    },
+    {
+      "answer": "KANAL",
+      "clue": "Canal, man-made waterway"
+    },
+    {
+      "answer": "KANNE",
+      "clue": "Pitcher, container for pouring liquids"
+    },
+    {
+      "answer": "KARTE",
+      "clue": "Card or map, flat rectangular piece"
+    },
+    {
+      "answer": "KELLER",
+      "clue": "Cellar, underground room"
+    },
+    {
+      "answer": "KERZE",
+      "clue": "Candle, wax stick burned for light"
+    },
+    {
+      "answer": "KETTE",
+      "clue": "Chain, series of connected links"
+    },
+    {
+      "answer": "KIEFER",
+      "clue": "Pine, evergreen coniferous tree"
+    },
+    {
+      "answer": "KIRSCHE",
+      "clue": "Cherry, small red fruit"
+    },
+    {
+      "answer": "KISSEN",
+      "clue": "Pillow, cushion for sleeping"
+    },
+    {
+      "answer": "KLEID",
+      "clue": "Dress, garment worn by women"
+    },
+    {
+      "answer": "KLIMA",
+      "clue": "Climate, weather conditions of a region"
+    },
+    {
+      "answer": "KNOCHEN",
+      "clue": "Bone, hard connective tissue in the body"
+    },
+    {
+      "answer": "KOHLE",
+      "clue": "Coal, black fossil fuel"
+    },
+    {
+      "answer": "KOHL",
+      "clue": "Cabbage, leafy green vegetable"
+    },
+    {
+      "answer": "KORB",
+      "clue": "Basket, container made from woven material"
+    },
+    {
+      "answer": "KORN",
+      "clue": "Grain, seed of a cereal plant"
+    },
+    {
+      "answer": "KRAFT",
+      "clue": "Strength, physical power"
+    },
+    {
+      "answer": "KREIS",
+      "clue": "Circle, round geometric shape"
+    },
+    {
+      "answer": "KRIEG",
+      "clue": "War, armed conflict between nations"
+    },
+    {
+      "answer": "KRONE",
+      "clue": "Crown, ornamental headpiece of royalty"
+    },
+    {
+      "answer": "KRUG",
+      "clue": "Jug, container with a handle for liquids"
+    },
+    {
+      "answer": "KÜCHE",
+      "clue": "Kitchen, room for cooking food"
+    },
+    {
+      "answer": "KUGEL",
+      "clue": "Ball, spherical object"
+    },
+    {
+      "answer": "KUNST",
+      "clue": "Art, creative expression"
+    },
+    {
+      "answer": "KUPFER",
+      "clue": "Copper, reddish-brown metal"
+    },
+    {
+      "answer": "KURVE",
+      "clue": "Curve, smooth bend in a line or road"
+    },
+    {
+      "answer": "LACHS",
+      "clue": "Salmon, pink-fleshed fish"
+    },
+    {
+      "answer": "LAMPE",
+      "clue": "Lamp, device for producing light"
+    },
+    {
+      "answer": "LAUB",
+      "clue": "Foliage, leaves of a tree"
+    },
+    {
+      "answer": "LEBER",
+      "clue": "Liver, organ that filters blood"
+    },
+    {
+      "answer": "LEITER",
+      "clue": "Ladder, structure for climbing"
+    },
+    {
+      "answer": "LERCHE",
+      "clue": "Lark, small songbird"
+    },
+    {
+      "answer": "LINDE",
+      "clue": "Linden, large deciduous tree"
+    },
+    {
+      "answer": "LISTE",
+      "clue": "List, series of items written down"
+    },
+    {
+      "answer": "LOCH",
+      "clue": "Hole, opening in a surface"
+    },
+    {
+      "answer": "LÖWE",
+      "clue": "Lion, large wild cat, king of beasts"
+    },
+    {
+      "answer": "LUNGE",
+      "clue": "Lung, organ for breathing"
+    },
+    {
+      "answer": "MACHT",
+      "clue": "Power, ability to influence or control"
+    },
+    {
+      "answer": "MANN",
+      "clue": "Man, adult male human"
+    },
+    {
+      "answer": "MANTEL",
+      "clue": "Coat, long outer garment"
+    },
+    {
+      "answer": "MARKT",
+      "clue": "Market, place where goods are traded"
+    },
+    {
+      "answer": "MASSE",
+      "clue": "Mass, quantity of matter"
+    },
+    {
+      "answer": "MAUER",
+      "clue": "Wall, vertical structure of stone or brick"
+    },
+    {
+      "answer": "MEHL",
+      "clue": "Flour, powder from grinding grain"
+    },
+    {
+      "answer": "MEISTER",
+      "clue": "Master, person with high skill"
+    },
+    {
+      "answer": "METALL",
+      "clue": "Metal, hard shiny material"
+    },
+    {
+      "answer": "MIETE",
+      "clue": "Rent, payment for use of property"
+    },
+    {
+      "answer": "MINE",
+      "clue": "Mine, underground excavation for minerals"
+    },
+    {
+      "answer": "MORGEN",
+      "clue": "Morning, early part of the day"
+    },
+    {
+      "answer": "MÜCKE",
+      "clue": "Mosquito, small biting insect"
+    },
+    {
+      "answer": "MÜHLE",
+      "clue": "Mill, building for grinding grain"
+    },
+    {
+      "answer": "MUSCHEL",
+      "clue": "Shell, hard outer casing of mollusks"
+    },
+    {
+      "answer": "MUSIK",
+      "clue": "Music, art of organized sound"
+    },
+    {
+      "answer": "NAGEL",
+      "clue": "Nail, metal spike for joining wood"
+    },
+    {
+      "answer": "NEBEL",
+      "clue": "Fog, thick mist reducing visibility"
+    },
+    {
+      "answer": "NETZ",
+      "clue": "Net, mesh of interconnected material"
+    },
+    {
+      "answer": "NORD",
+      "clue": "North, direction toward the North Pole"
+    },
+    {
+      "answer": "NOTIZ",
+      "clue": "Note, brief written record"
+    },
+    {
+      "answer": "NUSS",
+      "clue": "Nut, hard-shelled seed of a plant"
+    },
+    {
+      "answer": "OBER",
+      "clue": "Waiter, person who serves in a restaurant"
+    },
+    {
+      "answer": "OBST",
+      "clue": "Fruit, sweet edible produce"
+    },
+    {
+      "answer": "OPER",
+      "clue": "Opera, musical theatrical performance"
+    },
+    {
+      "answer": "ORDEN",
+      "clue": "Order, honor or medal awarded"
+    },
+    {
+      "answer": "ORT",
+      "clue": "Place, specific location"
+    },
+    {
+      "answer": "PALME",
+      "clue": "Palm tree, tropical tree with fan-like leaves"
+    },
+    {
+      "answer": "PAPIER",
+      "clue": "Paper, thin flat material for writing"
+    },
+    {
+      "answer": "PARK",
+      "clue": "Park, public green space"
+    },
+    {
+      "answer": "PERLE",
+      "clue": "Pearl, gem formed inside an oyster"
+    },
+    {
+      "answer": "PILOT",
+      "clue": "Pilot, person who flies an aircraft"
+    },
+    {
+      "answer": "PILZ",
+      "clue": "Mushroom, fungal fruiting body"
+    },
+    {
+      "answer": "PLAN",
+      "clue": "Plan, scheme for doing something"
+    },
+    {
+      "answer": "PLATZ",
+      "clue": "Square, open public area"
+    },
+    {
+      "answer": "PFEIFE",
+      "clue": "Pipe, tube for carrying fluid or smoking"
+    },
+    {
+      "answer": "PFEIL",
+      "clue": "Arrow, projectile shot from a bow"
+    },
+    {
+      "answer": "PFLUG",
+      "clue": "Plow, farm tool for turning soil"
+    },
+    {
+      "answer": "PFLANZE",
+      "clue": "Plant, living organism that grows in soil"
+    },
+    {
+      "answer": "PORTO",
+      "clue": "Postage, fee for mailing a letter"
+    },
+    {
+      "answer": "PREIS",
+      "clue": "Price, cost of something"
+    },
+    {
+      "answer": "PROBE",
+      "clue": "Rehearsal, practice performance"
+    },
+    {
+      "answer": "PUMPE",
+      "clue": "Pump, device for moving fluids"
+    },
+    {
+      "answer": "PUNKT",
+      "clue": "Point, dot or specific location"
+    },
+    {
+      "answer": "QUAL",
+      "clue": "Agony, intense pain or suffering"
+    },
+    {
+      "answer": "RAUCH",
+      "clue": "Smoke, visible vapor from fire"
+    },
+    {
+      "answer": "RAUM",
+      "clue": "Space, empty area or room"
+    },
+    {
+      "answer": "REICH",
+      "clue": "Empire, group of states under one ruler"
+    },
+    {
+      "answer": "REISE",
+      "clue": "Journey, act of traveling"
+    },
+    {
+      "answer": "RENTE",
+      "clue": "Pension, retirement income"
+    },
+    {
+      "answer": "RING",
+      "clue": "Ring, circular band worn on finger"
+    },
+    {
+      "answer": "RITTER",
+      "clue": "Knight, armored medieval warrior"
+    },
+    {
+      "answer": "ROCK",
+      "clue": "Skirt, garment hanging from waist"
+    },
+    {
+      "answer": "ROHR",
+      "clue": "Pipe, tube for carrying fluid"
+    },
+    {
+      "answer": "ROLLE",
+      "clue": "Role, function performed by someone"
+    },
+    {
+      "answer": "RUDER",
+      "clue": "Oar, pole used to row a boat"
+    },
+    {
+      "answer": "RUHE",
+      "clue": "Rest, peace and quiet"
+    },
+    {
+      "answer": "SAND",
+      "clue": "Sand, granular material from crushed rocks"
+    },
+    {
+      "answer": "SARG",
+      "clue": "Coffin, box for burying a dead person"
+    },
+    {
+      "answer": "SCHATZ",
+      "clue": "Treasure, valuable collection"
+    },
+    {
+      "answer": "SCHEUNE",
+      "clue": "Barn, large farm building"
+    },
+    {
+      "answer": "SCHILD",
+      "clue": "Shield, protective armor piece"
+    },
+    {
+      "answer": "SCHLOSS",
+      "clue": "Castle, large fortified building"
+    },
+    {
+      "answer": "SCHMERZ",
+      "clue": "Pain, unpleasant physical sensation"
+    },
+    {
+      "answer": "SCHNEE",
+      "clue": "Snow, frozen precipitation"
+    },
+    {
+      "answer": "SCHULE",
+      "clue": "School, institution for education"
+    },
+    {
+      "answer": "SEELE",
+      "clue": "Soul, spiritual part of a person"
+    },
+    {
+      "answer": "SEIL",
+      "clue": "Rope, thick twisted cord"
+    },
+    {
+      "answer": "SOMMER",
+      "clue": "Summer, warmest season of the year"
+    },
+    {
+      "answer": "SPIEGEL",
+      "clue": "Mirror, reflective surface"
+    },
+    {
+      "answer": "SPINNE",
+      "clue": "Spider, eight-legged arachnid"
+    },
+    {
+      "answer": "STAHL",
+      "clue": "Steel, strong alloy of iron"
+    },
+    {
+      "answer": "STAMM",
+      "clue": "Tribe, social group of people"
+    },
+    {
+      "answer": "STANGE",
+      "clue": "Rod, straight thin bar"
+    },
+    {
+      "answer": "STIEFEL",
+      "clue": "Boot, footwear covering the ankle"
+    },
+    {
+      "answer": "STIFT",
+      "clue": "Pencil, writing instrument"
+    },
+    {
+      "answer": "STRAHL",
+      "clue": "Ray, beam of light or radiation"
+    },
+    {
+      "answer": "STRAND",
+      "clue": "Beach, sandy shore beside water"
+    },
+    {
+      "answer": "STROH",
+      "clue": "Straw, dried plant stalks"
+    },
+    {
+      "answer": "STURM",
+      "clue": "Storm, violent weather"
+    },
+    {
+      "answer": "SUPPE",
+      "clue": "Soup, liquid food"
+    },
+    {
+      "answer": "TANNE",
+      "clue": "Fir tree, evergreen conifer"
+    },
+    {
+      "answer": "TAL",
+      "clue": "Valley, low area between hills"
+    },
+    {
+      "answer": "TAUBE",
+      "clue": "Dove, symbol of peace and bird"
+    },
+    {
+      "answer": "TEMPEL",
+      "clue": "Temple, place of religious worship"
+    },
+    {
+      "answer": "TIGER",
+      "clue": "Tiger, large striped wild cat"
+    },
+    {
+      "answer": "TINTE",
+      "clue": "Ink, colored fluid for writing"
+    },
+    {
+      "answer": "TOPF",
+      "clue": "Pot, round container for cooking"
+    },
+    {
+      "answer": "TRAUM",
+      "clue": "Dream, images experienced during sleep"
+    },
+    {
+      "answer": "TREPPE",
+      "clue": "Staircase, series of steps"
+    },
+    {
+      "answer": "TROPFEN",
+      "clue": "Drop, small amount of liquid"
+    },
+    {
+      "answer": "TUGEND",
+      "clue": "Virtue, moral excellence"
+    },
+    {
+      "answer": "TUNNEL",
+      "clue": "Tunnel, underground passage"
+    },
+    {
+      "answer": "TURM",
+      "clue": "Tower, tall narrow structure"
+    },
+    {
+      "answer": "UFER",
+      "clue": "Shore, land at edge of water"
+    },
+    {
+      "answer": "VASE",
+      "clue": "Vase, decorative container for flowers"
+    },
+    {
+      "answer": "VEREIN",
+      "clue": "Club, organized group of people"
+    },
+    {
+      "answer": "VIEH",
+      "clue": "Cattle, farm animals collectively"
+    },
+    {
+      "answer": "VORHANG",
+      "clue": "Curtain, fabric hung to cover a window"
+    },
+    {
+      "answer": "WABE",
+      "clue": "Honeycomb, wax structure made by bees"
+    },
+    {
+      "answer": "WAFFE",
+      "clue": "Weapon, instrument used in combat"
+    },
+    {
+      "answer": "WAGEN",
+      "clue": "Wagon, wheeled vehicle"
+    },
+    {
+      "answer": "WALD",
+      "clue": "Forest, large wooded area"
+    },
+    {
+      "answer": "WELLE",
+      "clue": "Wave, ridge on the surface of water"
+    },
+    {
+      "answer": "WINTER",
+      "clue": "Winter, coldest season of the year"
+    },
+    {
+      "answer": "WIESE",
+      "clue": "Meadow, grassy open field"
+    },
+    {
+      "answer": "WOCHE",
+      "clue": "Week, period of seven days"
+    },
+    {
+      "answer": "WOLKE",
+      "clue": "Cloud, visible mass of water droplets in sky"
+    },
+    {
+      "answer": "WÜSTE",
+      "clue": "Desert, dry barren region"
+    },
+    {
+      "answer": "WURM",
+      "clue": "Worm, legless creature living in soil"
+    },
+    {
+      "answer": "WURZEL",
+      "clue": "Root, part of a plant anchored in soil"
+    },
+    {
+      "answer": "ZAUN",
+      "clue": "Fence, barrier enclosing an area"
+    },
+    {
+      "answer": "ZEIGER",
+      "clue": "Pointer, indicator on a dial"
+    },
+    {
+      "answer": "ZELT",
+      "clue": "Tent, portable canvas shelter"
+    },
+    {
+      "answer": "ZIEGE",
+      "clue": "Goat, horned farm animal"
+    },
+    {
+      "answer": "ZIEGEL",
+      "clue": "Brick, block for building walls"
+    },
+    {
+      "answer": "ZIEL",
+      "clue": "Goal, objective to achieve"
+    },
+    {
+      "answer": "ZOO",
+      "clue": "Zoo, place where wild animals are kept"
+    },
+    {
+      "answer": "ZUCKER",
+      "clue": "Sugar, sweet crystalline substance"
+    },
+    {
+      "answer": "ZUKUNFT",
+      "clue": "Future, time that is yet to come"
+    },
+    {
+      "answer": "ABENTEUER",
+      "clue": "Adventure, exciting experience"
+    },
+    {
+      "answer": "ACHSE",
+      "clue": "Axle, shaft on which wheels rotate"
+    },
+    {
+      "answer": "ACKER",
+      "clue": "Field, cultivated farmland"
+    },
+    {
+      "answer": "ADRESSE",
+      "clue": "Address, location of a building"
+    },
+    {
+      "answer": "AGAVE",
+      "clue": "Agave, spiky desert plant"
+    },
+    {
+      "answer": "AHNEN",
+      "clue": "Ancestors, people from whom one is descended"
+    },
+    {
+      "answer": "AHORN",
+      "clue": "Maple, tree known for its syrup"
+    },
+    {
+      "answer": "AKADEMIE",
+      "clue": "Academy, institution of learning"
+    },
+    {
+      "answer": "AKTE",
+      "clue": "File, folder of documents"
+    },
+    {
+      "answer": "AKZENT",
+      "clue": "Accent, distinctive pronunciation"
+    },
+    {
+      "answer": "ALGEN",
+      "clue": "Algae, simple aquatic organisms"
+    },
+    {
+      "answer": "ALKOHOL",
+      "clue": "Alcohol, intoxicating liquid substance"
+    },
+    {
+      "answer": "AMEISE",
+      "clue": "Ant, small industrious insect"
+    },
+    {
+      "answer": "AMPEL",
+      "clue": "Traffic light, signal for road traffic"
+    },
+    {
+      "answer": "ANANAS",
+      "clue": "Pineapple, tropical spiky fruit"
+    },
+    {
+      "answer": "ANTENNE",
+      "clue": "Antenna, device for receiving signals"
+    },
+    {
+      "answer": "APOTHEKE",
+      "clue": "Pharmacy, shop selling medicines"
+    },
+    {
+      "answer": "APRIL",
+      "clue": "April, fourth month of the year"
+    },
+    {
+      "answer": "ARCHIV",
+      "clue": "Archive, collection of historical records"
+    },
+    {
+      "answer": "ARENA",
+      "clue": "Arena, large venue for sports events"
+    },
+    {
+      "answer": "ASCHE",
+      "clue": "Ash, residue left after burning"
+    },
+    {
+      "answer": "ATEM",
+      "clue": "Breath, air inhaled and exhaled"
+    },
+    {
+      "answer": "AUGUST",
+      "clue": "August, eighth month of the year"
+    },
+    {
+      "answer": "AUSTER",
+      "clue": "Oyster, shellfish producing pearls"
+    },
+    {
+      "answer": "AVOCADO",
+      "clue": "Avocado, green buttery fruit"
+    },
+    {
+      "answer": "BACKEN",
+      "clue": "Baking, cooking food in an oven"
+    },
+    {
+      "answer": "BAGGER",
+      "clue": "Excavator, large digging machine"
+    },
+    {
+      "answer": "BALKON",
+      "clue": "Balcony, platform projecting from a building"
+    },
+    {
+      "answer": "BANANE",
+      "clue": "Banana, yellow curved tropical fruit"
+    },
+    {
+      "answer": "BARON",
+      "clue": "Baron, low-ranking nobleman"
+    },
+    {
+      "answer": "BATTERIE",
+      "clue": "Battery, device storing electrical energy"
+    },
+    {
+      "answer": "BECHER",
+      "clue": "Beaker, cylindrical drinking glass"
+    },
+    {
+      "answer": "BETON",
+      "clue": "Concrete, building material from cement"
+    },
+    {
+      "answer": "BENZIN",
+      "clue": "Gasoline, fuel for vehicles"
+    },
+    {
+      "answer": "BIBLIOTHEK",
+      "clue": "Library, place where books are kept"
+    },
+    {
+      "answer": "BIRNE",
+      "clue": "Pear, sweet juicy fruit"
+    },
+    {
+      "answer": "BLITZ",
+      "clue": "Lightning, flash of light in a storm"
+    },
+    {
+      "answer": "BLEI",
+      "clue": "Lead, heavy gray metal"
+    },
+    {
+      "answer": "BLEISTIFT",
+      "clue": "Pencil, writing instrument with graphite"
+    },
+    {
+      "answer": "BLUT",
+      "clue": "Blood, red fluid circulating in the body"
+    },
+    {
+      "answer": "BOJE",
+      "clue": "Buoy, floating marker in water"
+    },
+    {
+      "answer": "BOTANIK",
+      "clue": "Botany, science of plant life"
+    },
+    {
+      "answer": "BRATEN",
+      "clue": "Roast, meat cooked in an oven"
+    },
+    {
+      "answer": "BRAUCH",
+      "clue": "Custom, traditional practice"
+    },
+    {
+      "answer": "BRAÜREI",
+      "clue": "Brewery, place where beer is made"
+    },
+    {
+      "answer": "BRÜCKE",
+      "clue": "Bridge, structure spanning a gap"
+    },
+    {
+      "answer": "BRUNNEN",
+      "clue": "Well, deep hole to access water"
+    },
+    {
+      "answer": "BÜHNE",
+      "clue": "Stage, platform for performances"
+    },
+    {
+      "answer": "BULLE",
+      "clue": "Bull, male cattle"
+    },
+    {
+      "answer": "BURG",
+      "clue": "Fortress, strongly built castle"
+    },
+    {
+      "answer": "CAFE",
+      "clue": "Cafe, small restaurant for coffee"
+    },
+    {
+      "answer": "CAMPING",
+      "clue": "Camping, staying outdoors in a tent"
+    },
+    {
+      "answer": "CHEMIE",
+      "clue": "Chemistry, science of substances"
+    },
+    {
+      "answer": "CHIRURG",
+      "clue": "Surgeon, doctor performing operations"
+    },
+    {
+      "answer": "DACHS",
+      "clue": "Badger, nocturnal burrowing mammal"
+    },
+    {
+      "answer": "DACH",
+      "clue": "Roof, covering of a building"
+    },
+    {
+      "answer": "DAMM",
+      "clue": "Dam, barrier holding back water"
+    },
+    {
+      "answer": "DATEN",
+      "clue": "Data, facts and information"
+    },
+    {
+      "answer": "DATUM",
+      "clue": "Date, specific day in the calendar"
+    },
+    {
+      "answer": "DEICH",
+      "clue": "Dike, embankment against flooding"
+    },
+    {
+      "answer": "DEMOKRATIE",
+      "clue": "Democracy, government by the people"
+    },
+    {
+      "answer": "DIAMANT",
+      "clue": "Diamond, precious transparent gemstone"
+    },
+    {
+      "answer": "DIENST",
+      "clue": "Service, work done for others"
+    },
+    {
+      "answer": "DIENSTAG",
+      "clue": "Tuesday, second day of the working week"
+    },
+    {
+      "answer": "DONNER",
+      "clue": "Thunder, loud sound during storm"
+    },
+    {
+      "answer": "DONNERSTAG",
+      "clue": "Thursday, fourth weekday"
+    },
+    {
+      "answer": "DRAHT",
+      "clue": "Wire, thin flexible metal strand"
+    },
+    {
+      "answer": "DRACHEN",
+      "clue": "Dragon, mythical fire-breathing creature"
+    },
+    {
+      "answer": "DREIECK",
+      "clue": "Triangle, three-sided geometric shape"
+    },
+    {
+      "answer": "DUSCHE",
+      "clue": "Shower, device for washing with water spray"
+    },
+    {
+      "answer": "EBERESCHE",
+      "clue": "Rowan, mountain ash tree with red berries"
+    },
+    {
+      "answer": "EICHHÖRNCHEN",
+      "clue": "Squirrel, bushy-tailed tree rodent"
+    },
+    {
+      "answer": "EINGANG",
+      "clue": "Entrance, way into a place"
+    },
+    {
+      "answer": "EISENBAHN",
+      "clue": "Railway, track system for trains"
+    },
+    {
+      "answer": "ELEFANT",
+      "clue": "Elephant, largest land animal with a trunk"
+    },
+    {
+      "answer": "ENERGIE",
+      "clue": "Energy, capacity for doing work"
+    },
+    {
+      "answer": "ERINNERUNG",
+      "clue": "Memory, ability to recall past events"
+    },
+    {
+      "answer": "ERLAUBNIS",
+      "clue": "Permission, authorization to do something"
+    },
+    {
+      "answer": "EULE",
+      "clue": "Owl, nocturnal bird of prey"
+    },
+    {
+      "answer": "FABRIK",
+      "clue": "Factory, building for manufacturing"
+    },
+    {
+      "answer": "FAHRPLAN",
+      "clue": "Timetable, schedule of transport times"
+    },
+    {
+      "answer": "FALTER",
+      "clue": "Butterfly, colorful winged insect"
+    },
+    {
+      "answer": "FAMILIE",
+      "clue": "Family, group of related people"
+    },
+    {
+      "answer": "FEHLER",
+      "clue": "Error, mistake or fault"
+    },
+    {
+      "answer": "FELS",
+      "clue": "Rock, hard mineral material"
+    },
+    {
+      "answer": "FERKEL",
+      "clue": "Piglet, young pig"
+    },
+    {
+      "answer": "FERNSEHEN",
+      "clue": "Television, device for viewing broadcasts"
+    },
+    {
+      "answer": "FERSE",
+      "clue": "Heel, back part of the foot"
+    },
+    {
+      "answer": "FIGUR",
+      "clue": "Figure, shape or form"
+    },
+    {
+      "answer": "FLEISCH",
+      "clue": "Meat, animal flesh used as food"
+    },
+    {
+      "answer": "FLIEGE",
+      "clue": "Fly, common flying insect"
+    },
+    {
+      "answer": "FLUGZEUG",
+      "clue": "Airplane, aircraft with fixed wings"
+    },
+    {
+      "answer": "FORELLE",
+      "clue": "Trout, freshwater fish"
+    },
+    {
+      "answer": "FOTO",
+      "clue": "Photo, image captured by a camera"
+    },
+    {
+      "answer": "FRAGE",
+      "clue": "Question, sentence seeking an answer"
+    },
+    {
+      "answer": "FREIHEIT",
+      "clue": "Freedom, state of being free"
+    },
+    {
+      "answer": "FRIEDEN",
+      "clue": "Peace, freedom from conflict"
+    },
+    {
+      "answer": "FROSCH",
+      "clue": "Frog, amphibian that jumps"
+    },
+    {
+      "answer": "FRÜHLING",
+      "clue": "Spring, season when flowers bloom"
+    },
+    {
+      "answer": "FUNKEN",
+      "clue": "Spark, tiny particle of fire"
+    },
+    {
+      "answer": "GANS",
+      "clue": "Goose, large waterbird"
+    },
+    {
+      "answer": "GEBÄUDE",
+      "clue": "Building, structure with walls and roof"
+    },
+    {
+      "answer": "GEDULD",
+      "clue": "Patience, ability to wait calmly"
+    },
+    {
+      "answer": "GEFAHR",
+      "clue": "Danger, risk of harm"
+    },
+    {
+      "answer": "GEGEND",
+      "clue": "Region, area or district"
+    },
+    {
+      "answer": "GEHEIMNIS",
+      "clue": "Secret, something kept hidden"
+    },
+    {
+      "answer": "GEIGE",
+      "clue": "Violin, stringed musical instrument"
+    },
+    {
+      "answer": "GEMEINSCHAFT",
+      "clue": "Community, group sharing common interests"
+    },
+    {
+      "answer": "GEPARD",
+      "clue": "Cheetah, fastest land animal"
+    },
+    {
+      "answer": "GESCHENK",
+      "clue": "Gift, present given to someone"
+    },
+    {
+      "answer": "GESCHICHTE",
+      "clue": "History, study of past events"
+    },
+    {
+      "answer": "GESELLSCHAFT",
+      "clue": "Society, organized community"
+    },
+    {
+      "answer": "GESETZ",
+      "clue": "Law, rule enforced by authority"
+    },
+    {
+      "answer": "GESUNDHEIT",
+      "clue": "Health, state of being well"
+    },
+    {
+      "answer": "GETREIDE",
+      "clue": "Grain, cereal crops like wheat and barley"
+    },
+    {
+      "answer": "GIRAFFE",
+      "clue": "Giraffe, tallest living animal with long neck"
+    },
+    {
+      "answer": "GLETSCHER",
+      "clue": "Glacier, slow-moving mass of ice"
+    },
+    {
+      "answer": "GLOCKE",
+      "clue": "Bell, hollow metal object that rings"
+    },
+    {
+      "answer": "GORILLA",
+      "clue": "Gorilla, largest ape species"
+    },
+    {
+      "answer": "GRABEN",
+      "clue": "Ditch, narrow channel dug in ground"
+    },
+    {
+      "answer": "GRAS",
+      "clue": "Grass, green ground-covering plant"
+    },
+    {
+      "answer": "GRILLE",
+      "clue": "Cricket, chirping insect"
+    },
+    {
+      "answer": "GYMNASIUM",
+      "clue": "Grammar school, German secondary school"
+    },
+    {
+      "answer": "HABICHT",
+      "clue": "Hawk, bird of prey"
+    },
+    {
+      "answer": "HAMMER",
+      "clue": "Hammer, tool for driving nails"
+    },
+    {
+      "answer": "HANDSCHUH",
+      "clue": "Glove, covering for the hand"
+    },
+    {
+      "answer": "HANDTUCH",
+      "clue": "Towel, absorbent cloth for drying"
+    },
+    {
+      "answer": "HASELNUSS",
+      "clue": "Hazelnut, edible nut of the hazel tree"
+    },
+    {
+      "answer": "HAUPTSTADT",
+      "clue": "Capital city, seat of government"
+    },
+    {
+      "answer": "HECHT",
+      "clue": "Pike, predatory freshwater fish"
+    },
+    {
+      "answer": "HEILUNG",
+      "clue": "Healing, process of becoming healthy"
+    },
+    {
+      "answer": "HERR",
+      "clue": "Mister, title for adult men"
+    },
+    {
+      "answer": "HEXE",
+      "clue": "Witch, person said to practice magic"
+    },
+    {
+      "answer": "HORIZONT",
+      "clue": "Horizon, line where sky meets earth"
+    },
+    {
+      "answer": "HORNISSE",
+      "clue": "Hornet, large wasp-like insect"
+    },
+    {
+      "answer": "HOTEL",
+      "clue": "Hotel, establishment providing lodging"
+    },
+    {
+      "answer": "INTERNET",
+      "clue": "Internet, global computer network"
+    },
+    {
+      "answer": "JAGUAR",
+      "clue": "Jaguar, large spotted wild cat"
+    },
+    {
+      "answer": "JANUAR",
+      "clue": "January, first month of the year"
+    },
+    {
+      "answer": "JUBEL",
+      "clue": "Jubilation, great joy and excitement"
+    },
+    {
+      "answer": "JULI",
+      "clue": "July, seventh month of the year"
+    },
+    {
+      "answer": "JUNI",
+      "clue": "June, sixth month of the year"
+    },
+    {
+      "answer": "KABINE",
+      "clue": "Cabin, small room on a ship"
+    },
+    {
+      "answer": "KAKTUS",
+      "clue": "Cactus, spiny desert plant"
+    },
+    {
+      "answer": "KALENDER",
+      "clue": "Calendar, system for organizing dates"
+    },
+    {
+      "answer": "KAMILLE",
+      "clue": "Chamomile, herb used in tea"
+    },
+    {
+      "answer": "KAMIN",
+      "clue": "Fireplace, enclosed space for a fire"
+    },
+    {
+      "answer": "KARPFEN",
+      "clue": "Carp, large freshwater fish"
+    },
+    {
+      "answer": "KASSE",
+      "clue": "Cash register, machine for sales"
+    },
+    {
+      "answer": "KELLNER",
+      "clue": "Waiter, server in a restaurant"
+    },
+    {
+      "answer": "KERZEN",
+      "clue": "Candles, wax sticks burned for light"
+    },
+    {
+      "answer": "KIESEL",
+      "clue": "Pebble, small smooth stone"
+    },
+    {
+      "answer": "KIRMES",
+      "clue": "Funfair, outdoor amusement event"
+    },
+    {
+      "answer": "KISTE",
+      "clue": "Crate, wooden container"
+    },
+    {
+      "answer": "KLETTERN",
+      "clue": "Climbing, ascending using hands and feet"
+    },
+    {
+      "answer": "KNEIPE",
+      "clue": "Pub, bar serving drinks"
+    },
+    {
+      "answer": "KOKOSNUSS",
+      "clue": "Coconut, tropical fruit with hard shell"
+    },
+    {
+      "answer": "KÖNIG",
+      "clue": "King, male ruler of a kingdom"
+    },
+    {
+      "answer": "KÖNIGIN",
+      "clue": "Queen, female ruler of a kingdom"
+    },
+    {
+      "answer": "KONZERT",
+      "clue": "Concert, live music performance"
+    },
+    {
+      "answer": "KORALLE",
+      "clue": "Coral, marine organism forming reefs"
+    },
+    {
+      "answer": "KRABBE",
+      "clue": "Crab, crustacean with claws"
+    },
+    {
+      "answer": "KRÄHE",
+      "clue": "Crow, black intelligent bird"
+    },
+    {
+      "answer": "KRAN",
+      "clue": "Crane, machine for lifting heavy loads"
+    },
+    {
+      "answer": "KREIDE",
+      "clue": "Chalk, white soft limestone"
+    },
+    {
+      "answer": "KREUZ",
+      "clue": "Cross, symbol of Christianity"
+    },
+    {
+      "answer": "KROKODIL",
+      "clue": "Crocodile, large reptile in water"
+    },
+    {
+      "answer": "KRUSTE",
+      "clue": "Crust, hard outer layer of bread"
+    },
+    {
+      "answer": "KUCHEN",
+      "clue": "Cake, sweet baked dessert"
+    },
+    {
+      "answer": "LABOR",
+      "clue": "Laboratory, room for scientific experiments"
+    },
+    {
+      "answer": "LAMM",
+      "clue": "Lamb, young sheep"
+    },
+    {
+      "answer": "LANDSCHAFT",
+      "clue": "Landscape, visible features of an area"
+    },
+    {
+      "answer": "LANZE",
+      "clue": "Lance, long spear used by knights"
+    },
+    {
+      "answer": "LATERNE",
+      "clue": "Lantern, portable light source"
+    },
+    {
+      "answer": "LEBKUCHEN",
+      "clue": "Gingerbread, spiced biscuit cake"
+    },
+    {
+      "answer": "LEGUAN",
+      "clue": "Iguana, large tropical lizard"
+    },
+    {
+      "answer": "LEIM",
+      "clue": "Glue, adhesive substance"
+    },
+    {
+      "answer": "LEMUR",
+      "clue": "Lemur, primate from Madagascar"
+    },
+    {
+      "answer": "LIMONADE",
+      "clue": "Lemonade, drink made from lemon juice"
+    },
+    {
+      "answer": "LINSE",
+      "clue": "Lentil, small edible legume"
+    },
+    {
+      "answer": "LÖSUNG",
+      "clue": "Solution, answer to a problem"
+    },
+    {
+      "answer": "LUCHS",
+      "clue": "Lynx, wild cat with tufted ears"
+    },
+    {
+      "answer": "MAIS",
+      "clue": "Corn, cereal plant with yellow kernels"
+    },
+    {
+      "answer": "MALEREI",
+      "clue": "Painting, art of applying paint"
+    },
+    {
+      "answer": "MAMMUT",
+      "clue": "Mammoth, extinct elephant-like animal"
+    },
+    {
+      "answer": "MANDEL",
+      "clue": "Almond, edible nut from almond tree"
+    },
+    {
+      "answer": "MAPPE",
+      "clue": "Folder, cover for documents"
+    },
+    {
+      "answer": "MAST",
+      "clue": "Mast, vertical pole on a ship"
+    },
+    {
+      "answer": "MELODIE",
+      "clue": "Melody, sequence of musical notes"
+    },
+    {
+      "answer": "METZGER",
+      "clue": "Butcher, person who sells meat"
+    },
+    {
+      "answer": "MINERALWASSER",
+      "clue": "Mineral water, naturally carbonated water"
+    },
+    {
+      "answer": "MITTAG",
+      "clue": "Noon, twelve o'clock midday"
+    },
+    {
+      "answer": "MITTWOCH",
+      "clue": "Wednesday, middle day of the week"
+    },
+    {
+      "answer": "MODE",
+      "clue": "Fashion, popular style of clothing"
+    },
+    {
+      "answer": "MÖHRRUBE",
+      "clue": "Carrot, orange root vegetable"
+    },
+    {
+      "answer": "MONTAG",
+      "clue": "Monday, first day of the working week"
+    },
+    {
+      "answer": "MONUMENT",
+      "clue": "Monument, structure commemorating a person"
+    },
+    {
+      "answer": "MOTORRAD",
+      "clue": "Motorcycle, two-wheeled motor vehicle"
+    },
+    {
+      "answer": "MÜHE",
+      "clue": "Effort, hard work required"
+    },
+    {
+      "answer": "MUSKEL",
+      "clue": "Muscle, contractile tissue in the body"
+    },
+    {
+      "answer": "NACHBAR",
+      "clue": "Neighbor, person living nearby"
+    },
+    {
+      "answer": "NACHRICHT",
+      "clue": "Message, information communicated"
+    },
+    {
+      "answer": "NADEL",
+      "clue": "Needle, sharp slender tool for sewing"
+    },
+    {
+      "answer": "NARBE",
+      "clue": "Scar, mark left by a healed wound"
+    },
+    {
+      "answer": "NARR",
+      "clue": "Fool, person who acts foolishly"
+    },
+    {
+      "answer": "NEFFE",
+      "clue": "Nephew, son of one's sibling"
+    },
+    {
+      "answer": "NICHTE",
+      "clue": "Niece, daughter of one's sibling"
+    },
+    {
+      "answer": "NIEDERLAGE",
+      "clue": "Defeat, loss in a contest"
+    },
+    {
+      "answer": "NOVEMBER",
+      "clue": "November, eleventh month of the year"
+    },
+    {
+      "answer": "OKTOBER",
+      "clue": "October, tenth month of the year"
+    },
+    {
+      "answer": "OPTIKER",
+      "clue": "Optician, specialist in eyewear"
+    },
+    {
+      "answer": "ORCHESTER",
+      "clue": "Orchestra, large group of musicians"
+    },
+    {
+      "answer": "ORDNUNG",
+      "clue": "Order, arrangement of things"
+    },
+    {
+      "answer": "ORGAN",
+      "clue": "Organ, part of the body with specific function"
+    },
+    {
+      "answer": "OTTER",
+      "clue": "Otter, semi-aquatic mammal"
+    },
+    {
+      "answer": "PANZER",
+      "clue": "Tank, armored military vehicle"
+    },
+    {
+      "answer": "PARADIES",
+      "clue": "Paradise, perfect place of happiness"
+    },
+    {
+      "answer": "PAKET",
+      "clue": "Package, wrapped parcel"
+    },
+    {
+      "answer": "PAPAGEI",
+      "clue": "Parrot, colorful talking bird"
+    },
+    {
+      "answer": "PARFUM",
+      "clue": "Perfume, fragrant liquid for the body"
+    },
+    {
+      "answer": "PFAU",
+      "clue": "Peacock, bird with colorful tail feathers"
+    },
+    {
+      "answer": "PFLICHT",
+      "clue": "Duty, moral obligation"
+    },
+    {
+      "answer": "PICKNICK",
+      "clue": "Picnic, meal eaten outdoors"
+    },
+    {
+      "answer": "PINGUIN",
+      "clue": "Penguin, flightless bird of Antarctic"
+    },
+    {
+      "answer": "PLANET",
+      "clue": "Planet, celestial body orbiting a star"
+    },
+    {
+      "answer": "PLASTIK",
+      "clue": "Plastic, synthetic material"
+    },
+    {
+      "answer": "PODIUM",
+      "clue": "Podium, raised platform for speaker"
+    },
+    {
+      "answer": "POLITIK",
+      "clue": "Politics, activities of government"
+    },
+    {
+      "answer": "POSTBOTE",
+      "clue": "Postman, mail delivery person"
+    },
+    {
+      "answer": "PRIESTER",
+      "clue": "Priest, religious leader"
+    },
+    {
+      "answer": "PRINZ",
+      "clue": "Prince, son of a king or queen"
+    },
+    {
+      "answer": "PRINZESSIN",
+      "clue": "Princess, daughter of a king or queen"
+    },
+    {
+      "answer": "PROTOKOLL",
+      "clue": "Protocol, set of rules or procedures"
+    },
+    {
+      "answer": "PULVER",
+      "clue": "Powder, fine dry particles"
+    },
+    {
+      "answer": "PYRAMIDE",
+      "clue": "Pyramid, triangular ancient monument"
+    },
+    {
+      "answer": "QUALLE",
+      "clue": "Jellyfish, gelatinous sea creature"
+    },
+    {
+      "answer": "QÜLLE",
+      "clue": "Source, origin or spring of water"
+    },
+    {
+      "answer": "RABE",
+      "clue": "Raven, large black bird"
+    },
+    {
+      "answer": "RAKETE",
+      "clue": "Rocket, spacecraft propelled by engines"
+    },
+    {
+      "answer": "RAMPE",
+      "clue": "Ramp, sloped surface for movement"
+    },
+    {
+      "answer": "RANZEN",
+      "clue": "Schoolbag, backpack for pupils"
+    },
+    {
+      "answer": "RATHAUS",
+      "clue": "Town hall, center of local government"
+    },
+    {
+      "answer": "RATTE",
+      "clue": "Rat, rodent larger than a mouse"
+    },
+    {
+      "answer": "REZEPT",
+      "clue": "Recipe, instructions for preparing food"
+    },
+    {
+      "answer": "RIEGEL",
+      "clue": "Bolt, metal bar securing a door"
+    },
+    {
+      "answer": "RIPPE",
+      "clue": "Rib, curved bone in the chest"
+    },
+    {
+      "answer": "ROBOTER",
+      "clue": "Robot, machine that performs tasks"
+    },
+    {
+      "answer": "ROGGEN",
+      "clue": "Rye, cereal grain used in bread"
+    },
+    {
+      "answer": "ROLLSTUHL",
+      "clue": "Wheelchair, chair with wheels for disabled"
+    },
+    {
+      "answer": "ROSMARIN",
+      "clue": "Rosemary, fragrant evergreen herb"
+    },
+    {
+      "answer": "RÜCKEN",
+      "clue": "Back, rear surface of the body"
+    },
+    {
+      "answer": "RUGBY",
+      "clue": "Rugby, team ball sport"
+    },
+    {
+      "answer": "RUINE",
+      "clue": "Ruin, remains of a destroyed building"
+    },
+    {
+      "answer": "RUTSCHE",
+      "clue": "Slide, playground structure for sliding"
+    },
+    {
+      "answer": "SACK",
+      "clue": "Sack, large bag"
+    },
+    {
+      "answer": "SAGE",
+      "clue": "Legend, traditional story"
+    },
+    {
+      "answer": "SALON",
+      "clue": "Salon, room for receiving guests"
+    },
+    {
+      "answer": "SAMMLUNG",
+      "clue": "Collection, set of gathered items"
+    },
+    {
+      "answer": "SANDUHR",
+      "clue": "Hourglass, timekeeping device with sand"
+    },
+    {
+      "answer": "SATZ",
+      "clue": "Sentence, grammatical unit of words"
+    },
+    {
+      "answer": "SCHACH",
+      "clue": "Chess, strategic board game"
+    },
+    {
+      "answer": "SCHAUKEL",
+      "clue": "Swing, hanging seat that swings"
+    },
+    {
+      "answer": "SCHERE",
+      "clue": "Scissors, cutting tool with two blades"
+    },
+    {
+      "answer": "SCHIRM",
+      "clue": "Umbrella, device for protection from rain"
+    },
+    {
+      "answer": "SCHLANGE",
+      "clue": "Snake, legless reptile"
+    },
+    {
+      "answer": "SCHLAUCH",
+      "clue": "Hose, flexible tube for water"
+    },
+    {
+      "answer": "SCHLUCHT",
+      "clue": "Gorge, deep narrow valley"
+    },
+    {
+      "answer": "SCHMETTERLING",
+      "clue": "Butterfly, winged insect with bright colors"
+    },
+    {
+      "answer": "SCHMIEDE",
+      "clue": "Forge, workshop where metal is shaped"
+    },
+    {
+      "answer": "SCHNABEL",
+      "clue": "Beak, hard mouth part of a bird"
+    },
+    {
+      "answer": "SCHORNSTEIN",
+      "clue": "Chimney, structure for venting smoke"
+    },
+    {
+      "answer": "SCHWERT",
+      "clue": "Sword, bladed weapon"
+    },
+    {
+      "answer": "SEEHUND",
+      "clue": "Seal, marine mammal"
+    },
+    {
+      "answer": "SEGELBOOT",
+      "clue": "Sailboat, boat powered by sails"
+    },
+    {
+      "answer": "SEPTEMBER",
+      "clue": "September, ninth month of the year"
+    },
+    {
+      "answer": "SIEB",
+      "clue": "Sieve, utensil for straining"
+    },
+    {
+      "answer": "SILBER",
+      "clue": "Silver, shiny precious metal"
+    },
+    {
+      "answer": "SKORPION",
+      "clue": "Scorpion, venomous arachnid"
+    },
+    {
+      "answer": "SONNENSCHEIN",
+      "clue": "Sunshine, light from the sun"
+    },
+    {
+      "answer": "SPATZEN",
+      "clue": "Sparrow, small common bird"
+    },
+    {
+      "answer": "SPINAT",
+      "clue": "Spinach, leafy green vegetable"
+    },
+    {
+      "answer": "SPIRALE",
+      "clue": "Spiral, curve winding around a center"
+    },
+    {
+      "answer": "SPORTLER",
+      "clue": "Athlete, person skilled in sports"
+    },
+    {
+      "answer": "SPRACHE",
+      "clue": "Language, system of communication"
+    },
+    {
+      "answer": "SPUR",
+      "clue": "Track, mark left by movement"
+    },
+    {
+      "answer": "STATION",
+      "clue": "Station, stopping place on a route"
+    },
+    {
+      "answer": "STEIN",
+      "clue": "Stone, hard mineral material"
+    },
+    {
+      "answer": "STORCH",
+      "clue": "Stork, large white wading bird"
+    },
+    {
+      "answer": "STRAUCH",
+      "clue": "Shrub, woody plant smaller than a tree"
+    },
+    {
+      "answer": "STRICKNADEL",
+      "clue": "Knitting needle, rod for knitting"
+    },
+    {
+      "answer": "STUDENT",
+      "clue": "Student, person studying at university"
+    },
+    {
+      "answer": "SUMPF",
+      "clue": "Swamp, wetland with trees"
+    },
+    {
+      "answer": "SYMBOL",
+      "clue": "Symbol, sign representing something"
+    },
+    {
+      "answer": "TAGEBUCH",
+      "clue": "Diary, daily personal journal"
+    },
+    {
+      "answer": "TANZ",
+      "clue": "Dance, rhythmic movement to music"
+    },
+    {
+      "answer": "TECHNIK",
+      "clue": "Technology, application of science"
+    },
+    {
+      "answer": "TEICH",
+      "clue": "Pond, small body of still water"
+    },
+    {
+      "answer": "TEPPICH",
+      "clue": "Carpet, floor covering made of fabric"
+    },
+    {
+      "answer": "TERMIN",
+      "clue": "Appointment, scheduled meeting"
+    },
+    {
+      "answer": "THEATER",
+      "clue": "Theater, building for stage performances"
+    },
+    {
+      "answer": "TIER",
+      "clue": "Animal, living creature"
+    },
+    {
+      "answer": "TOMATE",
+      "clue": "Tomato, red juicy fruit used as vegetable"
+    },
+    {
+      "answer": "TORTE",
+      "clue": "Tart, sweet pastry with filling"
+    },
+    {
+      "answer": "TRAURIG",
+      "clue": "Sad, feeling sorrow"
+    },
+    {
+      "answer": "TRESOR",
+      "clue": "Safe, secure box for valuables"
+    },
+    {
+      "answer": "TRICHTER",
+      "clue": "Funnel, cone-shaped pouring device"
+    },
+    {
+      "answer": "TROMMEL",
+      "clue": "Drum, percussion musical instrument"
+    },
+    {
+      "answer": "TROMPETE",
+      "clue": "Trumpet, brass wind instrument"
+    },
+    {
+      "answer": "TRUTHAHN",
+      "clue": "Turkey, large domesticated bird"
+    },
+    {
+      "answer": "TUBA",
+      "clue": "Tuba, large brass instrument"
+    },
+    {
+      "answer": "TURMFALKE",
+      "clue": "Kestrel, small falcon that hovers"
+    },
+    {
+      "answer": "ÜBERRASCHUNG",
+      "clue": "Surprise, unexpected event or gift"
+    },
+    {
+      "answer": "UHRWERK",
+      "clue": "Clockwork, mechanism of a clock"
+    },
+    {
+      "answer": "UMLEITUNG",
+      "clue": "Detour, alternative route"
+    },
+    {
+      "answer": "UNFALL",
+      "clue": "Accident, unexpected harmful event"
+    },
+    {
+      "answer": "UNKRAUT",
+      "clue": "Weed, unwanted wild plant"
+    },
+    {
+      "answer": "URLAUB",
+      "clue": "Vacation, time away from work"
+    },
+    {
+      "answer": "VANILLE",
+      "clue": "Vanilla, flavoring from orchid pods"
+    },
+    {
+      "answer": "VERBINDUNG",
+      "clue": "Connection, link between things"
+    },
+    {
+      "answer": "VERSPRECHEN",
+      "clue": "Promise, commitment to do something"
+    },
+    {
+      "answer": "VIERECK",
+      "clue": "Rectangle, four-sided geometric shape"
+    },
+    {
+      "answer": "VIRUS",
+      "clue": "Virus, microscopic infectious agent"
+    },
+    {
+      "answer": "VITAMIN",
+      "clue": "Vitamin, essential nutrient for health"
+    },
+    {
+      "answer": "VULKAN",
+      "clue": "Volcano, mountain that erupts lava"
+    },
+    {
+      "answer": "WAAGE",
+      "clue": "Scale, device for measuring weight"
+    },
+    {
+      "answer": "WACHTEL",
+      "clue": "Quail, small ground-dwelling bird"
+    },
+    {
+      "answer": "WAHRHEIT",
+      "clue": "Truth, what is actually true"
+    },
+    {
+      "answer": "WANDERUNG",
+      "clue": "Hike, long walk in nature"
+    },
+    {
+      "answer": "WARNUNG",
+      "clue": "Warning, notice of danger"
+    },
+    {
+      "answer": "WECKER",
+      "clue": "Alarm clock, clock that wakes you up"
+    },
+    {
+      "answer": "WEIHNACHTEN",
+      "clue": "Christmas, annual Christian celebration"
+    },
+    {
+      "answer": "WEINTRAUBE",
+      "clue": "Grape, small fruit growing in clusters"
+    },
+    {
+      "answer": "WEISHEIT",
+      "clue": "Wisdom, quality of being wise"
+    },
+    {
+      "answer": "WEIZEN",
+      "clue": "Wheat, cereal grain for bread"
+    },
+    {
+      "answer": "WERKZEUG",
+      "clue": "Tool, implement for work"
+    },
+    {
+      "answer": "WESPE",
+      "clue": "Wasp, stinging flying insect"
+    },
+    {
+      "answer": "WILDNIS",
+      "clue": "Wilderness, wild uncultivated area"
+    },
+    {
+      "answer": "WINDMÜHLE",
+      "clue": "Windmill, structure using wind energy"
+    },
+    {
+      "answer": "WISSEN",
+      "clue": "Knowledge, information learned"
+    },
+    {
+      "answer": "WISSENSCHAFT",
+      "clue": "Science, systematic study of nature"
+    },
+    {
+      "answer": "WOHNZIMMER",
+      "clue": "Living room, main room for relaxing"
+    },
+    {
+      "answer": "WUNDERKIND",
+      "clue": "Prodigy, child with exceptional talent"
+    },
+    {
+      "answer": "WUNSCH",
+      "clue": "Wish, desire for something"
+    },
+    {
+      "answer": "YACHT",
+      "clue": "Yacht, luxury sailing vessel"
+    },
+    {
+      "answer": "ZAHNBÜRSTE",
+      "clue": "Toothbrush, tool for cleaning teeth"
+    },
+    {
+      "answer": "ZEICHEN",
+      "clue": "Sign, symbol conveying meaning"
+    },
+    {
+      "answer": "ZEICHNUNG",
+      "clue": "Drawing, picture made with pencil"
+    },
+    {
+      "answer": "ZENTRUM",
+      "clue": "Center, middle point of something"
+    },
+    {
+      "answer": "ZEUGNIS",
+      "clue": "Certificate, document of achievement"
+    },
+    {
+      "answer": "ZIMT",
+      "clue": "Cinnamon, spice from tree bark"
+    },
+    {
+      "answer": "ZIRKEL",
+      "clue": "Compass, tool for drawing circles"
+    },
+    {
+      "answer": "ZITAT",
+      "clue": "Quote, words taken from a source"
+    },
+    {
+      "answer": "ZOLLSTOCK",
+      "clue": "Ruler, measuring stick"
+    },
+    {
+      "answer": "ZUSAMMENHALT",
+      "clue": "Cohesion, unity among people"
+    },
+    {
+      "answer": "ZWEIG",
+      "clue": "Branch, limb of a tree"
+    },
+    {
+      "answer": "ZWERG",
+      "clue": "Dwarf, mythical small person"
+    },
+    {
+      "answer": "ZWILLING",
+      "clue": "Twin, one of two born at same birth"
+    },
+    {
+      "answer": "ZWIEBEL",
+      "clue": "Onion, pungent layered vegetable"
+    },
+    {
+      "answer": "ABENDROT",
+      "clue": "Sunset glow, reddish sky at dusk"
+    },
+    {
+      "answer": "ABKÜRZUNG",
+      "clue": "Shortcut, faster route or abbreviation"
+    },
+    {
+      "answer": "ABSTAND",
+      "clue": "Distance, space between two things"
+    },
+    {
+      "answer": "ABZEICHEN",
+      "clue": "Badge, emblem worn to show membership"
+    },
+    {
+      "answer": "ACKERLAND",
+      "clue": "Farmland, land used for agriculture"
+    },
+    {
+      "answer": "ADVENT",
+      "clue": "Advent, period before Christmas"
+    },
+    {
+      "answer": "AHORNSIRUP",
+      "clue": "Maple syrup, sweet syrup from maple tree"
+    },
+    {
+      "answer": "AKKORDEON",
+      "clue": "Accordion, bellows-driven instrument"
+    },
+    {
+      "answer": "AKTIE",
+      "clue": "Stock, share in a company"
+    },
+    {
+      "answer": "ALTSTADT",
+      "clue": "Old town, historic center of a city"
+    },
+    {
+      "answer": "AMSEL",
+      "clue": "Blackbird, common singing bird"
+    },
+    {
+      "answer": "ANATOMIE",
+      "clue": "Anatomy, science of body structure"
+    },
+    {
+      "answer": "ANEKDOTE",
+      "clue": "Anecdote, short amusing story"
+    },
+    {
+      "answer": "ANGRIFF",
+      "clue": "Attack, aggressive action"
+    },
+    {
+      "answer": "ANTIQUITÄT",
+      "clue": "Antique, old collectible object"
+    },
+    {
+      "answer": "ANWALT",
+      "clue": "Lawyer, person practicing law"
+    },
+    {
+      "answer": "AQUARIUM",
+      "clue": "Aquarium, tank for keeping fish"
+    },
+    {
+      "answer": "ARMBRUST",
+      "clue": "Crossbow, weapon firing arrows"
+    },
+    {
+      "answer": "ARZNEI",
+      "clue": "Medicine, substance used to treat illness"
+    },
+    {
+      "answer": "AUERHUHN",
+      "clue": "Capercaillie, large woodland bird"
+    },
+    {
+      "answer": "AUFRUHR",
+      "clue": "Uprising, rebellion against authority"
+    },
+    {
+      "answer": "AUSFLUG",
+      "clue": "Excursion, short trip for pleasure"
+    },
+    {
+      "answer": "AUSSTELLUNG",
+      "clue": "Exhibition, public display of items"
+    },
+    {
+      "answer": "BADEWANNE",
+      "clue": "Bathtub, large tub for bathing"
+    },
+    {
+      "answer": "BAHNHOF",
+      "clue": "Train station, place for boarding trains"
+    },
+    {
+      "answer": "BALKEN",
+      "clue": "Beam, horizontal supporting structure"
+    },
+    {
+      "answer": "BAUMKRONE",
+      "clue": "Tree crown, uppermost part of a tree"
+    },
+    {
+      "answer": "BAUMSTAMM",
+      "clue": "Tree trunk, main woody stem"
+    },
+    {
+      "answer": "BEERDIGUNG",
+      "clue": "Funeral, ceremony for a dead person"
+    },
+    {
+      "answer": "BEGLEITER",
+      "clue": "Companion, person who accompanies another"
+    },
+    {
+      "answer": "BELEUCHTUNG",
+      "clue": "Lighting, system for illuminating a space"
+    },
+    {
+      "answer": "BERGSTEIGER",
+      "clue": "Mountaineer, person who climbs mountains"
+    },
+    {
+      "answer": "BESTSELLER",
+      "clue": "Bestseller, book selling in large numbers"
+    },
+    {
+      "answer": "BEWERBUNG",
+      "clue": "Application, formal request for a job"
+    },
+    {
+      "answer": "BLATTGOLD",
+      "clue": "Gold leaf, very thin sheet of gold"
+    },
+    {
+      "answer": "BLOCKADE",
+      "clue": "Blockade, obstruction preventing passage"
+    },
+    {
+      "answer": "BLUMENSTRAUSS",
+      "clue": "Bouquet, bunch of flowers"
+    },
+    {
+      "answer": "BODENSEE",
+      "clue": "Lake Constance, lake in Central Europe"
+    },
+    {
+      "answer": "BOGENSCHIESSEN",
+      "clue": "Archery, sport of shooting with bow"
+    },
+    {
+      "answer": "BOTANISCHER",
+      "clue": "Botanical, relating to plants"
+    },
+    {
+      "answer": "BROTAUFSTRICH",
+      "clue": "Spread, food put on bread"
+    },
+    {
+      "answer": "BÜRGERMEISTER",
+      "clue": "Mayor, elected head of a city"
+    },
+    {
+      "answer": "DACHRINNE",
+      "clue": "Gutter, channel for rainwater"
+    },
+    {
+      "answer": "DANKBARKEIT",
+      "clue": "Gratitude, appreciation for kindness"
+    },
+    {
+      "answer": "DENKMAL",
+      "clue": "Memorial, monument to someone"
+    },
+    {
+      "answer": "DICHTER",
+      "clue": "Poet, writer of poems"
+    },
+    {
+      "answer": "DINOSAURIER",
+      "clue": "Dinosaur, prehistoric reptile"
+    },
+    {
+      "answer": "DONNERWETTER",
+      "clue": "Thunderstorm, storm with thunder"
+    },
+    {
+      "answer": "DRUCKKNOPF",
+      "clue": "Push button, snap fastener"
+    },
+    {
+      "answer": "DURCHGANG",
+      "clue": "Passage, way through something"
+    },
+    {
+      "answer": "EINLADUNG",
+      "clue": "Invitation, request to attend an event"
+    },
+    {
+      "answer": "EINSAMKEIT",
+      "clue": "Loneliness, feeling of being alone"
+    },
+    {
+      "answer": "ELEFANTENBULLE",
+      "clue": "Bull elephant, adult male elephant"
+    },
+    {
+      "answer": "EMPFEHLUNG",
+      "clue": "Recommendation, suggestion to do something"
+    },
+    {
+      "answer": "ENTSCHEIDUNG",
+      "clue": "Decision, choice made after thought"
+    },
+    {
+      "answer": "ERNTEDANKFEST",
+      "clue": "Harvest festival, autumn celebration"
+    },
+    {
+      "answer": "ERSPARNISSE",
+      "clue": "Savings, money set aside"
+    },
+    {
+      "answer": "EXPERIMENT",
+      "clue": "Experiment, scientific test or trial"
+    },
+    {
+      "answer": "FABEL",
+      "clue": "Fable, moral story with animals"
+    },
+    {
+      "answer": "FAHRRADWEG",
+      "clue": "Cycle path, road for bicycles"
+    },
+    {
+      "answer": "FACHMANN",
+      "clue": "Expert, person with special knowledge"
+    },
+    {
+      "answer": "FARBPALETTE",
+      "clue": "Color palette, range of colors used"
+    },
+    {
+      "answer": "FEDERBALL",
+      "clue": "Badminton, racquet sport"
+    },
+    {
+      "answer": "FEINSCHMECKER",
+      "clue": "Gourmet, person who enjoys fine food"
+    },
+    {
+      "answer": "FELDWEG",
+      "clue": "Dirt track, unpaved rural path"
+    },
+    {
+      "answer": "FENSTERBANK",
+      "clue": "Windowsill, ledge below a window"
+    },
+    {
+      "answer": "FERNROHR",
+      "clue": "Telescope, optical instrument for viewing"
+    },
+    {
+      "answer": "FESTUNG",
+      "clue": "Stronghold, fortified defensive position"
+    },
+    {
+      "answer": "FEUERWERK",
+      "clue": "Fireworks, explosive colorful display"
+    },
+    {
+      "answer": "FINGERHUT",
+      "clue": "Thimble, cap protecting finger when sewing"
+    },
+    {
+      "answer": "FISCHOTTER",
+      "clue": "River otter, semi-aquatic mammal"
+    },
+    {
+      "answer": "FLASCHENPOST",
+      "clue": "Message in a bottle, sealed note in bottle"
+    },
+    {
+      "answer": "FLEDERMAUS",
+      "clue": "Bat, flying nocturnal mammal"
+    },
+    {
+      "answer": "FLOHMARKT",
+      "clue": "Flea market, outdoor secondhand market"
+    },
+    {
+      "answer": "FLUGHAFEN",
+      "clue": "Airport, place for aircraft to land"
+    },
+    {
+      "answer": "FOSSILIEN",
+      "clue": "Fossils, preserved remains of ancient life"
+    },
+    {
+      "answer": "FOTOGRAFIE",
+      "clue": "Photography, art of taking photographs"
+    },
+    {
+      "answer": "FREILUFT",
+      "clue": "Open air, outdoors"
+    },
+    {
+      "answer": "FREIZEITPARK",
+      "clue": "Amusement park, entertainment venue"
+    },
+    {
+      "answer": "FRISCHKÄSE",
+      "clue": "Cream cheese, soft fresh cheese"
+    },
+    {
+      "answer": "FRÜHSTÜCK",
+      "clue": "Breakfast, first meal of the day"
+    },
+    {
+      "answer": "GALERIE",
+      "clue": "Gallery, room displaying artwork"
+    },
+    {
+      "answer": "GASTHAUS",
+      "clue": "Inn, small hotel with a restaurant"
+    },
+    {
+      "answer": "GEBIRGE",
+      "clue": "Mountain range, chain of mountains"
+    },
+    {
+      "answer": "GEBURTSTAG",
+      "clue": "Birthday, anniversary of one's birth"
+    },
+    {
+      "answer": "GEFLÜGEL",
+      "clue": "Poultry, domesticated birds for food"
+    },
+    {
+      "answer": "GEGENWART",
+      "clue": "Present, current time"
+    },
+    {
+      "answer": "GEHEIMGANG",
+      "clue": "Secret passage, hidden corridor"
+    },
+    {
+      "answer": "GELÄNDER",
+      "clue": "Railing, barrier along a staircase"
+    },
+    {
+      "answer": "GEMÜSE",
+      "clue": "Vegetables, edible plants"
+    },
+    {
+      "answer": "GESCHWISTER",
+      "clue": "Siblings, brothers and sisters"
+    },
+    {
+      "answer": "GEWICHT",
+      "clue": "Weight, heaviness of an object"
+    },
+    {
+      "answer": "GEWITTER",
+      "clue": "Thunderstorm, rain with thunder"
+    },
+    {
+      "answer": "GEWÜRZ",
+      "clue": "Spice, flavoring for food"
+    },
+    {
+      "answer": "GEZEITEN",
+      "clue": "Tides, rise and fall of sea level"
+    },
+    {
+      "answer": "GLEICHGEWICHT",
+      "clue": "Balance, equal distribution of weight"
+    },
+    {
+      "answer": "GLEITSCHIRM",
+      "clue": "Paraglider, parachute-like flying device"
+    },
+    {
+      "answer": "GLÜHWEIN",
+      "clue": "Mulled wine, warm spiced wine"
+    },
+    {
+      "answer": "GOLDADLER",
+      "clue": "Golden eagle, large bird of prey"
+    },
+    {
+      "answer": "GOLDFISCH",
+      "clue": "Goldfish, small orange pet fish"
+    },
+    {
+      "answer": "GRILLABEND",
+      "clue": "Barbecue evening, outdoor cooking event"
+    },
+    {
+      "answer": "GROSSELTERN",
+      "clue": "Grandparents, parents of one's parent"
+    },
+    {
+      "answer": "GROSSMUTTER",
+      "clue": "Grandmother, mother of one's parent"
+    },
+    {
+      "answer": "GROSSVATER",
+      "clue": "Grandfather, father of one's parent"
+    },
+    {
+      "answer": "GUMMIBAND",
+      "clue": "Rubber band, elastic loop"
+    },
+    {
+      "answer": "GURKE",
+      "clue": "Cucumber, long green vegetable"
+    },
+    {
+      "answer": "HAFER",
+      "clue": "Oat, cereal grain used in porridge"
+    },
+    {
+      "answer": "HAFERBREI",
+      "clue": "Oatmeal, porridge from oats"
+    },
+    {
+      "answer": "HAGEL",
+      "clue": "Hail, pellets of frozen rain"
+    },
+    {
+      "answer": "HALBMOND",
+      "clue": "Crescent moon, half-moon shape"
+    },
+    {
+      "answer": "HALTESTELLE",
+      "clue": "Bus stop, place for buses to stop"
+    },
+    {
+      "answer": "HAMMERHAI",
+      "clue": "Hammerhead shark, shark with T-shaped head"
+    },
+    {
+      "answer": "HANDWERK",
+      "clue": "Craft, skilled manual trade"
+    },
+    {
+      "answer": "HARNISCH",
+      "clue": "Armor, protective metal suit"
+    },
+    {
+      "answer": "HAUSGARTEN",
+      "clue": "Home garden, garden beside a house"
+    },
+    {
+      "answer": "HAUSHALT",
+      "clue": "Household, people living together"
+    },
+    {
+      "answer": "HEIDE",
+      "clue": "Heath, open uncultivated land"
+    },
+    {
+      "answer": "HEIDEKRAUT",
+      "clue": "Heather, low-growing moorland plant"
+    },
+    {
+      "answer": "HEIMWEH",
+      "clue": "Homesickness, longing for home"
+    },
+    {
+      "answer": "HERBSTLAUB",
+      "clue": "Autumn leaves, falling leaves in fall"
+    },
+    {
+      "answer": "HERRSCHAFT",
+      "clue": "Rule, authority over others"
+    },
+    {
+      "answer": "HIMBEERE",
+      "clue": "Raspberry, red berry fruit"
+    },
+    {
+      "answer": "HIMMELBETT",
+      "clue": "Canopy bed, bed with a top frame"
+    },
+    {
+      "answer": "HOCHSCHULE",
+      "clue": "University, institution of higher education"
+    },
+    {
+      "answer": "HOCHWASSER",
+      "clue": "High water, flood conditions"
+    },
+    {
+      "answer": "HOFGARTEN",
+      "clue": "Palace garden, formal royal garden"
+    },
+    {
+      "answer": "HOLZSCHNITT",
+      "clue": "Woodcut, print made from wood block"
+    },
+    {
+      "answer": "HONIGMELONE",
+      "clue": "Honeydew melon, sweet green melon"
+    },
+    {
+      "answer": "HOPFEN",
+      "clue": "Hops, plant used in brewing beer"
+    },
+    {
+      "answer": "HÜHNEREI",
+      "clue": "Hen egg, egg laid by a chicken"
+    },
+    {
+      "answer": "HURRIKAN",
+      "clue": "Hurricane, powerful tropical storm"
+    },
+    {
+      "answer": "IGLU",
+      "clue": "Igloo, dome-shaped snow shelter"
+    },
+    {
+      "answer": "IMMOBILIE",
+      "clue": "Real estate, property consisting of land"
+    },
+    {
+      "answer": "INSEKTENHOTEL",
+      "clue": "Insect hotel, structure housing insects"
+    },
+    {
+      "answer": "ISOLIERUNG",
+      "clue": "Insulation, material reducing heat transfer"
+    },
+    {
+      "answer": "JAHRMARKT",
+      "clue": "Annual fair, traditional public market"
+    },
+    {
+      "answer": "JOHANNISBEERE",
+      "clue": "Currant, small tart berry"
+    },
+    {
+      "answer": "JUBILÄUM",
+      "clue": "Anniversary, celebration of a milestone"
+    },
+    {
+      "answer": "JUNGTIER",
+      "clue": "Young animal, offspring of an animal"
+    },
+    {
+      "answer": "KAFFEEKANNE",
+      "clue": "Coffee pot, container for brewing coffee"
+    },
+    {
+      "answer": "KAMPFSPORT",
+      "clue": "Martial art, combat sports discipline"
+    },
+    {
+      "answer": "KANALISATION",
+      "clue": "Sewage system, underground waste pipes"
+    },
+    {
+      "answer": "KARNEVALSZUG",
+      "clue": "Carnival parade, festive procession"
+    },
+    {
+      "answer": "KARTOFFEL",
+      "clue": "Potato, starchy underground vegetable"
+    },
+    {
+      "answer": "KASTANIE",
+      "clue": "Chestnut, sweet nut of the chestnut tree"
+    },
+    {
+      "answer": "KATHEDRALE",
+      "clue": "Cathedral, large important church"
+    },
+    {
+      "answer": "KETTENHEMD",
+      "clue": "Chain mail, armor made of metal rings"
+    },
+    {
+      "answer": "KIRCHTURM",
+      "clue": "Church tower, steeple of a church"
+    },
+    {
+      "answer": "KLEMPNER",
+      "clue": "Plumber, person who fixes pipes"
+    },
+    {
+      "answer": "KLIMAWANDEL",
+      "clue": "Climate change, global temperature shift"
+    },
+    {
+      "answer": "KOCHBUCH",
+      "clue": "Cookbook, book of recipes"
+    },
+    {
+      "answer": "KOHLRABI",
+      "clue": "Kohlrabi, type of turnip vegetable"
+    },
+    {
+      "answer": "KOKOSMILCH",
+      "clue": "Coconut milk, liquid from coconut"
+    },
+    {
+      "answer": "KOLLEGE",
+      "clue": "Colleague, person you work with"
+    },
+    {
+      "answer": "KOMET",
+      "clue": "Comet, icy body traveling in space"
+    },
+    {
+      "answer": "KOMPASS",
+      "clue": "Compass, device showing direction"
+    },
+    {
+      "answer": "KONFERENZ",
+      "clue": "Conference, formal meeting for discussion"
+    },
+    {
+      "answer": "KOORDINATEN",
+      "clue": "Coordinates, numbers locating a point"
+    },
+    {
+      "answer": "KOPFKISSEN",
+      "clue": "Pillow, cushion for the head"
+    },
+    {
+      "answer": "KORALLENRIFF",
+      "clue": "Coral reef, underwater ecosystem"
+    },
+    {
+      "answer": "KRAMPF",
+      "clue": "Cramp, sudden painful muscle contraction"
+    },
+    {
+      "answer": "KRANICH",
+      "clue": "Crane, tall wading bird"
+    },
+    {
+      "answer": "KRANKENHAUS",
+      "clue": "Hospital, institution for medical care"
+    },
+    {
+      "answer": "KRATER",
+      "clue": "Crater, bowl-shaped depression"
+    },
+    {
+      "answer": "KREISVERKEHR",
+      "clue": "Roundabout, circular traffic junction"
+    },
+    {
+      "answer": "KRISTALL",
+      "clue": "Crystal, transparent mineral"
+    },
+    {
+      "answer": "KROKUS",
+      "clue": "Crocus, early spring flower"
+    },
+    {
+      "answer": "KÜHLSCHRANK",
+      "clue": "Refrigerator, appliance for cooling food"
+    },
+    {
+      "answer": "KÜNSTLER",
+      "clue": "Artist, person who creates art"
+    },
+    {
+      "answer": "KULTURERBE",
+      "clue": "Cultural heritage, inherited traditions"
+    },
+    {
+      "answer": "KÜRBIS",
+      "clue": "Pumpkin, large orange round vegetable"
+    },
+    {
+      "answer": "KÜSTEORT",
+      "clue": "Coastal town, town beside the sea"
+    },
+    {
+      "answer": "LADEKABEL",
+      "clue": "Charging cable, wire for charging devices"
+    },
+    {
+      "answer": "LAGER",
+      "clue": "Warehouse, storage facility"
+    },
+    {
+      "answer": "LANDESGRENZE",
+      "clue": "National border, boundary of a country"
+    },
+    {
+      "answer": "LANGLAUF",
+      "clue": "Cross-country skiing, skiing discipline"
+    },
+    {
+      "answer": "LAPISLAZULI",
+      "clue": "Lapis lazuli, blue gemstone"
+    },
+    {
+      "answer": "LAUBBAUM",
+      "clue": "Deciduous tree, tree that sheds leaves"
+    },
+    {
+      "answer": "LAUBFROSCH",
+      "clue": "Tree frog, frog that lives in trees"
+    },
+    {
+      "answer": "LAUTSPRECHER",
+      "clue": "Speaker, device for reproducing sound"
+    },
+    {
+      "answer": "LEBENSMITTEL",
+      "clue": "Groceries, food and household items"
+    },
+    {
+      "answer": "LEBENSRAUM",
+      "clue": "Habitat, natural home of a species"
+    },
+    {
+      "answer": "LEHRPLAN",
+      "clue": "Curriculum, course of study"
+    },
+    {
+      "answer": "LEIDENSCHAFT",
+      "clue": "Passion, strong enthusiasm for something"
+    },
+    {
+      "answer": "LEUCHTKÄFER",
+      "clue": "Firefly, glowing flying insect"
+    },
+    {
+      "answer": "LEUCHTTURM",
+      "clue": "Lighthouse, tower with warning light"
+    },
+    {
+      "answer": "LIEBLING",
+      "clue": "Favorite, most liked person or thing"
+    },
+    {
+      "answer": "LIEDERBUCH",
+      "clue": "Songbook, collection of songs"
+    },
+    {
+      "answer": "LINDENBLÜTE",
+      "clue": "Linden blossom, flower of linden tree"
+    },
+    {
+      "answer": "LINEAL",
+      "clue": "Ruler, straight measuring tool"
+    },
+    {
+      "answer": "LUFTBALLON",
+      "clue": "Balloon, rubber bag filled with air"
+    },
+    {
+      "answer": "LUFTSCHIFF",
+      "clue": "Airship, lighter-than-air aircraft"
+    },
+    {
+      "answer": "MAULTASCHEN",
+      "clue": "Swabian pasta, stuffed pasta dumpling"
+    },
+    {
+      "answer": "MEERESBODEN",
+      "clue": "Ocean floor, bottom of the sea"
+    },
+    {
+      "answer": "MEERESFRÜCHTE",
+      "clue": "Seafood, edible sea creatures"
+    },
+    {
+      "answer": "METERIT",
+      "clue": "Meteorite, rock from outer space"
+    },
+    {
+      "answer": "MIESMUSCHEL",
+      "clue": "Mussel, edible shellfish"
+    },
+    {
+      "answer": "MISTEL",
+      "clue": "Mistletoe, parasitic plant hung at Christmas"
+    },
+    {
+      "answer": "MITLEID",
+      "clue": "Compassion, feeling of pity"
+    },
+    {
+      "answer": "MITTERNACHT",
+      "clue": "Midnight, twelve o'clock at night"
+    },
+    {
+      "answer": "MÖWE",
+      "clue": "Seagull, coastal bird"
+    },
+    {
+      "answer": "MONAT",
+      "clue": "Month, one-twelfth of a year"
+    },
+    {
+      "answer": "MONDNACHT",
+      "clue": "Moonlit night, night lit by the moon"
+    },
+    {
+      "answer": "MONDSCHEIN",
+      "clue": "Moonlight, light from the moon"
+    },
+    {
+      "answer": "MORGENSTERN",
+      "clue": "Morning star, Venus seen at dawn"
+    },
+    {
+      "answer": "MUTTERSPRACHE",
+      "clue": "Mother tongue, one's native language"
+    },
+    {
+      "answer": "MYSTERIUM",
+      "clue": "Mystery, something unknown or secret"
+    },
+    {
+      "answer": "NACHTFALTER",
+      "clue": "Moth, nocturnal flying insect"
+    },
+    {
+      "answer": "NACHRICHTEN",
+      "clue": "News, information about events"
+    },
+    {
+      "answer": "NAGETIER",
+      "clue": "Rodent, gnawing mammal like mouse"
+    },
+    {
+      "answer": "NEUGIER",
+      "clue": "Curiosity, desire to learn or know"
+    },
+    {
+      "answer": "NEUJAHR",
+      "clue": "New Year, first day of the year"
+    },
+    {
+      "answer": "NISTHÖHLE",
+      "clue": "Nesting hole, cavity for bird nests"
+    },
+    {
+      "answer": "NORDEN",
+      "clue": "North, direction of North Pole"
+    },
+    {
+      "answer": "NOTAUFNAHME",
+      "clue": "Emergency room, hospital accident ward"
+    },
+    {
+      "answer": "NOTIZBUCH",
+      "clue": "Notebook, book for writing notes"
+    },
+    {
+      "answer": "OBSTBAUM",
+      "clue": "Fruit tree, tree bearing edible fruit"
+    },
+    {
+      "answer": "OBSTGARTEN",
+      "clue": "Orchard, area of fruit trees"
+    },
+    {
+      "answer": "OFENKARTOFFEL",
+      "clue": "Baked potato, potato cooked in oven"
+    },
+    {
+      "answer": "OLYMPIADE",
+      "clue": "Olympics, international sporting games"
+    },
+    {
+      "answer": "ORANGENSAFT",
+      "clue": "Orange juice, drink from oranges"
+    },
+    {
+      "answer": "ORCHIDEE",
+      "clue": "Orchid, exotic tropical flower"
+    },
+    {
+      "answer": "OSTEREI",
+      "clue": "Easter egg, decorated egg for Easter"
+    },
+    {
+      "answer": "OSTERN",
+      "clue": "Easter, Christian spring celebration"
+    },
+    {
+      "answer": "OZEAN",
+      "clue": "Ocean, immense body of salt water"
+    },
+    {
+      "answer": "PANFLÖTE",
+      "clue": "Pan flute, wind instrument of pipes"
+    },
+    {
+      "answer": "PAPPEL",
+      "clue": "Poplar, tall slender tree"
+    },
+    {
+      "answer": "PASSIONFRUCHT",
+      "clue": "Passion fruit, tropical purple fruit"
+    },
+    {
+      "answer": "PELIKAN",
+      "clue": "Pelican, large water bird with pouch"
+    },
+    {
+      "answer": "PERGOLA",
+      "clue": "Pergola, garden structure with overhead beams"
+    },
+    {
+      "answer": "PHANTASIE",
+      "clue": "Fantasy, imagination or daydream"
+    },
+    {
+      "answer": "PHILOSOPHIE",
+      "clue": "Philosophy, study of fundamental questions"
+    },
+    {
+      "answer": "PINIENZAPFEN",
+      "clue": "Pine cone, seed-bearing structure"
+    },
+    {
+      "answer": "PLANKTON",
+      "clue": "Plankton, microscopic ocean organisms"
+    },
+    {
+      "answer": "PLANETARIUM",
+      "clue": "Planetarium, domed theater of stars"
+    },
+    {
+      "answer": "POLARBÄR",
+      "clue": "Polar bear, large white arctic bear"
+    },
+    {
+      "answer": "POLARLICHT",
+      "clue": "Northern lights, aurora borealis"
+    },
+    {
+      "answer": "POLARSTERN",
+      "clue": "North Star, fixed star in north sky"
+    },
+    {
+      "answer": "POSAUNE",
+      "clue": "Trombone, brass slide instrument"
+    },
+    {
+      "answer": "PRÄSIDENT",
+      "clue": "President, elected head of state"
+    },
+    {
+      "answer": "PRAKTIKUM",
+      "clue": "Internship, work experience placement"
+    },
+    {
+      "answer": "BREZEL",
+      "clue": "Pretzel, salted baked bread knot"
+    },
+    {
+      "answer": "PRIMEL",
+      "clue": "Primrose, early spring flower"
+    },
+    {
+      "answer": "PRISMA",
+      "clue": "Prism, transparent triangular object"
+    },
+    {
+      "answer": "PROPELLER",
+      "clue": "Propeller, rotating blade for propulsion"
+    },
+    {
+      "answer": "PUZZLE",
+      "clue": "Puzzle, picture assembled from pieces"
+    },
+    {
+      "answer": "QUADRAT",
+      "clue": "Square, four-sided equal geometric shape"
+    },
+    {
+      "answer": "QÜRFLÖTE",
+      "clue": "Flute, side-blown wind instrument"
+    },
+    {
+      "answer": "RAKETENSTART",
+      "clue": "Rocket launch, liftoff of a spacecraft"
+    },
+    {
+      "answer": "RANUNKEL",
+      "clue": "Ranunculus, bright buttercup flower"
+    },
+    {
+      "answer": "RATSCHLAG",
+      "clue": "Advice, guidance offered to someone"
+    },
+    {
+      "answer": "REGENWALD",
+      "clue": "Rainforest, dense tropical forest"
+    },
+    {
+      "answer": "REGENWURM",
+      "clue": "Earthworm, worm living in soil"
+    },
+    {
+      "answer": "REICHSTAG",
+      "clue": "Reichstag, German parliament building"
+    },
+    {
+      "answer": "RENNBAHN",
+      "clue": "Racecourse, track for racing"
+    },
+    {
+      "answer": "RENTIER",
+      "clue": "Reindeer, Arctic deer species"
+    },
+    {
+      "answer": "REPTILIEN",
+      "clue": "Reptiles, cold-blooded scaly animals"
+    },
+    {
+      "answer": "RESPEKT",
+      "clue": "Respect, high regard for someone"
+    },
+    {
+      "answer": "REVOLUTION",
+      "clue": "Revolution, fundamental change in society"
+    },
+    {
+      "answer": "RHEIN",
+      "clue": "Rhine, major European river"
+    },
+    {
+      "answer": "RINDERHERDE",
+      "clue": "Cattle herd, group of cows"
+    },
+    {
+      "answer": "RITTERBURG",
+      "clue": "Knight's castle, fortified medieval castle"
+    },
+    {
+      "answer": "ROLLTREPPE",
+      "clue": "Escalator, moving staircase"
+    },
+    {
+      "answer": "ROSENGARTEN",
+      "clue": "Rose garden, garden full of roses"
+    },
+    {
+      "answer": "ROSENKOHL",
+      "clue": "Brussels sprout, small cabbage vegetable"
+    },
+    {
+      "answer": "ROSSKASTANIE",
+      "clue": "Horse chestnut, large ornamental tree"
+    },
+    {
+      "answer": "RUCKSACK",
+      "clue": "Backpack, bag carried on the back"
+    },
+    {
+      "answer": "RUNDBOGEN",
+      "clue": "Arch, curved structural element"
+    },
+    {
+      "answer": "SACKGASSE",
+      "clue": "Dead end, road with no exit"
+    },
+    {
+      "answer": "SÄUGETIER",
+      "clue": "Mammal, warm-blooded vertebrate animal"
+    },
+    {
+      "answer": "SAUERKRAUT",
+      "clue": "Sauerkraut, fermented pickled cabbage"
+    },
+    {
+      "answer": "SCHAULUSTIGE",
+      "clue": "Onlookers, curious observers"
+    },
+    {
+      "answer": "SCHEINWERFER",
+      "clue": "Headlight, front light of a vehicle"
+    },
+    {
+      "answer": "SCHNÄPPCHEN",
+      "clue": "Bargain, thing bought cheaply"
+    },
+    {
+      "answer": "SCHNEEFLOCKE",
+      "clue": "Snowflake, single crystal of snow"
+    },
+    {
+      "answer": "SCHNEEGLÖCKCHEN",
+      "clue": "Snowdrop, delicate white winter flower"
+    },
+    {
+      "answer": "SCHNITTLAUCH",
+      "clue": "Chives, herb with thin green leaves"
+    },
+    {
+      "answer": "SCHOKOLADE",
+      "clue": "Chocolate, sweet food from cocoa"
+    },
+    {
+      "answer": "SCHUTZENGEL",
+      "clue": "Guardian angel, protecting spirit"
+    },
+    {
+      "answer": "SCHWARZWALD",
+      "clue": "Black Forest, forested mountain region"
+    },
+    {
+      "answer": "SCHWIMMHALLE",
+      "clue": "Swimming pool, indoor pool facility"
+    },
+    {
+      "answer": "SEEPFERDCHEN",
+      "clue": "Seahorse, small fish shaped like horse"
+    },
+    {
+      "answer": "SEGELFLUGZEUG",
+      "clue": "Glider, aircraft without engine"
+    },
+    {
+      "answer": "SEIFENBLASE",
+      "clue": "Soap bubble, thin film of soapy water"
+    },
+    {
+      "answer": "SEILBAHN",
+      "clue": "Cable car, vehicle on overhead cable"
+    },
+    {
+      "answer": "SILBERFUCHS",
+      "clue": "Silver fox, fox with silver fur"
+    },
+    {
+      "answer": "SINGVOGEL",
+      "clue": "Songbird, bird known for its song"
+    },
+    {
+      "answer": "SKIFAHREN",
+      "clue": "Skiing, sport of gliding on snow"
+    },
+    {
+      "answer": "SOMMERSPROSSEN",
+      "clue": "Freckles, small spots on skin"
+    },
+    {
+      "answer": "SONNENSYSTEM",
+      "clue": "Solar system, Sun and its planets"
+    },
+    {
+      "answer": "SPAZIERGANG",
+      "clue": "Walk, short journey on foot"
+    },
+    {
+      "answer": "SPECHT",
+      "clue": "Woodpecker, bird that pecks trees"
+    },
+    {
+      "answer": "SPEISEKARTE",
+      "clue": "Menu, list of dishes in a restaurant"
+    },
+    {
+      "answer": "SPIEGELBILD",
+      "clue": "Mirror image, reflected likeness"
+    },
+    {
+      "answer": "SPIELPLATZ",
+      "clue": "Playground, outdoor area for children"
+    },
+    {
+      "answer": "SPINNENGEWEBE",
+      "clue": "Cobweb, spider's web"
+    },
+    {
+      "answer": "STAATSBÜRGER",
+      "clue": "Citizen, official member of a state"
+    },
+    {
+      "answer": "STADTPARK",
+      "clue": "City park, urban green space"
+    },
+    {
+      "answer": "STAUDAMM",
+      "clue": "Dam, barrier holding back water"
+    },
+    {
+      "answer": "STAUSEE",
+      "clue": "Reservoir, artificial lake"
+    },
+    {
+      "answer": "STERNENHIMMEL",
+      "clue": "Starry sky, night sky full of stars"
+    },
+    {
+      "answer": "STOPPUHR",
+      "clue": "Stopwatch, timer for measuring time"
+    },
+    {
+      "answer": "STORCHENNEST",
+      "clue": "Stork's nest, large nest of a stork"
+    },
+    {
+      "answer": "STROMISOLIERUNG",
+      "clue": "Power insulation, electrical insulation"
+    },
+    {
+      "answer": "SÜDAMERIKA",
+      "clue": "South America, southern Americas continent"
+    },
+    {
+      "answer": "SUPPENKESSEL",
+      "clue": "Soup pot, large pot for cooking soup"
+    },
+    {
+      "answer": "TAFEL",
+      "clue": "Blackboard, dark board for writing"
+    },
+    {
+      "answer": "TAGESORDNUNG",
+      "clue": "Agenda, list of items for meeting"
+    },
+    {
+      "answer": "TASCHENBUCH",
+      "clue": "Paperback book, soft-covered book"
+    },
+    {
+      "answer": "TASCHENLAMPE",
+      "clue": "Flashlight, portable battery light"
+    },
+    {
+      "answer": "TAUCHERANZUG",
+      "clue": "Wetsuit, rubber suit for diving"
+    },
+    {
+      "answer": "TEEDOSE",
+      "clue": "Tea tin, container for storing tea"
+    },
+    {
+      "answer": "TELEFON",
+      "clue": "Telephone, device for voice communication"
+    },
+    {
+      "answer": "TERRARIUM",
+      "clue": "Terrarium, glass case for plants or reptiles"
+    },
+    {
+      "answer": "TIERSCHUTZ",
+      "clue": "Animal protection, care of animal welfare"
+    },
+    {
+      "answer": "TINTENFISCH",
+      "clue": "Octopus, eight-armed sea creature"
+    },
+    {
+      "answer": "TONTOPF",
+      "clue": "Clay pot, vessel made of fired clay"
+    },
+    {
+      "answer": "TRACHT",
+      "clue": "Traditional costume, regional folk dress"
+    },
+    {
+      "answer": "TRADITION",
+      "clue": "Tradition, custom passed through generations"
+    },
+    {
+      "answer": "TRAUMWELT",
+      "clue": "Dream world, imaginary realm"
+    },
+    {
+      "answer": "TRINKWASSER",
+      "clue": "Drinking water, water safe to drink"
+    },
+    {
+      "answer": "TROPHÄ",
+      "clue": "Trophy, prize awarded for winning"
+    },
+    {
+      "answer": "TÜMPEL",
+      "clue": "Pond, small body of standing water"
+    },
+    {
+      "answer": "TUNDRA",
+      "clue": "Tundra, vast flat Arctic landscape"
+    },
+    {
+      "answer": "UHRTURM",
+      "clue": "Clock tower, tower with a large clock"
+    },
+    {
+      "answer": "UMGEBUNG",
+      "clue": "Surroundings, area around a place"
+    },
+    {
+      "answer": "UNBEKANNT",
+      "clue": "Unknown, not identified or familiar"
+    },
+    {
+      "answer": "URLAUBSORT",
+      "clue": "Holiday resort, popular vacation place"
+    },
+    {
+      "answer": "VAMPIR",
+      "clue": "Vampire, mythical blood-drinking creature"
+    },
+    {
+      "answer": "VEGANER",
+      "clue": "Vegan, person avoiding all animal products"
+    },
+    {
+      "answer": "VERGENÜGEN",
+      "clue": "Pleasure, feeling of enjoyment"
+    },
+    {
+      "answer": "VERSICHERUNG",
+      "clue": "Insurance, protection against financial loss"
+    },
+    {
+      "answer": "VERWANDTER",
+      "clue": "Relative, person related by family"
+    },
+    {
+      "answer": "VERZIERUNG",
+      "clue": "Decoration, ornamental addition"
+    },
+    {
+      "answer": "VIELFALT",
+      "clue": "Diversity, variety of different things"
+    },
+    {
+      "answer": "VOGELKUNDE",
+      "clue": "Ornithology, scientific study of birds"
+    },
+    {
+      "answer": "VOGELSCHEUCHE",
+      "clue": "Scarecrow, figure to frighten birds"
+    },
+    {
+      "answer": "VOGELZUG",
+      "clue": "Bird migration, seasonal movement of birds"
+    },
+    {
+      "answer": "VOLLMOND",
+      "clue": "Full moon, when moon is fully illuminated"
+    },
+    {
+      "answer": "VORFRÜHLING",
+      "clue": "Early spring, beginning of spring"
+    },
+    {
+      "answer": "WACHOLDER",
+      "clue": "Juniper, evergreen shrub or tree"
+    },
+    {
+      "answer": "WACHSTUM",
+      "clue": "Growth, process of increasing in size"
+    },
+    {
+      "answer": "WALDKAUZ",
+      "clue": "Tawny owl, common European owl"
+    },
+    {
+      "answer": "WALROSS",
+      "clue": "Walrus, large Arctic marine mammal"
+    },
+    {
+      "answer": "WEIDENBAUM",
+      "clue": "Willow tree, tree with drooping branches"
+    },
+    {
+      "answer": "WEINBERG",
+      "clue": "Vineyard, area where grapes are grown"
+    },
+    {
+      "answer": "WEINLESE",
+      "clue": "Grape harvest, picking of grapes"
+    },
+    {
+      "answer": "WELLENSITTICH",
+      "clue": "Budgie, small colorful parakeet"
+    },
+    {
+      "answer": "WELTREKORD",
+      "clue": "World record, best ever achievement"
+    },
+    {
+      "answer": "WIEDEHOPF",
+      "clue": "Hoopoe, colorful crested bird"
+    },
+    {
+      "answer": "WILDBLUME",
+      "clue": "Wildflower, flower growing without cultivation"
+    },
+    {
+      "answer": "WILDGANS",
+      "clue": "Wild goose, undomesticated goose"
+    },
+    {
+      "answer": "WILDKATZE",
+      "clue": "Wildcat, small undomesticated cat"
+    },
+    {
+      "answer": "WIMPER",
+      "clue": "Eyelash, hair on the eyelid"
+    },
+    {
+      "answer": "WINDSCHUTZ",
+      "clue": "Windbreak, barrier against wind"
+    },
+    {
+      "answer": "WINTERGARTEN",
+      "clue": "Conservatory, glass-enclosed garden room"
+    },
+    {
+      "answer": "WISENT",
+      "clue": "Bison, large European bovine"
+    },
+    {
+      "answer": "WISSENSCHAFTLER",
+      "clue": "Scientist, person studying science"
+    },
+    {
+      "answer": "WUNDERKRAUT",
+      "clue": "Miracle herb, plant with healing properties"
+    },
+    {
+      "answer": "ZAHNFLEISCH",
+      "clue": "Gum, tissue surrounding teeth"
+    },
+    {
+      "answer": "ZAHNPASTA",
+      "clue": "Toothpaste, paste for cleaning teeth"
+    },
+    {
+      "answer": "ZAHNRAD",
+      "clue": "Gear, toothed wheel in a mechanism"
+    },
+    {
+      "answer": "ZANDER",
+      "clue": "Zander, freshwater predatory fish"
+    },
+    {
+      "answer": "ZAPFEN",
+      "clue": "Pine cone, woody seed structure"
+    },
+    {
+      "answer": "ZEICHENBLOCK",
+      "clue": "Sketchbook, book for drawing"
+    },
+    {
+      "answer": "ZEITMESSUNG",
+      "clue": "Timekeeping, measuring of time"
+    },
+    {
+      "answer": "ZEITREISE",
+      "clue": "Time travel, movement through time"
+    },
+    {
+      "answer": "ZENTRALHEIZUNG",
+      "clue": "Central heating, whole-building heating"
+    },
+    {
+      "answer": "ZEREMONIE",
+      "clue": "Ceremony, formal ritual event"
+    },
+    {
+      "answer": "ZIEHHARMONIKA",
+      "clue": "Concertina, small accordion"
+    },
+    {
+      "answer": "ZIMTSCHNECKE",
+      "clue": "Cinnamon roll, sweet spiral pastry"
+    },
+    {
+      "answer": "ZIRBELKIEFER",
+      "clue": "Swiss pine, mountain pine tree"
+    },
+    {
+      "answer": "ZITRONENGRAS",
+      "clue": "Lemongrass, fragrant tropical grass"
+    },
+    {
+      "answer": "ZITRONENMELISSE",
+      "clue": "Lemon balm, fragrant medicinal herb"
+    },
+    {
+      "answer": "ZOOTIER",
+      "clue": "Zoo animal, animal kept in a zoo"
+    },
+    {
+      "answer": "ZUGVOGEL",
+      "clue": "Migratory bird, bird that travels seasonally"
+    },
+    {
+      "answer": "ZUSAMMENARBEIT",
+      "clue": "Cooperation, working together"
+    },
+    {
+      "answer": "ZWEIRAD",
+      "clue": "Two-wheeler, bicycle or motorcycle"
+    },
+    {
+      "answer": "ZWIEBACK",
+      "clue": "Zwieback, twice-baked crisp bread"
+    },
+    {
+      "answer": "ZYPRESSEN",
+      "clue": "Cypresses, tall slender evergreen trees"
+    },
+    {
+      "answer": "ABENDBROT",
+      "clue": "Supper, evening meal typically with bread"
+    },
+    {
+      "answer": "ABENDSTERN",
+      "clue": "Evening star, Venus seen at dusk"
+    },
+    {
+      "answer": "ABGABE",
+      "clue": "Tax, compulsory payment to government"
+    },
+    {
+      "answer": "ABGRUND",
+      "clue": "Abyss, deep bottomless pit"
+    },
+    {
+      "answer": "ABSCHIED",
+      "clue": "Farewell, act of saying goodbye"
+    },
+    {
+      "answer": "ABTEILUNG",
+      "clue": "Department, section of an organization"
+    },
+    {
+      "answer": "ABWASSER",
+      "clue": "Wastewater, used water from buildings"
+    },
+    {
+      "answer": "ACKERBAU",
+      "clue": "Arable farming, cultivation of crops"
+    },
+    {
+      "answer": "ÄPFEL",
+      "clue": "Apples, plural of apple fruit"
+    },
+    {
+      "answer": "ÄRGER",
+      "clue": "Anger, strong feeling of displeasure"
+    },
+    {
+      "answer": "ÄHNLICH",
+      "clue": "Similar, nearly the same"
+    },
+    {
+      "answer": "ÄLTEST",
+      "clue": "Eldest, oldest in a group"
+    },
+    {
+      "answer": "ÄRMEL",
+      "clue": "Sleeve, part of garment covering arm"
+    },
+    {
+      "answer": "AGGREGAT",
+      "clue": "Aggregate, collection of units"
+    },
+    {
+      "answer": "AHLE",
+      "clue": "Awl, pointed tool for making holes"
+    },
+    {
+      "answer": "AHNUNG",
+      "clue": "Notion, vague awareness of something"
+    },
+    {
+      "answer": "AKADEMIKER",
+      "clue": "Graduate, person with a university degree"
+    },
+    {
+      "answer": "AKROBAT",
+      "clue": "Acrobat, person performing gymnastic feats"
+    },
+    {
+      "answer": "ALARMANLAGE",
+      "clue": "Alarm system, security alert device"
+    },
+    {
+      "answer": "ALBTRAUM",
+      "clue": "Nightmare, frightening dream"
+    },
+    {
+      "answer": "ALKOVE",
+      "clue": "Alcove, recess in a room"
+    },
+    {
+      "answer": "ALLIGATOR",
+      "clue": "Alligator, large reptile like a crocodile"
+    },
+    {
+      "answer": "ALMOSEN",
+      "clue": "Alms, money given to poor people"
+    },
+    {
+      "answer": "ALPHABET",
+      "clue": "Alphabet, set of letters in order"
+    },
+    {
+      "answer": "ALTE",
+      "clue": "Elderly, old person"
+    },
+    {
+      "answer": "ALUFOLIE",
+      "clue": "Aluminum foil, thin metal sheet"
+    },
+    {
+      "answer": "AMBULANZ",
+      "clue": "Ambulance, emergency medical vehicle"
+    },
+    {
+      "answer": "AMTSARZT",
+      "clue": "Public health officer, government doctor"
+    },
+    {
+      "answer": "AMTSGERICHT",
+      "clue": "District court, local law court"
+    },
+    {
+      "answer": "ANDACHT",
+      "clue": "Devotion, religious contemplation"
+    },
+    {
+      "answer": "ANDERS",
+      "clue": "Different, not the same"
+    },
+    {
+      "answer": "ANFÄNGER",
+      "clue": "Beginner, person new to a skill"
+    },
+    {
+      "answer": "ANGESTELLTER",
+      "clue": "Employee, person working for another"
+    },
+    {
+      "answer": "ANGST",
+      "clue": "Fear, unpleasant emotion from danger"
+    },
+    {
+      "answer": "ANHALTSPUNKT",
+      "clue": "Clue, piece of evidence in a search"
+    },
+    {
+      "answer": "ANKÜNDIGUNG",
+      "clue": "Announcement, public notice"
+    },
+    {
+      "answer": "ANLASSER",
+      "clue": "Starter, device to start an engine"
+    },
+    {
+      "answer": "ANMELDEFORMULAR",
+      "clue": "Registration form, document for signing up"
+    },
+    {
+      "answer": "ANRUFBEANTWORTER",
+      "clue": "Answering machine, device recording messages"
+    },
+    {
+      "answer": "ANSICHT",
+      "clue": "View, opinion or visual perspective"
+    },
+    {
+      "answer": "ANSPRACHE",
+      "clue": "Speech, formal talk to an audience"
+    },
+    {
+      "answer": "ANTWORT",
+      "clue": "Answer, response to a question"
+    },
+    {
+      "answer": "ANZEIGE",
+      "clue": "Advertisement, public announcement"
+    },
+    {
+      "answer": "APRIKOSE",
+      "clue": "Apricot, orange stone fruit"
+    },
+    {
+      "answer": "ARBEITSLOS",
+      "clue": "Unemployed, without a job"
+    },
+    {
+      "answer": "ARMBANDUHR",
+      "clue": "Wristwatch, watch worn on the wrist"
+    },
+    {
+      "answer": "ARMUT",
+      "clue": "Poverty, state of being poor"
+    },
+    {
+      "answer": "ARROGANZ",
+      "clue": "Arrogance, excessive pride"
+    },
+    {
+      "answer": "ARTIKEL",
+      "clue": "Article, item or piece of writing"
+    },
+    {
+      "answer": "ARTILLERIE",
+      "clue": "Artillery, large mounted guns"
+    },
+    {
+      "answer": "ASPIRANT",
+      "clue": "Candidate, person applying for a role"
+    },
+    {
+      "answer": "ASSISTENT",
+      "clue": "Assistant, person who helps another"
+    },
+    {
+      "answer": "ATEMSCHUTZ",
+      "clue": "Breathing protection, mask for clean air"
+    },
+    {
+      "answer": "ATOMKRAFT",
+      "clue": "Nuclear power, energy from atomic reactions"
+    },
+    {
+      "answer": "AUFFORDERUNG",
+      "clue": "Request, asking someone to do something"
+    },
+    {
+      "answer": "AUFZUG",
+      "clue": "Elevator, machine lifting people in buildings"
+    },
+    {
+      "answer": "AUGENKLINIK",
+      "clue": "Eye clinic, medical center for eyes"
+    },
+    {
+      "answer": "AUSGABE",
+      "clue": "Edition, version of a publication"
+    },
+    {
+      "answer": "AUSPUFF",
+      "clue": "Exhaust, pipe releasing engine fumes"
+    },
+    {
+      "answer": "AUTOBAHN",
+      "clue": "Motorway, high-speed road for cars"
+    },
+    {
+      "answer": "AUTOFAHRER",
+      "clue": "Driver, person operating a car"
+    },
+    {
+      "answer": "AUTOMOBIL",
+      "clue": "Automobile, self-propelled motor vehicle"
+    },
+    {
+      "answer": "BABYSITTER",
+      "clue": "Babysitter, person caring for children"
+    },
+    {
+      "answer": "BACKSTUBE",
+      "clue": "Bakery room, place where bread is made"
+    },
+    {
+      "answer": "BACKWAREN",
+      "clue": "Baked goods, products from a bakery"
+    },
+    {
+      "answer": "BADEZIMMER",
+      "clue": "Bathroom, room with a bath or shower"
+    },
+    {
+      "answer": "BAHNSTEIG",
+      "clue": "Platform, raised edge at a train station"
+    },
+    {
+      "answer": "BALLADE",
+      "clue": "Ballad, romantic narrative poem or song"
+    },
+    {
+      "answer": "BASEBALL",
+      "clue": "Baseball, American bat-and-ball sport"
+    },
+    {
+      "answer": "BASTELN",
+      "clue": "Crafting, making things by hand"
+    },
+    {
+      "answer": "BAUDENKMAL",
+      "clue": "Listed building, historically protected structure"
+    },
+    {
+      "answer": "BAUSTELLE",
+      "clue": "Construction site, area being built"
+    },
+    {
+      "answer": "BECKEN",
+      "clue": "Basin, wide shallow container"
+    },
+    {
+      "answer": "BEGEISTERUNG",
+      "clue": "Enthusiasm, strong interest or excitement"
+    },
+    {
+      "answer": "BEGEGNUNG",
+      "clue": "Encounter, meeting with someone"
+    },
+    {
+      "answer": "BEHINDERTE",
+      "clue": "Disabled person, person with a disability"
+    },
+    {
+      "answer": "BEHÖRDE",
+      "clue": "Authority, official government body"
+    },
+    {
+      "answer": "BEISPIEL",
+      "clue": "Example, thing illustrating a point"
+    },
+    {
+      "answer": "BELIEBT",
+      "clue": "Popular, widely liked or enjoyed"
+    },
+    {
+      "answer": "BERUF",
+      "clue": "Profession, paid occupation"
+    },
+    {
+      "answer": "BERÜHMTHEIT",
+      "clue": "Fame, state of being well known"
+    },
+    {
+      "answer": "BESCHÄFTIGUNG",
+      "clue": "Employment, having a job"
+    },
+    {
+      "answer": "BESCHEID",
+      "clue": "Notification, official information"
+    },
+    {
+      "answer": "BESTELLUNG",
+      "clue": "Order, request to buy something"
+    },
+    {
+      "answer": "BESUCHER",
+      "clue": "Visitor, person who visits a place"
+    },
+    {
+      "answer": "BETRACHTUNG",
+      "clue": "Contemplation, thoughtful observation"
+    },
+    {
+      "answer": "BEZIEHUNG",
+      "clue": "Relationship, connection between people"
+    },
+    {
+      "answer": "BEZEICHNUNG",
+      "clue": "Term, word used to name something"
+    },
+    {
+      "answer": "BILDUNG",
+      "clue": "Education, process of being educated"
+    },
+    {
+      "answer": "BILLIARD",
+      "clue": "Billiards, ball-and-cue table game"
+    },
+    {
+      "answer": "BIOLOGE",
+      "clue": "Biologist, scientist studying living things"
+    },
+    {
+      "answer": "BIOLOGIE",
+      "clue": "Biology, science of living organisms"
+    },
+    {
+      "answer": "BIRNBAUM",
+      "clue": "Pear tree, tree producing pears"
+    },
+    {
+      "answer": "BITTERSCHOKOLADE",
+      "clue": "Dark chocolate, bitter chocolate with high cocoa"
+    },
+    {
+      "answer": "BLAUBEERE",
+      "clue": "Blueberry, small dark blue berry"
+    },
+    {
+      "answer": "BLAULICHT",
+      "clue": "Blue light, emergency vehicle light"
+    },
+    {
+      "answer": "BLICKWINKEL",
+      "clue": "Viewpoint, angle from which something is seen"
+    },
+    {
+      "answer": "BLINDHEIT",
+      "clue": "Blindness, inability to see"
+    },
+    {
+      "answer": "BLOCKFLÖTE",
+      "clue": "Recorder, wooden wind instrument"
+    },
+    {
+      "answer": "BLOGBEITRAG",
+      "clue": "Blog post, article published online"
+    },
+    {
+      "answer": "BLUMENPFLEGE",
+      "clue": "Flower care, looking after plants"
+    },
+    {
+      "answer": "BLUTDRUCK",
+      "clue": "Blood pressure, force of blood in vessels"
+    },
+    {
+      "answer": "BLUTWURST",
+      "clue": "Black pudding, blood sausage"
+    },
+    {
+      "answer": "BODENSCHATZ",
+      "clue": "Natural resource, valuable material in earth"
+    },
+    {
+      "answer": "BOGENFENSTER",
+      "clue": "Arched window, window with curved top"
+    },
+    {
+      "answer": "BOHNENKAFFEE",
+      "clue": "Filter coffee, coffee brewed from beans"
+    },
+    {
+      "answer": "BOSSELN",
+      "clue": "Bocce, traditional ball-rolling game"
+    },
+    {
+      "answer": "BOXRING",
+      "clue": "Boxing ring, square area for boxing"
+    },
+    {
+      "answer": "BRATPFANNE",
+      "clue": "Frying pan, flat pan for cooking"
+    },
+    {
+      "answer": "BREMSE",
+      "clue": "Brake, device for slowing movement"
+    },
+    {
+      "answer": "BRIEFKASTEN",
+      "clue": "Mailbox, container for receiving letters"
+    },
+    {
+      "answer": "BRILLANT",
+      "clue": "Brilliant, extremely clever or bright"
+    },
+    {
+      "answer": "BROMBEERE",
+      "clue": "Blackberry, dark wild berry"
+    },
+    {
+      "answer": "BRUMMBÄR",
+      "clue": "Grumpy bear, an irritable person"
+    },
+    {
+      "answer": "BUCHWEIZEN",
+      "clue": "Buckwheat, grain used in pancakes"
+    },
+    {
+      "answer": "BÜRSTE",
+      "clue": "Brush, tool with bristles for cleaning"
+    },
+    {
+      "answer": "BUSFAHRER",
+      "clue": "Bus driver, person who drives a bus"
+    },
+    {
+      "answer": "DAMWILD",
+      "clue": "Fallow deer, spotted deer species"
+    },
+    {
+      "answer": "DANKESCHÖN",
+      "clue": "Thank you, expression of gratitude"
+    },
+    {
+      "answer": "DASEINSFORM",
+      "clue": "Form of existence, way of living"
+    },
+    {
+      "answer": "DECKENLAMPE",
+      "clue": "Ceiling lamp, light fixture on ceiling"
+    },
+    {
+      "answer": "DELFIN",
+      "clue": "Dolphin, intelligent marine mammal"
+    },
+    {
+      "answer": "DENKWEISE",
+      "clue": "Way of thinking, mental approach"
+    },
+    {
+      "answer": "DIENSTLEISTUNG",
+      "clue": "Service industry, providing professional help"
+    },
+    {
+      "answer": "DIRIGENT",
+      "clue": "Conductor, person leading an orchestra"
+    },
+    {
+      "answer": "DISKUSSION",
+      "clue": "Discussion, conversation about a topic"
+    },
+    {
+      "answer": "DISTANZ",
+      "clue": "Distance, amount of space between things"
+    },
+    {
+      "answer": "DOCHTE",
+      "clue": "Wicks, strings in candles absorbing wax"
+    },
+    {
+      "answer": "DOKUMENTATION",
+      "clue": "Documentation, written records or evidence"
+    },
+    {
+      "answer": "DOMINOSPIEL",
+      "clue": "Dominos, game with dotted tiles"
+    },
+    {
+      "answer": "DORNRÖSCHEN",
+      "clue": "Sleeping Beauty, fairy tale princess"
+    },
+    {
+      "answer": "DREIZACK",
+      "clue": "Trident, three-pronged spear"
+    },
+    {
+      "answer": "DROGERIE",
+      "clue": "Drugstore, shop selling toiletries"
+    },
+    {
+      "answer": "DRUCKEREI",
+      "clue": "Printing house, place for printing"
+    },
+    {
+      "answer": "DULDSAM",
+      "clue": "Tolerant, willing to accept differences"
+    },
+    {
+      "answer": "DÜNGEMITTEL",
+      "clue": "Fertilizer, substance promoting plant growth"
+    },
+    {
+      "answer": "DÜNGUNG",
+      "clue": "Fertilization, adding nutrients to soil"
+    },
+    {
+      "answer": "DUNKELHEIT",
+      "clue": "Darkness, absence of light"
+    },
+    {
+      "answer": "DURCHBRUCH",
+      "clue": "Breakthrough, important discovery or success"
+    },
+    {
+      "answer": "DURSTGEFÜHL",
+      "clue": "Thirst, sensation of needing to drink"
+    },
+    {
+      "answer": "EHRENAMTLICH",
+      "clue": "Voluntary, done without payment"
+    },
+    {
+      "answer": "EINBRUCH",
+      "clue": "Burglary, illegal entry into a building"
+    },
+    {
+      "answer": "EINFALT",
+      "clue": "Simplicity, quality of being simple"
+    },
+    {
+      "answer": "EINHEIT",
+      "clue": "Unity, state of being united"
+    },
+    {
+      "answer": "EINHÖRNIGSCHWARM",
+      "clue": "Unicorn, mythical single-horned horse"
+    },
+    {
+      "answer": "EINWOHNER",
+      "clue": "Inhabitant, person living in a place"
+    },
+    {
+      "answer": "EISZAPFEN",
+      "clue": "Icicle, hanging spike of ice"
+    },
+    {
+      "answer": "EIWEISS",
+      "clue": "Egg white, clear part of an egg"
+    },
+    {
+      "answer": "EISZEIT",
+      "clue": "Ice age, period of widespread glaciation"
+    },
+    {
+      "answer": "ELEND",
+      "clue": "Misery, great unhappiness or suffering"
+    },
+    {
+      "answer": "EMPFÄNGER",
+      "clue": "Recipient, person who receives something"
+    },
+    {
+      "answer": "ENERGIESPAREN",
+      "clue": "Energy saving, reducing power consumption"
+    },
+    {
+      "answer": "ENTDECKUNG",
+      "clue": "Discovery, finding something new"
+    },
+    {
+      "answer": "ENTFERNUNG",
+      "clue": "Distance, how far away something is"
+    },
+    {
+      "answer": "ENTSPANNUNG",
+      "clue": "Relaxation, relief from stress"
+    },
+    {
+      "answer": "ENTWICKLUNG",
+      "clue": "Development, process of growth or change"
+    },
+    {
+      "answer": "ERDBEERE",
+      "clue": "Strawberry, red heart-shaped fruit"
+    },
+    {
+      "answer": "ERDBODEN",
+      "clue": "Ground, surface of the earth"
+    },
+    {
+      "answer": "ERDGAS",
+      "clue": "Natural gas, fuel found underground"
+    },
+    {
+      "answer": "ERDKUNDE",
+      "clue": "Geography, study of the earth"
+    },
+    {
+      "answer": "ERDOIL",
+      "clue": "Crude oil, petroleum from the ground"
+    },
+    {
+      "answer": "ERFRISCHUNG",
+      "clue": "Refreshment, food or drink for energy"
+    },
+    {
+      "answer": "ERGEBNIS",
+      "clue": "Result, outcome of an action"
+    },
+    {
+      "answer": "ERHOLUNG",
+      "clue": "Recovery, return to health or energy"
+    },
+    {
+      "answer": "ERLEUCHTUNG",
+      "clue": "Enlightenment, spiritual understanding"
+    },
+    {
+      "answer": "ERNST",
+      "clue": "Seriousness, state of being grave"
+    },
+    {
+      "answer": "ERRUNGENSCHAFT",
+      "clue": "Achievement, thing accomplished with effort"
+    },
+    {
+      "answer": "ERZIEHUNG",
+      "clue": "Upbringing, way a child is raised"
+    },
+    {
+      "answer": "ETAGE",
+      "clue": "Story, floor level of a building"
+    },
+    {
+      "answer": "ETIKETTIERUNG",
+      "clue": "Labeling, attaching labels to items"
+    },
+    {
+      "answer": "ETIKETT",
+      "clue": "Label, sticker with information"
+    },
+    {
+      "answer": "EUROPA",
+      "clue": "Europe, one of the world's continents"
+    },
+    {
+      "answer": "EXISTENZ",
+      "clue": "Existence, state of being real"
+    },
+    {
+      "answer": "EXPEDITION",
+      "clue": "Expedition, journey to explore new places"
+    },
+    {
+      "answer": "FACHBEREICH",
+      "clue": "Field of study, academic discipline"
+    },
+    {
+      "answer": "FACHWERK",
+      "clue": "Half-timbering, wooden framework of buildings"
+    },
+    {
+      "answer": "FAHRGAST",
+      "clue": "Passenger, person traveling in a vehicle"
+    },
+    {
+      "answer": "FAHRKARTE",
+      "clue": "Ticket, document allowing travel"
+    },
+    {
+      "answer": "FAHRTKOSTEN",
+      "clue": "Travel costs, expenses for a journey"
+    },
+    {
+      "answer": "FAIMLIENBAUM",
+      "clue": "Family tree, diagram of family relations"
+    },
+    {
+      "answer": "FARBSTIFT",
+      "clue": "Colored pencil, pencil with colored core"
+    },
+    {
+      "answer": "FARBTON",
+      "clue": "Hue, shade of a color"
+    },
+    {
+      "answer": "FASCHING",
+      "clue": "Carnival, German pre-Lent festival"
+    },
+    {
+      "answer": "FASERPLATTE",
+      "clue": "Fiberboard, board made of compressed fibers"
+    },
+    {
+      "answer": "FAUSTRECHT",
+      "clue": "Law of the jungle, rule by strength"
+    },
+    {
+      "answer": "FENSTERLADEN",
+      "clue": "Shutter, cover for a window"
+    },
+    {
+      "answer": "FERNBEDIENUNG",
+      "clue": "Remote control, device for operating appliances"
+    },
+    {
+      "answer": "FESTMAHL",
+      "clue": "Feast, large celebratory meal"
+    },
+    {
+      "answer": "FETZEN",
+      "clue": "Rags, torn pieces of cloth"
+    },
+    {
+      "answer": "FEUCHTE",
+      "clue": "Moisture, slight wetness"
+    },
+    {
+      "answer": "FEUCHTIGKEIT",
+      "clue": "Humidity, amount of water vapor in air"
+    },
+    {
+      "answer": "FEUERWEHR",
+      "clue": "Fire brigade, firefighting organization"
+    },
+    {
+      "answer": "FILMPREMIERE",
+      "clue": "Movie premiere, first public showing of film"
+    },
+    {
+      "answer": "FINGERRING",
+      "clue": "Finger ring, ring worn on finger"
+    },
+    {
+      "answer": "FLACHLAND",
+      "clue": "Lowland, flat area of land"
+    },
+    {
+      "answer": "FLAMME",
+      "clue": "Flame, burning gas giving off light"
+    },
+    {
+      "answer": "FLEISS",
+      "clue": "Diligence, steady and earnest effort"
+    },
+    {
+      "answer": "FLIEHKRAFT",
+      "clue": "Centrifugal force, force in circular motion"
+    },
+    {
+      "answer": "FLIMMERN",
+      "clue": "Flickering, rapidly changing light"
+    },
+    {
+      "answer": "FLUGPLATZ",
+      "clue": "Airfield, small airport"
+    },
+    {
+      "answer": "FÖRDERUNG",
+      "clue": "Promotion, advancement or support"
+    },
+    {
+      "answer": "FÖHN",
+      "clue": "Foehn, warm dry mountain wind"
+    },
+    {
+      "answer": "FORSTWIRT",
+      "clue": "Forester, person managing forests"
+    },
+    {
+      "answer": "FOXTERRIER",
+      "clue": "Fox terrier, small lively dog breed"
+    },
+    {
+      "answer": "FRACHTER",
+      "clue": "Freighter, ship carrying cargo"
+    },
+    {
+      "answer": "FREIZEIT",
+      "clue": "Leisure, time free from work"
+    },
+    {
+      "answer": "FREMDE",
+      "clue": "Stranger, person unknown to you"
+    },
+    {
+      "answer": "FREMDSPRACHE",
+      "clue": "Foreign language, language other than native"
+    },
+    {
+      "answer": "FRISCHLUFT",
+      "clue": "Fresh air, clean outdoor air"
+    },
+    {
+      "answer": "FRÖHLICHKEIT",
+      "clue": "Cheerfulness, happy and optimistic manner"
+    },
+    {
+      "answer": "FÜHRERSCHEIN",
+      "clue": "Driving license, permit to drive a car"
+    },
+    {
+      "answer": "FÜRST",
+      "clue": "Prince, ruler of a principality"
+    },
+    {
+      "answer": "GARDEROBE",
+      "clue": "Wardrobe, cupboard for storing clothes"
+    },
+    {
+      "answer": "GARTENARBEIT",
+      "clue": "Gardening, work done in a garden"
+    },
+    {
+      "answer": "GARTENZAUN",
+      "clue": "Garden fence, barrier around a garden"
+    },
+    {
+      "answer": "GASTARBEITER",
+      "clue": "Guest worker, foreign worker"
+    },
+    {
+      "answer": "GASTRONOMIE",
+      "clue": "Gastronomy, art and science of good eating"
+    },
+    {
+      "answer": "GEBISS",
+      "clue": "Dentures, artificial teeth"
+    },
+    {
+      "answer": "GEDANKE",
+      "clue": "Thought, idea formed in the mind"
+    },
+    {
+      "answer": "GEDULDIG",
+      "clue": "Patient, able to wait without complaint"
+    },
+    {
+      "answer": "GEFÄSS",
+      "clue": "Vessel, container for liquids"
+    },
+    {
+      "answer": "GEFLECHT",
+      "clue": "Wickerwork, woven structure of flexible material"
+    },
+    {
+      "answer": "GEFÜHL",
+      "clue": "Feeling, emotional state"
+    },
+    {
+      "answer": "GEHEIMDIENST",
+      "clue": "Secret service, national intelligence agency"
+    },
+    {
+      "answer": "GEHIRN",
+      "clue": "Brain, organ of thought and feeling"
+    },
+    {
+      "answer": "GEHWEG",
+      "clue": "Footpath, path for pedestrians"
+    },
+    {
+      "answer": "GELB",
+      "clue": "Yellow, color of the sun"
+    },
+    {
+      "answer": "GELDBEUTEL",
+      "clue": "Wallet, small case for carrying money"
+    },
+    {
+      "answer": "GELEGENHEIT",
+      "clue": "Opportunity, favorable time to do something"
+    },
+    {
+      "answer": "GEMAHL",
+      "clue": "Spouse, husband or wife"
+    },
+    {
+      "answer": "GEMEINSAMKEIT",
+      "clue": "Common ground, shared feature"
+    },
+    {
+      "answer": "GENEALOGIE",
+      "clue": "Genealogy, study of family history"
+    },
+    {
+      "answer": "GENERATIONEN",
+      "clue": "Generations, groups born around same time"
+    },
+    {
+      "answer": "GENIE",
+      "clue": "Genius, person of exceptional intelligence"
+    },
+    {
+      "answer": "GEOLOGIE",
+      "clue": "Geology, science of earth's structure"
+    },
+    {
+      "answer": "GEOGRAPH",
+      "clue": "Geographer, person studying geography"
+    },
+    {
+      "answer": "GERÄT",
+      "clue": "Device, instrument or appliance"
+    },
+    {
+      "answer": "GERECHTIGKEIT",
+      "clue": "Justice, fair treatment of all"
+    },
+    {
+      "answer": "GERUCH",
+      "clue": "Smell, scent detected by nose"
+    },
+    {
+      "answer": "GERÜST",
+      "clue": "Scaffolding, frame for construction workers"
+    },
+    {
+      "answer": "GESICHTSPUNKT",
+      "clue": "Viewpoint, particular way of seeing"
+    },
+    {
+      "answer": "GESPRACH",
+      "clue": "Conversation, spoken exchange of ideas"
+    },
+    {
+      "answer": "GESTIRN",
+      "clue": "Celestial body, star or planet"
+    },
+    {
+      "answer": "GESUNDHEITSAMT",
+      "clue": "Health office, public health authority"
+    },
+    {
+      "answer": "GEWALT",
+      "clue": "Violence, use of physical force"
+    },
+    {
+      "answer": "GEWÄHR",
+      "clue": "Guarantee, promise of quality"
+    },
+    {
+      "answer": "GIER",
+      "clue": "Greed, excessive desire for more"
+    },
+    {
+      "answer": "GIPSFIGUR",
+      "clue": "Plaster figure, statue made of plaster"
+    },
+    {
+      "answer": "GLEICHHEIT",
+      "clue": "Equality, state of being equal"
+    },
+    {
+      "answer": "GLEICHMUTIG",
+      "clue": "Equanimous, calm and composed"
+    },
+    {
+      "answer": "GLÜCKSSPIEL",
+      "clue": "Gambling, games of chance for money"
+    },
+    {
+      "answer": "GNADENLOS",
+      "clue": "Merciless, without pity or compassion"
+    },
+    {
+      "answer": "GRENZSTEIN",
+      "clue": "Boundary stone, marker at property edge"
+    },
+    {
+      "answer": "GROBHEIT",
+      "clue": "Rudeness, lack of courtesy"
+    },
+    {
+      "answer": "GRUNDSATZ",
+      "clue": "Principle, fundamental rule or belief"
+    },
+    {
+      "answer": "GRUNDSCHULE",
+      "clue": "Primary school, school for young children"
+    },
+    {
+      "answer": "GÜTERSTÜCK",
+      "clue": "Goods train, freight train"
+    },
+    {
+      "answer": "GULASCH",
+      "clue": "Goulash, Hungarian meat stew"
+    },
+    {
+      "answer": "GUTACHTEN",
+      "clue": "Expert opinion, professional assessment"
+    },
+    {
+      "answer": "GUTSBESITZER",
+      "clue": "Landowner, person who owns land"
+    },
+    {
+      "answer": "HAARANSATZ",
+      "clue": "Hairline, where hair begins on forehead"
+    },
+    {
+      "answer": "HAARBÜRSTE",
+      "clue": "Hairbrush, brush for grooming hair"
+    },
+    {
+      "answer": "HAFERKORN",
+      "clue": "Oat grain, single grain of oat"
+    },
+    {
+      "answer": "HALLENBAD",
+      "clue": "Indoor swimming pool, enclosed pool"
+    },
+    {
+      "answer": "HANDBALL",
+      "clue": "Handball, ball sport played indoors"
+    },
+    {
+      "answer": "HANDLANGER",
+      "clue": "Laborer, person doing unskilled work"
+    },
+    {
+      "answer": "HANDLUNG",
+      "clue": "Plot, sequence of events in a story"
+    },
+    {
+      "answer": "HANDWERKER",
+      "clue": "Tradesman, skilled manual worker"
+    },
+    {
+      "answer": "HANF",
+      "clue": "Hemp, plant used to make rope and cloth"
+    },
+    {
+      "answer": "HASCHEE",
+      "clue": "Hash, dish of chopped meat and potato"
+    },
+    {
+      "answer": "HAUSAUFGABE",
+      "clue": "Homework, school work done at home"
+    },
+    {
+      "answer": "HAUSMEISTER",
+      "clue": "Caretaker, person maintaining a building"
+    },
+    {
+      "answer": "HAUSNUMMER",
+      "clue": "House number, number identifying a building"
+    },
+    {
+      "answer": "HAUSTIER",
+      "clue": "Pet, domesticated animal kept at home"
+    },
+    {
+      "answer": "HAUSTUR",
+      "clue": "Front door, main entrance of a house"
+    },
+    {
+      "answer": "HEBAMME",
+      "clue": "Midwife, person assisting at childbirth"
+    },
+    {
+      "answer": "HEERSCHAR",
+      "clue": "Host, large army or crowd"
+    },
+    {
+      "answer": "HEIDELBEERE",
+      "clue": "Bilberry, small dark wild berry"
+    },
+    {
+      "answer": "HEILKRAUT",
+      "clue": "Medicinal herb, plant used for healing"
+    },
+    {
+      "answer": "HEILMITTEL",
+      "clue": "Remedy, treatment for illness"
+    },
+    {
+      "answer": "HEILPRAKTIKER",
+      "clue": "Naturopath, alternative medicine practitioner"
+    },
+    {
+      "answer": "HEIMKEHR",
+      "clue": "Homecoming, return to one's home"
+    },
+    {
+      "answer": "HEISERKEIT",
+      "clue": "Hoarseness, rough and husky voice"
+    },
+    {
+      "answer": "HEIRATSANTRAG",
+      "clue": "Marriage proposal, offer to marry"
+    },
+    {
+      "answer": "HELDENMUT",
+      "clue": "Heroism, great bravery and courage"
+    },
+    {
+      "answer": "HERBSTBLATT",
+      "clue": "Autumn leaf, leaf that turns color in fall"
+    },
+    {
+      "answer": "HERZERKRANKUNG",
+      "clue": "Heart disease, condition affecting the heart"
+    },
+    {
+      "answer": "HERZINFARKT",
+      "clue": "Heart attack, blockage of blood to heart"
+    },
+    {
+      "answer": "HERZLICHKEIT",
+      "clue": "Warmth, genuine friendliness"
+    },
+    {
+      "answer": "HILFSBEREIT",
+      "clue": "Helpful, ready to give assistance"
+    },
+    {
+      "answer": "HIMMELSKÖRPER",
+      "clue": "Celestial object, star, planet, or moon"
+    },
+    {
+      "answer": "HINTERLAND",
+      "clue": "Hinterland, area behind a coast or border"
+    },
+    {
+      "answer": "HOCHMUT",
+      "clue": "Pride, excessively high opinion of oneself"
+    },
+    {
+      "answer": "HOCHSTEIGER",
+      "clue": "High climber, ambitious person"
+    },
+    {
+      "answer": "HOCHTOURIST",
+      "clue": "Alpine tourist, person hiking in mountains"
+    },
+    {
+      "answer": "HOFBRÄUHAUS",
+      "clue": "Beer hall, famous Munich brewery"
+    },
+    {
+      "answer": "HÖHENSONNE",
+      "clue": "Altitude sun, sun at high elevation"
+    },
+    {
+      "answer": "HOLZARBEITER",
+      "clue": "Lumberjack, person who cuts trees"
+    },
+    {
+      "answer": "HOLZFÄLLER",
+      "clue": "Woodcutter, person felling trees"
+    },
+    {
+      "answer": "HOLZKOHLE",
+      "clue": "Charcoal, black carbon from burned wood"
+    },
+    {
+      "answer": "HOLZKONSTRUKTION",
+      "clue": "Wooden construction, building with wood"
+    },
+    {
+      "answer": "HOLZSCHUPPEN",
+      "clue": "Woodshed, shelter for storing firewood"
+    },
+    {
+      "answer": "HOLZTAFEL",
+      "clue": "Wooden board, flat piece of wood"
+    },
+    {
+      "answer": "HONIGTOPF",
+      "clue": "Honey jar, container holding honey"
+    },
+    {
+      "answer": "HOPFENGARTEN",
+      "clue": "Hop garden, field where hops are grown"
+    },
+    {
+      "answer": "HUMUS",
+      "clue": "Humus, organic matter in soil"
+    },
+    {
+      "answer": "ILLUSTRIERUNG",
+      "clue": "Illustration, picture explaining text"
+    },
+    {
+      "answer": "IMPFUNG",
+      "clue": "Vaccination, injection for disease prevention"
+    },
+    {
+      "answer": "IMPROVISIERT",
+      "clue": "Improvised, done without preparation"
+    },
+    {
+      "answer": "INBEGRIFF",
+      "clue": "Embodiment, perfect example of something"
+    },
+    {
+      "answer": "INFORMATIONSSTAND",
+      "clue": "Information stand, booth with details"
+    },
+    {
+      "answer": "INNENEINRICHTUNG",
+      "clue": "Interior design, furnishing of rooms"
+    },
+    {
+      "answer": "INNENSTADT",
+      "clue": "City center, downtown area"
+    },
+    {
+      "answer": "INSTITUTION",
+      "clue": "Institution, established organization"
+    },
+    {
+      "answer": "INTEGRITÄT",
+      "clue": "Integrity, quality of being honest"
+    },
+    {
+      "answer": "INTELLIGENZ",
+      "clue": "Intelligence, ability to learn and understand"
+    },
+    {
+      "answer": "ISOGLOSS",
+      "clue": "Isogloss, boundary between language features"
+    },
+    {
+      "answer": "JÄGERMEISTER",
+      "clue": "Master huntsman, German herbal liqueur"
+    },
+    {
+      "answer": "JAHRESRINGE",
+      "clue": "Tree rings, annual growth circles in wood"
+    },
+    {
+      "answer": "JAPANISCH",
+      "clue": "Japanese, relating to Japan"
+    },
+    {
+      "answer": "KÄSEKUCHEN",
+      "clue": "Cheesecake, baked dessert with cream cheese"
+    },
+    {
+      "answer": "KALEIDOSKOP",
+      "clue": "Kaleidoscope, tube with colorful patterns"
+    },
+    {
+      "answer": "KAMINFEUER",
+      "clue": "Fireplace fire, open fire in a hearth"
+    },
+    {
+      "answer": "KANTATE",
+      "clue": "Cantata, choral musical composition"
+    },
+    {
+      "answer": "KAPELLMEISTER",
+      "clue": "Choirmaster, director of a musical group"
+    },
+    {
+      "answer": "KARNEVALSUMZUG",
+      "clue": "Carnival procession, festive parade"
+    },
+    {
+      "answer": "KARTOFFELKNÖDEL",
+      "clue": "Potato dumpling, German potato dish"
+    },
+    {
+      "answer": "KATASTROPHE",
+      "clue": "Disaster, event causing great harm"
+    },
+    {
+      "answer": "KETTENSÄGE",
+      "clue": "Chainsaw, motorized cutting tool"
+    },
+    {
+      "answer": "KINDERBUCH",
+      "clue": "Children's book, book for young readers"
+    },
+    {
+      "answer": "KINDERWAGEN",
+      "clue": "Stroller, wheeled baby carriage"
+    },
+    {
+      "answer": "KLAPPE",
+      "clue": "Flap, hinged cover"
+    },
+    {
+      "answer": "KLASSENZIMMER",
+      "clue": "Classroom, room for teaching"
+    },
+    {
+      "answer": "KLETTERGERÜST",
+      "clue": "Climbing frame, outdoor play structure"
+    },
+    {
+      "answer": "KLIMAANLAGE",
+      "clue": "Air conditioning, system cooling air"
+    },
+    {
+      "answer": "KLINGEL",
+      "clue": "Doorbell, button that rings a bell"
+    },
+    {
+      "answer": "KNÖDEL",
+      "clue": "Dumpling, boiled ball of dough"
+    },
+    {
+      "answer": "KNOPFLOCH",
+      "clue": "Buttonhole, hole for a button"
+    },
+    {
+      "answer": "KÖNIGSPALAST",
+      "clue": "Royal palace, residence of a monarch"
+    },
+    {
+      "answer": "KÖTZENPILZ",
+      "clue": "Inky cap mushroom, dissolving fungus"
+    },
+    {
+      "answer": "KOMPOST",
+      "clue": "Compost, decomposed organic matter"
+    },
+    {
+      "answer": "KONDITOREI",
+      "clue": "Patisserie, shop selling pastries"
+    },
+    {
+      "answer": "KOPFSCHMERZ",
+      "clue": "Headache, pain in the head"
+    },
+    {
+      "answer": "KÖRPERPFLEGE",
+      "clue": "Personal hygiene, caring for one's body"
+    },
+    {
+      "answer": "KRAFTFAHRZEUG",
+      "clue": "Motor vehicle, vehicle with an engine"
+    },
+    {
+      "answer": "KRAFTWERK",
+      "clue": "Power station, facility generating electricity"
+    },
+    {
+      "answer": "KRANKENVERSICHERUNG",
+      "clue": "Health insurance, medical coverage"
+    },
+    {
+      "answer": "KRANKENSCHWESTER",
+      "clue": "Nurse, healthcare professional"
+    },
+    {
+      "answer": "KREATIVITÄT",
+      "clue": "Creativity, ability to produce original ideas"
+    },
+    {
+      "answer": "KREUZFAHRT",
+      "clue": "Cruise, sea voyage on a ship"
+    },
+    {
+      "answer": "KULTURZENTRUM",
+      "clue": "Cultural center, hub of arts activities"
+    },
+    {
+      "answer": "KUPFERSCHMIED",
+      "clue": "Coppersmith, person who works with copper"
+    },
+    {
+      "answer": "LADENKASSE",
+      "clue": "Shop till, cash machine in a store"
+    },
+    {
+      "answer": "LANDARZT",
+      "clue": "Country doctor, rural medical practitioner"
+    },
+    {
+      "answer": "LANDWIRT",
+      "clue": "Farmer, person who farms land"
+    },
+    {
+      "answer": "LANDWIRTSCHAFT",
+      "clue": "Agriculture, science of farming"
+    },
+    {
+      "answer": "LANGEWEILE",
+      "clue": "Boredom, state of being bored"
+    },
+    {
+      "answer": "LÄRMBELÄSTIGUNG",
+      "clue": "Noise pollution, excessive unwanted sound"
+    },
+    {
+      "answer": "LAUBSÄGE",
+      "clue": "Fretsaw, fine-bladed saw for cutting shapes"
+    },
+    {
+      "answer": "LADENDIEB",
+      "clue": "Shoplifter, person who steals from stores"
+    },
+    {
+      "answer": "LÄNDER",
+      "clue": "Countries, nations of the world"
+    },
+    {
+      "answer": "LASTKAHN",
+      "clue": "Barge, flat-bottomed river boat"
+    },
+    {
+      "answer": "LEDERTASCHE",
+      "clue": "Leather bag, bag made from leather"
+    },
+    {
+      "answer": "LEHRBUCH",
+      "clue": "Textbook, educational book"
+    },
+    {
+      "answer": "LEICHTATHLET",
+      "clue": "Track athlete, person competing in athletics"
+    },
+    {
+      "answer": "LEISTUNGSSPORT",
+      "clue": "Competitive sport, high-performance athletics"
+    },
+    {
+      "answer": "LERNBEGIERDE",
+      "clue": "Eagerness to learn, intellectual curiosity"
+    },
+    {
+      "answer": "LICHTSCHALTER",
+      "clue": "Light switch, device to turn on lights"
+    },
+    {
+      "answer": "LINKSHÄNDER",
+      "clue": "Left-hander, person who uses left hand"
+    },
+    {
+      "answer": "LIQUIDITÄT",
+      "clue": "Liquidity, availability of cash"
+    },
+    {
+      "answer": "LITERATUR",
+      "clue": "Literature, written works of art"
+    },
+    {
+      "answer": "LÖFFEL",
+      "clue": "Spoon, utensil with a round bowl"
+    },
+    {
+      "answer": "LOKOMOTIV",
+      "clue": "Locomotive, engine pulling a train"
+    },
+    {
+      "answer": "LUSTVOLL",
+      "clue": "Pleasurable, full of enjoyment"
+    },
+    {
+      "answer": "LYRIK",
+      "clue": "Lyric poetry, poems expressing feelings"
+    },
+    {
+      "answer": "MAGERKEIT",
+      "clue": "Thinness, state of being lean"
+    },
+    {
+      "answer": "MAISFELD",
+      "clue": "Corn field, field of maize plants"
+    },
+    {
+      "answer": "MALERARBEITEN",
+      "clue": "Painting work, task of decorating walls"
+    },
+    {
+      "answer": "MALEREIBETRIEB",
+      "clue": "Painting company, business of painters"
+    },
+    {
+      "answer": "MARATHON",
+      "clue": "Marathon, long-distance running race"
+    },
+    {
+      "answer": "MASCHENDRAHT",
+      "clue": "Wire mesh, woven metal fence material"
+    },
+    {
+      "answer": "MASSSTAB",
+      "clue": "Scale, ratio between model and reality"
+    },
+    {
+      "answer": "MEDAILLON",
+      "clue": "Medallion, decorative round pendant"
+    },
+    {
+      "answer": "MEDIZIN",
+      "clue": "Medicine, science of health and healing"
+    },
+    {
+      "answer": "MELANCHOLIE",
+      "clue": "Melancholy, deep sadness or gloom"
+    },
+    {
+      "answer": "MEISTERSCHAFT",
+      "clue": "Championship, competition for the title"
+    },
+    {
+      "answer": "MEINUNGSVERSCHIEDENHEIT",
+      "clue": "Disagreement, differing views"
+    },
+    {
+      "answer": "MINDERHEIT",
+      "clue": "Minority, smaller group within a population"
+    },
+    {
+      "answer": "MINNEGESANG",
+      "clue": "Minnesong, medieval love poetry"
+    },
+    {
+      "answer": "MITTELPUNKT",
+      "clue": "Center point, middle of something"
+    },
+    {
+      "answer": "MITTELSTAND",
+      "clue": "Middle class, social group between rich and poor"
+    },
+    {
+      "answer": "MITTERNACHTSSONNE",
+      "clue": "Midnight sun, sun visible at midnight"
+    },
+    {
+      "answer": "MÖBELSTÜCK",
+      "clue": "Piece of furniture, item in a room"
+    },
+    {
+      "answer": "MÖHRENEINTOPF",
+      "clue": "Carrot stew, stew with carrots"
+    },
+    {
+      "answer": "MORDFALL",
+      "clue": "Murder case, investigation of a killing"
+    },
+    {
+      "answer": "MÜHSAM",
+      "clue": "Arduous, requiring great effort"
+    },
+    {
+      "answer": "MÜLLABFUHR",
+      "clue": "Waste collection, garbage pickup service"
+    },
+    {
+      "answer": "MULTILINGUAL",
+      "clue": "Multilingual, speaking many languages"
+    },
+    {
+      "answer": "MUNDART",
+      "clue": "Dialect, regional variety of a language"
+    },
+    {
+      "answer": "MUNDHARMONIKA",
+      "clue": "Harmonica, small mouth-blown instrument"
+    },
+    {
+      "answer": "MUSIKALISCH",
+      "clue": "Musical, relating to or skilled in music"
+    },
+    {
+      "answer": "MUTTERSCHIFF",
+      "clue": "Mother ship, large vessel carrying smaller ones"
+    },
+    {
+      "answer": "NACHWUCHS",
+      "clue": "Offspring, children or young people"
+    },
+    {
+      "answer": "NÄHTISCH",
+      "clue": "Sewing table, table for needlework"
+    },
+    {
+      "answer": "NÄHNADEL",
+      "clue": "Sewing needle, needle for stitching"
+    },
+    {
+      "answer": "NATURSCHUTZ",
+      "clue": "Nature conservation, protecting wildlife"
+    },
+    {
+      "answer": "NATURWISSENSCHAFT",
+      "clue": "Natural science, study of the natural world"
+    },
+    {
+      "answer": "NEBENWIRKUNG",
+      "clue": "Side effect, unintended consequence of medicine"
+    },
+    {
+      "answer": "NEIGUNG",
+      "clue": "Inclination, tendency toward something"
+    },
+    {
+      "answer": "NERVOSITÄT",
+      "clue": "Nervousness, state of anxiety"
+    },
+    {
+      "answer": "NEUGEBOREN",
+      "clue": "Newborn, baby just born"
+    },
+    {
+      "answer": "NIEDERGANG",
+      "clue": "Decline, gradual deterioration"
+    },
+    {
+      "answer": "NIEDERSCHLAG",
+      "clue": "Precipitation, rain or snow from sky"
+    },
+    {
+      "answer": "NULLSTUNDE",
+      "clue": "Zero hour, critical moment of action"
+    },
+    {
+      "answer": "NUTZPFLANZE",
+      "clue": "Useful plant, plant grown for food or fiber"
+    },
+    {
+      "answer": "NYMPHE",
+      "clue": "Nymph, nature spirit in mythology"
+    },
+    {
+      "answer": "OBSTESSIG",
+      "clue": "Fruit vinegar, vinegar from fruit"
+    },
+    {
+      "answer": "OBSTSTAND",
+      "clue": "Fruit stall, market stand selling fruit"
+    },
+    {
+      "answer": "OFENROHR",
+      "clue": "Stovepipe, flue pipe of a wood stove"
+    },
+    {
+      "answer": "OHRWURM",
+      "clue": "Earworm, catchy tune stuck in one's head"
+    },
+    {
+      "answer": "ORDNUNGSZAHL",
+      "clue": "Ordinal number, number showing position"
+    },
+    {
+      "answer": "ORIENTIERUNG",
+      "clue": "Orientation, finding one's bearings"
+    },
+    {
+      "answer": "ORTSSCHILD",
+      "clue": "Town sign, sign showing place name"
+    },
+    {
+      "answer": "PACKESEL",
+      "clue": "Pack animal, animal carrying goods"
+    },
+    {
+      "answer": "PAKETDIENST",
+      "clue": "Parcel delivery, courier service"
+    },
+    {
+      "answer": "PANTOMIME",
+      "clue": "Mime, performance without words"
+    },
+    {
+      "answer": "PARTEIMITGLIED",
+      "clue": "Party member, person in a political party"
+    },
+    {
+      "answer": "PATCHWORK",
+      "clue": "Patchwork, fabric sewn from small pieces"
+    },
+    {
+      "answer": "PFERDERENNEN",
+      "clue": "Horse racing, sport of racing horses"
+    },
+    {
+      "answer": "PFLEGEHEIM",
+      "clue": "Care home, home for elderly or ill people"
+    },
+    {
+      "answer": "PFLICHTBEWUSST",
+      "clue": "Conscientious, diligent in duty"
+    },
+    {
+      "answer": "PFLÜGEN",
+      "clue": "Ploughing, turning over soil for planting"
+    },
+    {
+      "answer": "PHOSPHAT",
+      "clue": "Phosphate, chemical compound with phosphorus"
+    },
+    {
+      "answer": "PHYSIK",
+      "clue": "Physics, science of matter and energy"
+    },
+    {
+      "answer": "PHYSIOTHERAPIE",
+      "clue": "Physiotherapy, physical treatment of injury"
+    },
+    {
+      "answer": "PIONIER",
+      "clue": "Pioneer, person who explores new territory"
+    },
+    {
+      "answer": "PÖSIE",
+      "clue": "Poetry, literary art using verse"
+    },
+    {
+      "answer": "POLIZIST",
+      "clue": "Policeman, male police officer"
+    },
+    {
+      "answer": "POLKAMUSIK",
+      "clue": "Polka music, lively Central European dance music"
+    },
+    {
+      "answer": "PORZELLAN",
+      "clue": "Porcelain, fine white ceramic material"
+    },
+    {
+      "answer": "POSTKARTE",
+      "clue": "Postcard, card sent by mail"
+    },
+    {
+      "answer": "PRÄCHTIG",
+      "clue": "Magnificent, impressively beautiful"
+    },
+    {
+      "answer": "PRESSEFREIHEIT",
+      "clue": "Press freedom, right of free journalism"
+    },
+    {
+      "answer": "PRIORITÄT",
+      "clue": "Priority, thing treated as most important"
+    },
+    {
+      "answer": "PROPHEZEIUNG",
+      "clue": "Prophecy, prediction of future events"
+    },
+    {
+      "answer": "PROVINZ",
+      "clue": "Province, administrative region of a country"
+    },
+    {
+      "answer": "PRUNKVOLL",
+      "clue": "Opulent, rich and splendid"
+    },
+    {
+      "answer": "QUALITÄT",
+      "clue": "Quality, standard of excellence"
+    },
+    {
+      "answer": "QÜRDENKER",
+      "clue": "Lateral thinker, person who thinks creatively"
+    },
+    {
+      "answer": "RADIOAKTIV",
+      "clue": "Radioactive, emitting nuclear radiation"
+    },
+    {
+      "answer": "RATGEBER",
+      "clue": "Advisor, person giving guidance"
+    },
+    {
+      "answer": "RAUBTIER",
+      "clue": "Predator, animal that hunts others"
+    },
+    {
+      "answer": "RAUMFAHRT",
+      "clue": "Space travel, travel beyond Earth's atmosphere"
+    },
+    {
+      "answer": "REALITÄT",
+      "clue": "Reality, state of things as they actually are"
+    },
+    {
+      "answer": "RECHTSANWALT",
+      "clue": "Barrister, lawyer who argues court cases"
+    },
+    {
+      "answer": "REGENBOGEN",
+      "clue": "Rainbow, arc of colors in the sky"
+    },
+    {
+      "answer": "REGIERUNG",
+      "clue": "Government, governing body of a country"
+    },
+    {
+      "answer": "REISENDER",
+      "clue": "Traveler, person on a journey"
+    },
+    {
+      "answer": "RENAISSANCE",
+      "clue": "Renaissance, cultural revival in 14th-17th century"
+    },
+    {
+      "answer": "RENTNERHEIM",
+      "clue": "Retirement home, home for elderly people"
+    },
+    {
+      "answer": "RITTERORDEN",
+      "clue": "Chivalric order, knightly organization"
+    },
+    {
+      "answer": "ROTTUCKE",
+      "clue": "Red jacket, garment colored red"
+    },
+    {
+      "answer": "RUNDFUNK",
+      "clue": "Broadcasting, transmitting programs by radio"
+    },
+    {
+      "answer": "SAISONARBEIT",
+      "clue": "Seasonal work, temporary employment"
+    },
+    {
+      "answer": "SANDSTRAND",
+      "clue": "Sandy beach, beach with sand"
+    },
+    {
+      "answer": "SANFTMUT",
+      "clue": "Gentleness, mild and kind manner"
+    },
+    {
+      "answer": "SCHABERNACK",
+      "clue": "Prank, mischievous trick on someone"
+    },
+    {
+      "answer": "SCHATTENSEITE",
+      "clue": "Shadow side, negative aspect of something"
+    },
+    {
+      "answer": "SCHAUERSTORY",
+      "clue": "Horror story, frightening narrative"
+    },
+    {
+      "answer": "SCHAUFENSTERPUPPE",
+      "clue": "Mannequin, dummy for displaying clothing"
+    },
+    {
+      "answer": "SCHICHTARBEIT",
+      "clue": "Shift work, working rotating hours"
+    },
+    {
+      "answer": "SCHLOSSHERR",
+      "clue": "Castle lord, owner of a castle"
+    },
+    {
+      "answer": "SCHLÜSSELBUND",
+      "clue": "Key ring, ring holding multiple keys"
+    },
+    {
+      "answer": "SCHOTTLAND",
+      "clue": "Scotland, northern part of Great Britain"
+    },
+    {
+      "answer": "SCHWERMUT",
+      "clue": "Melancholy, deep sadness"
+    },
+    {
+      "answer": "SCHWERTLILIE",
+      "clue": "Iris, flowering plant with sword-shaped leaves"
+    },
+    {
+      "answer": "SEHENSWÜRDIGKEIT",
+      "clue": "Sight, tourist attraction worth seeing"
+    },
+    {
+      "answer": "SELBSTVERTRAUEN",
+      "clue": "Self-confidence, belief in oneself"
+    },
+    {
+      "answer": "SENIORENHEIM",
+      "clue": "Senior home, residence for elderly people"
+    },
+    {
+      "answer": "SEUFZER",
+      "clue": "Sigh, deep audible breath expressing feeling"
+    },
+    {
+      "answer": "SICHERHEIT",
+      "clue": "Safety, freedom from danger"
+    },
+    {
+      "answer": "SICHERHEITSNADEL",
+      "clue": "Safety pin, pin with guarded point"
+    },
+    {
+      "answer": "SILBERHOCHZEIT",
+      "clue": "Silver wedding, 25th wedding anniversary"
+    },
+    {
+      "answer": "SINFONIKER",
+      "clue": "Symphonist, composer of symphonies"
+    },
+    {
+      "answer": "SOCKENSCHUBLADE",
+      "clue": "Sock drawer, drawer for socks"
+    },
+    {
+      "answer": "SOMMERFRISCHE",
+      "clue": "Summer retreat, cool summer getaway"
+    },
+    {
+      "answer": "SONNENSCHIRM",
+      "clue": "Parasol, umbrella protecting from sun"
+    },
+    {
+      "answer": "SOZIALARBEIT",
+      "clue": "Social work, helping people in need"
+    },
+    {
+      "answer": "SPARBUCH",
+      "clue": "Savings book, record of bank savings"
+    },
+    {
+      "answer": "SPARGELFELD",
+      "clue": "Asparagus field, field growing asparagus"
+    },
+    {
+      "answer": "SPEICHERCHIP",
+      "clue": "Memory chip, electronic data storage device"
+    },
+    {
+      "answer": "SPEISENFOLGE",
+      "clue": "Menu order, sequence of dishes served"
+    },
+    {
+      "answer": "SPEISEZIMMER",
+      "clue": "Dining room, room for eating meals"
+    },
+    {
+      "answer": "SPENDIERFREUDIG",
+      "clue": "Generous, willing to spend money on others"
+    },
+    {
+      "answer": "SPERLINGSVOGEL",
+      "clue": "Sparrow bird, perching bird species"
+    },
+    {
+      "answer": "SPRICHWORT",
+      "clue": "Proverb, short traditional saying"
+    },
+    {
+      "answer": "SPRINGBRUNNEN",
+      "clue": "Fountain, decorative water feature"
+    },
+    {
+      "answer": "STACHELBEER",
+      "clue": "Gooseberry, tart green berry"
+    },
+    {
+      "answer": "STALLKNECHT",
+      "clue": "Stable hand, person caring for horses"
+    },
+    {
+      "answer": "STAMMTISCH",
+      "clue": "Regular table, reserved table for regulars"
+    },
+    {
+      "answer": "STANDPUNKT",
+      "clue": "Standpoint, person's particular viewpoint"
+    },
+    {
+      "answer": "STAUDENGÄRTNEREI",
+      "clue": "Perennial nursery, plant growing business"
+    },
+    {
+      "answer": "STEHLAMPE",
+      "clue": "Floor lamp, lamp standing on the floor"
+    },
+    {
+      "answer": "STEINBRUCH",
+      "clue": "Quarry, site where stone is extracted"
+    },
+    {
+      "answer": "STEINGARTEN",
+      "clue": "Rock garden, garden with stones and plants"
+    },
+    {
+      "answer": "STEUERERKLÄRUNG",
+      "clue": "Tax return, annual financial declaration"
+    },
+    {
+      "answer": "STIMMUNG",
+      "clue": "Mood, temporary state of mind"
+    },
+    {
+      "answer": "STOCKFISCH",
+      "clue": "Stockfish, dried unsalted fish"
+    },
+    {
+      "answer": "STRANDPROMENADE",
+      "clue": "Seafront promenade, walkway by the sea"
+    },
+    {
+      "answer": "STRECKENNETZ",
+      "clue": "Rail network, system of train routes"
+    },
+    {
+      "answer": "STRICKWAREN",
+      "clue": "Knitwear, garments made by knitting"
+    },
+    {
+      "answer": "STROMAUSFALL",
+      "clue": "Power outage, interruption of electricity"
+    },
+    {
+      "answer": "STUNDEN",
+      "clue": "Hours, units of time equal to 60 minutes"
+    },
+    {
+      "answer": "SUDETENDEUTSCH",
+      "clue": "Sudeten German, ethnic Germans from Czechia"
+    },
+    {
+      "answer": "SYMPATHIE",
+      "clue": "Sympathy, feelings of care for others"
+    },
+    {
+      "answer": "SZENE",
+      "clue": "Scene, place or setting of an event"
+    },
+    {
+      "answer": "TÄKWONDO",
+      "clue": "Taekwondo, Korean martial art"
+    },
+    {
+      "answer": "TAGEBLATT",
+      "clue": "Daily newspaper, paper published each day"
+    },
+    {
+      "answer": "TAGESLICHT",
+      "clue": "Daylight, natural light during the day"
+    },
+    {
+      "answer": "TAGESZEITUNG",
+      "clue": "Daily paper, newspaper published every day"
+    },
+    {
+      "answer": "TALMUD",
+      "clue": "Talmud, central text of Rabbinic Judaism"
+    },
+    {
+      "answer": "TANNENBAUM",
+      "clue": "Christmas tree, decorated fir tree"
+    },
+    {
+      "answer": "TASCHENGELD",
+      "clue": "Pocket money, small allowance for children"
+    },
+    {
+      "answer": "TAXISTAND",
+      "clue": "Taxi rank, area where taxis wait"
+    },
+    {
+      "answer": "TEEDRINKER",
+      "clue": "Tea drinker, person who enjoys tea"
+    },
+    {
+      "answer": "TEILNEHMER",
+      "clue": "Participant, person taking part in something"
+    },
+    {
+      "answer": "TELESKOP",
+      "clue": "Telescope, optical instrument for distant viewing"
+    },
+    {
+      "answer": "TEMPERAMENT",
+      "clue": "Temperament, person's nature and outlook"
+    },
+    {
+      "answer": "TENDENZ",
+      "clue": "Tendency, inclination toward a particular action"
+    },
+    {
+      "answer": "TERRAKOTTA",
+      "clue": "Terracotta, unglazed brownish-red clay"
+    },
+    {
+      "answer": "THERMOMETER",
+      "clue": "Thermometer, instrument measuring temperature"
+    },
+    {
+      "answer": "THYMIAN",
+      "clue": "Thyme, aromatic herb used in cooking"
+    },
+    {
+      "answer": "TISCHDECKE",
+      "clue": "Tablecloth, cloth covering a table"
+    },
+    {
+      "answer": "TISCHTENNIS",
+      "clue": "Table tennis, sport played on a table"
+    },
+    {
+      "answer": "TÖNERN",
+      "clue": "Earthen, made from clay or earth"
+    },
+    {
+      "answer": "TOLLKIRSCHE",
+      "clue": "Deadly nightshade, highly poisonous plant"
+    },
+    {
+      "answer": "TONLEITER",
+      "clue": "Musical scale, sequence of musical notes"
+    },
+    {
+      "answer": "TOPFPFLANZE",
+      "clue": "Potted plant, plant growing in a pot"
+    },
+    {
+      "answer": "TOURISMUSBÜRO",
+      "clue": "Tourist office, information center for visitors"
+    },
+    {
+      "answer": "TRACHTENGRUPPE",
+      "clue": "Folk costume group, cultural dance ensemble"
+    },
+    {
+      "answer": "TRAMPOLIN",
+      "clue": "Trampoline, bouncy platform for jumping"
+    },
+    {
+      "answer": "TRANSPORTMITTEL",
+      "clue": "Means of transport, vehicle for travel"
+    },
+    {
+      "answer": "TRAUMHAFT",
+      "clue": "Dreamy, wonderfully pleasant"
+    },
+    {
+      "answer": "TRITTBRETTFAHRER",
+      "clue": "Freeloader, person benefiting without contributing"
+    },
+    {
+      "answer": "TROCKENHEIT",
+      "clue": "Drought, prolonged dry period"
+    },
+    {
+      "answer": "TRÖDELMARKT",
+      "clue": "Junk market, market for second-hand goods"
+    },
+    {
+      "answer": "TURNHALLE",
+      "clue": "Gymnasium, room for indoor sports"
+    },
+    {
+      "answer": "TURNSCHUHE",
+      "clue": "Sneakers, rubber-soled sports shoes"
+    },
+    {
+      "answer": "TYRANN",
+      "clue": "Tyrant, cruel and oppressive ruler"
+    },
+    {
+      "answer": "ÜBERSCHWEMMUNG",
+      "clue": "Flooding, covering of land by water"
+    },
+    {
+      "answer": "ÜBERZEUGUNG",
+      "clue": "Conviction, firmly held belief"
+    },
+    {
+      "answer": "UMWELTSCHUTZ",
+      "clue": "Environmental protection, conservation of nature"
+    },
+    {
+      "answer": "UNGEDULD",
+      "clue": "Impatience, inability to wait calmly"
+    },
+    {
+      "answer": "UNIVERSITÄT",
+      "clue": "University, institution of higher learning"
+    },
+    {
+      "answer": "UNTERRRICHT",
+      "clue": "Lesson, period of teaching"
+    },
+    {
+      "answer": "URGESCHICHTE",
+      "clue": "Prehistory, time before written records"
+    },
+    {
+      "answer": "URLAUBER",
+      "clue": "Vacationer, person on holiday"
+    },
+    {
+      "answer": "VATERLANDSLIEBE",
+      "clue": "Patriotism, love of one's country"
+    },
+    {
+      "answer": "VERANSTALTUNG",
+      "clue": "Event, organized public occasion"
+    },
+    {
+      "answer": "VERBINDLICHKEIT",
+      "clue": "Obligation, binding commitment"
+    },
+    {
+      "answer": "VERDACHT",
+      "clue": "Suspicion, feeling that something is wrong"
+    },
+    {
+      "answer": "VEREINIGUNG",
+      "clue": "Unification, joining of separate parts"
+    },
+    {
+      "answer": "VERFASSUNG",
+      "clue": "Constitution, fundamental law of a country"
+    },
+    {
+      "answer": "VERHALTENSWEISE",
+      "clue": "Behavior, way of acting"
+    },
+    {
+      "answer": "VERLOBUNG",
+      "clue": "Engagement, formal agreement to marry"
+    },
+    {
+      "answer": "VERMÖGEN",
+      "clue": "Wealth, large amount of money"
+    },
+    {
+      "answer": "VERSCHWENDUNG",
+      "clue": "Waste, using more than needed"
+    },
+    {
+      "answer": "VERSTAND",
+      "clue": "Reason, ability to think clearly"
+    },
+    {
+      "answer": "VERTRAUEN",
+      "clue": "Trust, firm belief in reliability"
+    },
+    {
+      "answer": "VIOLINE",
+      "clue": "Violin, bowed stringed instrument"
+    },
+    {
+      "answer": "VOLKSMUSIK",
+      "clue": "Folk music, traditional popular music"
+    },
+    {
+      "answer": "VOLLKORNBROT",
+      "clue": "Wholegrain bread, bread with whole wheat"
+    },
+    {
+      "answer": "VORBEREITUNG",
+      "clue": "Preparation, making ready for something"
+    },
+    {
+      "answer": "VORSTELLUNG",
+      "clue": "Imagination, ability to form mental images"
+    },
+    {
+      "answer": "WACHSAMKEIT",
+      "clue": "Vigilance, careful watchfulness"
+    },
+    {
+      "answer": "WAHRNEHMUNG",
+      "clue": "Perception, ability to notice things"
+    },
+    {
+      "answer": "WALDFEE",
+      "clue": "Wood fairy, imaginary forest creature"
+    },
+    {
+      "answer": "WALDGEIST",
+      "clue": "Forest spirit, supernatural forest being"
+    },
+    {
+      "answer": "WANDERWEG",
+      "clue": "Hiking trail, marked path for walking"
+    },
+    {
+      "answer": "WASSERFALL",
+      "clue": "Waterfall, stream of water falling vertically"
+    },
+    {
+      "answer": "WASSERKRAFT",
+      "clue": "Hydropower, electricity from flowing water"
+    },
+    {
+      "answer": "WASSERTIER",
+      "clue": "Aquatic animal, creature living in water"
+    },
+    {
+      "answer": "WEIHNACHTSMARKT",
+      "clue": "Christmas market, winter outdoor bazaar"
+    },
+    {
+      "answer": "WEIHNACHTSZEIT",
+      "clue": "Christmas season, festive winter period"
+    },
+    {
+      "answer": "WEINKENNER",
+      "clue": "Wine connoisseur, expert on wine"
+    },
+    {
+      "answer": "WEINKELLER",
+      "clue": "Wine cellar, underground room for wine"
+    },
+    {
+      "answer": "WEITBLICK",
+      "clue": "Foresight, ability to plan for future"
+    },
+    {
+      "answer": "WELTANSCHAUUNG",
+      "clue": "Worldview, comprehensive view of life"
+    },
+    {
+      "answer": "WELTFRIEDEN",
+      "clue": "World peace, absence of global conflict"
+    },
+    {
+      "answer": "WELTKARTE",
+      "clue": "World map, map of the entire earth"
+    },
+    {
+      "answer": "WETTERFEST",
+      "clue": "Weatherproof, resistant to weather"
+    },
+    {
+      "answer": "WETTERVORHERSAGE",
+      "clue": "Weather forecast, prediction of conditions"
+    },
+    {
+      "answer": "WILDTIER",
+      "clue": "Wildlife, animals in natural habitat"
+    },
+    {
+      "answer": "WINTERSCHLAF",
+      "clue": "Hibernation, deep sleep during winter"
+    },
+    {
+      "answer": "WINTERWUNDERLAND",
+      "clue": "Winter wonderland, snowy magical landscape"
+    },
+    {
+      "answer": "WOHLSTAND",
+      "clue": "Prosperity, state of being wealthy"
+    }
+  ]
+}

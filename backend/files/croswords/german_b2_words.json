@@ -1,0 +1,4007 @@
+{
+  "metadata": {
+    "level": "B2",
+    "language": "German",
+    "description_language": "English",
+    "total_words": 999,
+    "usage": "crossword"
+  },
+  "words": [
+    {
+      "word": "ABBILDUNG",
+      "description": "Illustration or image in a book or document"
+    },
+    {
+      "word": "ABENDESSEN",
+      "description": "Evening meal, dinner"
+    },
+    {
+      "word": "ABENTEUER",
+      "description": "Adventure, exciting experience"
+    },
+    {
+      "word": "ABFAHRT",
+      "description": "Departure, the act of leaving"
+    },
+    {
+      "word": "ABGABE",
+      "description": "Submission, tax, or fee"
+    },
+    {
+      "word": "ABGESEHEN",
+      "description": "Apart from, aside from"
+    },
+    {
+      "word": "ABKOMMEN",
+      "description": "Agreement or treaty between parties"
+    },
+    {
+      "word": "ABLAUF",
+      "description": "Process, sequence of events"
+    },
+    {
+      "word": "ABNUTZUNG",
+      "description": "Wear and tear, deterioration through use"
+    },
+    {
+      "word": "ABSCHNITT",
+      "description": "Section, paragraph, or segment"
+    },
+    {
+      "word": "ABSTAND",
+      "description": "Distance or gap between two things"
+    },
+    {
+      "word": "ABTEILUNG",
+      "description": "Department or division in an organization"
+    },
+    {
+      "word": "ABWEICHUNG",
+      "description": "Deviation or departure from a norm"
+    },
+    {
+      "word": "ACHTSAMKEIT",
+      "description": "Mindfulness, careful attention"
+    },
+    {
+      "word": "ADRESSE",
+      "description": "Address, location information"
+    },
+    {
+      "word": "AHNUNG",
+      "description": "Hunch, idea, or premonition"
+    },
+    {
+      "word": "AKADEMIE",
+      "description": "Academy, institution of learning"
+    },
+    {
+      "word": "AKZENT",
+      "description": "Accent in speech or emphasis"
+    },
+    {
+      "word": "ALLTAG",
+      "description": "Everyday life, daily routine"
+    },
+    {
+      "word": "ALLGEMEIN",
+      "description": "General, common, universal"
+    },
+    {
+      "word": "AMPEL",
+      "description": "Traffic light"
+    },
+    {
+      "word": "ANGEBOT",
+      "description": "Offer or supply of goods"
+    },
+    {
+      "word": "ANGELEGENHEIT",
+      "description": "Matter, affair, concern"
+    },
+    {
+      "word": "ANGEMESSEN",
+      "description": "Appropriate, suitable, adequate"
+    },
+    {
+      "word": "ANHANG",
+      "description": "Appendix or attachment"
+    },
+    {
+      "word": "ANKUENDIGUNG",
+      "description": "Announcement or notification"
+    },
+    {
+      "word": "ANLAGE",
+      "description": "Facility, attachment, or investment"
+    },
+    {
+      "word": "ANLASS",
+      "description": "Occasion, reason, or cause"
+    },
+    {
+      "word": "ANMELDUNG",
+      "description": "Registration or sign-up"
+    },
+    {
+      "word": "ANNAHME",
+      "description": "Assumption or acceptance"
+    },
+    {
+      "word": "ANPASSUNG",
+      "description": "Adaptation or adjustment"
+    },
+    {
+      "word": "ANSCHRIFT",
+      "description": "Mailing address"
+    },
+    {
+      "word": "ANSICHT",
+      "description": "View, opinion, or perspective"
+    },
+    {
+      "word": "ANSPRUCH",
+      "description": "Claim, demand, or entitlement"
+    },
+    {
+      "word": "ANTRAG",
+      "description": "Application or formal request"
+    },
+    {
+      "word": "ANWEISUNG",
+      "description": "Instruction or directive"
+    },
+    {
+      "word": "ANZEIGE",
+      "description": "Advertisement or report to authorities"
+    },
+    {
+      "word": "ARBEITSLOS",
+      "description": "Unemployed, without a job"
+    },
+    {
+      "word": "ARCHITEKTUR",
+      "description": "Architecture, design of buildings"
+    },
+    {
+      "word": "ARGUMENT",
+      "description": "Argument, reason given in discussion"
+    },
+    {
+      "word": "ARMUT",
+      "description": "Poverty, state of being poor"
+    },
+    {
+      "word": "AUFGABE",
+      "description": "Task, assignment, or duty"
+    },
+    {
+      "word": "AUFMERKSAMKEIT",
+      "description": "Attention, focus, or attentiveness"
+    },
+    {
+      "word": "AUFTRAG",
+      "description": "Order or commission for work"
+    },
+    {
+      "word": "AUFWAND",
+      "description": "Effort, expenditure of resources"
+    },
+    {
+      "word": "AUSBILDUNG",
+      "description": "Vocational training or education"
+    },
+    {
+      "word": "AUSDRUCK",
+      "description": "Expression or printout"
+    },
+    {
+      "word": "AUSNAHME",
+      "description": "Exception to a rule"
+    },
+    {
+      "word": "AUSREDE",
+      "description": "Excuse or pretext"
+    },
+    {
+      "word": "AUSSAGE",
+      "description": "Statement or testimony"
+    },
+    {
+      "word": "AUSSTELLUNG",
+      "description": "Exhibition or display"
+    },
+    {
+      "word": "AUSTAUSCH",
+      "description": "Exchange or swap"
+    },
+    {
+      "word": "AUSWIRKUNG",
+      "description": "Effect or impact of something"
+    },
+    {
+      "word": "AUTORITAT",
+      "description": "Authority, power or expertise"
+    },
+    {
+      "word": "BACKOFEN",
+      "description": "Oven used for baking"
+    },
+    {
+      "word": "BAHNHOF",
+      "description": "Train station"
+    },
+    {
+      "word": "BEACHTUNG",
+      "description": "Attention or consideration given"
+    },
+    {
+      "word": "BEDINGUNG",
+      "description": "Condition or requirement"
+    },
+    {
+      "word": "BEGEISTERUNG",
+      "description": "Enthusiasm or excitement"
+    },
+    {
+      "word": "BEHANDLUNG",
+      "description": "Treatment, medical or otherwise"
+    },
+    {
+      "word": "BEHAUPTUNG",
+      "description": "Claim or assertion"
+    },
+    {
+      "word": "BEITRAG",
+      "description": "Contribution or article"
+    },
+    {
+      "word": "BEKANNTSCHAFT",
+      "description": "Acquaintance, someone you know"
+    },
+    {
+      "word": "BEOBACHTUNG",
+      "description": "Observation or watching"
+    },
+    {
+      "word": "BERICHT",
+      "description": "Report or account of events"
+    },
+    {
+      "word": "BERUF",
+      "description": "Profession or occupation"
+    },
+    {
+      "word": "BESCHAEFTIGUNG",
+      "description": "Employment or occupation"
+    },
+    {
+      "word": "BESCHLUSS",
+      "description": "Decision or resolution"
+    },
+    {
+      "word": "BESITZ",
+      "description": "Possession or property"
+    },
+    {
+      "word": "BESTELLUNG",
+      "description": "Order placed for goods"
+    },
+    {
+      "word": "BETRACHTUNG",
+      "description": "Contemplation or consideration"
+    },
+    {
+      "word": "BETRIEB",
+      "description": "Company, business, or operation"
+    },
+    {
+      "word": "BEVORZUGUNG",
+      "description": "Preference or favoritism"
+    },
+    {
+      "word": "BEWERBUNG",
+      "description": "Job application"
+    },
+    {
+      "word": "BEWOHNER",
+      "description": "Resident or inhabitant"
+    },
+    {
+      "word": "BEZIEHUNG",
+      "description": "Relationship or connection"
+    },
+    {
+      "word": "BILDUNG",
+      "description": "Education or formation"
+    },
+    {
+      "word": "BITTE",
+      "description": "Request or please"
+    },
+    {
+      "word": "BOTSCHAFT",
+      "description": "Embassy or message"
+    },
+    {
+      "word": "BRANCHE",
+      "description": "Industry sector or field"
+    },
+    {
+      "word": "BUERGER",
+      "description": "Citizen of a country or city"
+    },
+    {
+      "word": "DANKBARKEIT",
+      "description": "Gratitude, feeling thankful"
+    },
+    {
+      "word": "DARLEHEN",
+      "description": "Loan of money"
+    },
+    {
+      "word": "DARSTELLUNG",
+      "description": "Representation or depiction"
+    },
+    {
+      "word": "DATENSCHUTZ",
+      "description": "Data protection, privacy"
+    },
+    {
+      "word": "DEBATTE",
+      "description": "Debate or formal discussion"
+    },
+    {
+      "word": "DEMOKRATIE",
+      "description": "Democracy, system of government"
+    },
+    {
+      "word": "DENKMAL",
+      "description": "Monument or memorial"
+    },
+    {
+      "word": "DIGITALISIERUNG",
+      "description": "Digitalization, conversion to digital"
+    },
+    {
+      "word": "DROHUNG",
+      "description": "Threat or menace"
+    },
+    {
+      "word": "DURCHSCHNITT",
+      "description": "Average or cross-section"
+    },
+    {
+      "word": "EGOISMUS",
+      "description": "Selfishness or self-centeredness"
+    },
+    {
+      "word": "EIGENSCHAFT",
+      "description": "Property, characteristic, or trait"
+    },
+    {
+      "word": "EINDRUCK",
+      "description": "Impression made on someone"
+    },
+    {
+      "word": "EINFLUSS",
+      "description": "Influence or impact on something"
+    },
+    {
+      "word": "EINHEIT",
+      "description": "Unity or unit of measurement"
+    },
+    {
+      "word": "EINKOMMEN",
+      "description": "Income or earnings"
+    },
+    {
+      "word": "EINLEITUNG",
+      "description": "Introduction to a text or speech"
+    },
+    {
+      "word": "EINSCHAETZUNG",
+      "description": "Assessment or evaluation"
+    },
+    {
+      "word": "EINSTELLUNG",
+      "description": "Attitude or setting"
+    },
+    {
+      "word": "EINWOHNER",
+      "description": "Inhabitant or resident of a place"
+    },
+    {
+      "word": "EINZELHEIT",
+      "description": "Detail or particular aspect"
+    },
+    {
+      "word": "EMPFEHLUNG",
+      "description": "Recommendation"
+    },
+    {
+      "word": "ENERGIE",
+      "description": "Energy, power or vitality"
+    },
+    {
+      "word": "ENTSCHEIDUNG",
+      "description": "Decision or choice"
+    },
+    {
+      "word": "ENTWICKLUNG",
+      "description": "Development or evolution"
+    },
+    {
+      "word": "EREIGNIS",
+      "description": "Event or occurrence"
+    },
+    {
+      "word": "ERFAHRUNG",
+      "description": "Experience gained over time"
+    },
+    {
+      "word": "ERFOLG",
+      "description": "Success or achievement"
+    },
+    {
+      "word": "ERGEBNIS",
+      "description": "Result or outcome"
+    },
+    {
+      "word": "ERHEBUNG",
+      "description": "Survey or elevation"
+    },
+    {
+      "word": "ERKENNTNIS",
+      "description": "Insight or realization"
+    },
+    {
+      "word": "ERKLAERUNG",
+      "description": "Explanation or declaration"
+    },
+    {
+      "word": "ERLAUBNIS",
+      "description": "Permission or authorization"
+    },
+    {
+      "word": "ERLEBNIS",
+      "description": "Personal experience or adventure"
+    },
+    {
+      "word": "ERNAEHRUNG",
+      "description": "Nutrition or diet"
+    },
+    {
+      "word": "ERREICHUNG",
+      "description": "Attainment or achievement of a goal"
+    },
+    {
+      "word": "ERWARTUNG",
+      "description": "Expectation or anticipation"
+    },
+    {
+      "word": "ERWEITERUNG",
+      "description": "Extension or expansion"
+    },
+    {
+      "word": "EXISTENZ",
+      "description": "Existence or livelihood"
+    },
+    {
+      "word": "FACHMANN",
+      "description": "Expert or specialist"
+    },
+    {
+      "word": "FORDERUNG",
+      "description": "Demand or requirement"
+    },
+    {
+      "word": "FORSCHUNG",
+      "description": "Research or scientific investigation"
+    },
+    {
+      "word": "FORTSCHRITT",
+      "description": "Progress or advancement"
+    },
+    {
+      "word": "FREIHEIT",
+      "description": "Freedom or liberty"
+    },
+    {
+      "word": "FREIWILLIG",
+      "description": "Voluntary, done by choice"
+    },
+    {
+      "word": "FREMDSPRACHE",
+      "description": "Foreign language"
+    },
+    {
+      "word": "FRUEHLING",
+      "description": "Spring season"
+    },
+    {
+      "word": "FUEHRUNG",
+      "description": "Leadership or guided tour"
+    },
+    {
+      "word": "GEDULD",
+      "description": "Patience, ability to wait calmly"
+    },
+    {
+      "word": "GEGENTEIL",
+      "description": "Opposite or contrary"
+    },
+    {
+      "word": "GEHEIMNIS",
+      "description": "Secret or mystery"
+    },
+    {
+      "word": "GELEGENHEIT",
+      "description": "Opportunity or occasion"
+    },
+    {
+      "word": "GEMEINSCHAFT",
+      "description": "Community or fellowship"
+    },
+    {
+      "word": "GENEHMIGUNG",
+      "description": "Approval or permit"
+    },
+    {
+      "word": "GERECHTIGKEIT",
+      "description": "Justice or fairness"
+    },
+    {
+      "word": "GERUCH",
+      "description": "Smell or odor"
+    },
+    {
+      "word": "GESETZ",
+      "description": "Law or statute"
+    },
+    {
+      "word": "GESPRAECH",
+      "description": "Conversation or talk"
+    },
+    {
+      "word": "GESUNDHEIT",
+      "description": "Health or wellbeing"
+    },
+    {
+      "word": "GEWALT",
+      "description": "Violence or power"
+    },
+    {
+      "word": "GEWERKSCHAFT",
+      "description": "Trade union or labor union"
+    },
+    {
+      "word": "GLEICHGEWICHT",
+      "description": "Balance or equilibrium"
+    },
+    {
+      "word": "GLEICHHEIT",
+      "description": "Equality or sameness"
+    },
+    {
+      "word": "GLUECK",
+      "description": "Luck or happiness"
+    },
+    {
+      "word": "GRENZE",
+      "description": "Border or limit"
+    },
+    {
+      "word": "GRUNDLAGE",
+      "description": "Foundation or basis"
+    },
+    {
+      "word": "HALTUNG",
+      "description": "Posture or attitude"
+    },
+    {
+      "word": "HANDLUNG",
+      "description": "Action or plot of a story"
+    },
+    {
+      "word": "HAUSHALT",
+      "description": "Household or budget"
+    },
+    {
+      "word": "HERAUSFORDERUNG",
+      "description": "Challenge or demanding task"
+    },
+    {
+      "word": "HERRSCHAFT",
+      "description": "Rule or dominion"
+    },
+    {
+      "word": "HINWEIS",
+      "description": "Hint, tip, or reference"
+    },
+    {
+      "word": "HOFFNUNG",
+      "description": "Hope or expectation"
+    },
+    {
+      "word": "HÖHEPUNKT",
+      "description": "Highlight or climax"
+    },
+    {
+      "word": "IDENTITAET",
+      "description": "Identity, who someone is"
+    },
+    {
+      "word": "INHALT",
+      "description": "Content or subject matter"
+    },
+    {
+      "word": "INITIATIVE",
+      "description": "Initiative, first step taken"
+    },
+    {
+      "word": "INTERESSE",
+      "description": "Interest or concern"
+    },
+    {
+      "word": "JAHRZEHNT",
+      "description": "Decade, period of ten years"
+    },
+    {
+      "word": "JAHRESTAG",
+      "description": "Anniversary of an event"
+    },
+    {
+      "word": "KENNTNIS",
+      "description": "Knowledge or awareness"
+    },
+    {
+      "word": "KLIMAWANDEL",
+      "description": "Climate change"
+    },
+    {
+      "word": "KONJUNKTUR",
+      "description": "Economic cycle or business climate"
+    },
+    {
+      "word": "KONKURRENZ",
+      "description": "Competition or rivalry"
+    },
+    {
+      "word": "KOOPERATION",
+      "description": "Cooperation between parties"
+    },
+    {
+      "word": "KOSTEN",
+      "description": "Costs or expenses"
+    },
+    {
+      "word": "KRITIK",
+      "description": "Criticism or critique"
+    },
+    {
+      "word": "KULTUR",
+      "description": "Culture or civilization"
+    },
+    {
+      "word": "KUNSTWERK",
+      "description": "Work of art"
+    },
+    {
+      "word": "LEIDENSCHAFT",
+      "description": "Passion or intense emotion"
+    },
+    {
+      "word": "LEISTUNG",
+      "description": "Performance or achievement"
+    },
+    {
+      "word": "LOESUNG",
+      "description": "Solution to a problem"
+    },
+    {
+      "word": "LUFTVERSCHMUTZUNG",
+      "description": "Air pollution"
+    },
+    {
+      "word": "MANAGEMENT",
+      "description": "Management of an organization"
+    },
+    {
+      "word": "MASSNAHME",
+      "description": "Measure or step taken"
+    },
+    {
+      "word": "MEINUNG",
+      "description": "Opinion or view"
+    },
+    {
+      "word": "MEHRHEIT",
+      "description": "Majority or plurality"
+    },
+    {
+      "word": "MINDERHEIT",
+      "description": "Minority group"
+    },
+    {
+      "word": "MISSERFOLG",
+      "description": "Failure or lack of success"
+    },
+    {
+      "word": "MITARBEITER",
+      "description": "Employee or colleague"
+    },
+    {
+      "word": "MITWIRKUNG",
+      "description": "Participation or involvement"
+    },
+    {
+      "word": "NACHHALTIGKEIT",
+      "description": "Sustainability, long-term thinking"
+    },
+    {
+      "word": "NACHRICHT",
+      "description": "News or message"
+    },
+    {
+      "word": "NACHTEIL",
+      "description": "Disadvantage or drawback"
+    },
+    {
+      "word": "NAHRUNG",
+      "description": "Food or nourishment"
+    },
+    {
+      "word": "NORM",
+      "description": "Norm or standard"
+    },
+    {
+      "word": "NOTFALL",
+      "description": "Emergency situation"
+    },
+    {
+      "word": "OEFFENTLICHKEIT",
+      "description": "Public or general public"
+    },
+    {
+      "word": "ORDNUNG",
+      "description": "Order or tidiness"
+    },
+    {
+      "word": "ORGANISATION",
+      "description": "Organization or arrangement"
+    },
+    {
+      "word": "ORIENTIERUNG",
+      "description": "Orientation or sense of direction"
+    },
+    {
+      "word": "PFLICHT",
+      "description": "Duty or obligation"
+    },
+    {
+      "word": "PHANTASIE",
+      "description": "Fantasy or imagination"
+    },
+    {
+      "word": "POLITIK",
+      "description": "Politics or policy"
+    },
+    {
+      "word": "PRESSEMITTEILUNG",
+      "description": "Press release"
+    },
+    {
+      "word": "PRIORITAET",
+      "description": "Priority, most important thing"
+    },
+    {
+      "word": "PROBLEM",
+      "description": "Problem or issue"
+    },
+    {
+      "word": "PROZESS",
+      "description": "Process or legal trial"
+    },
+    {
+      "word": "PRUEFUNG",
+      "description": "Examination or test"
+    },
+    {
+      "word": "QUALITAET",
+      "description": "Quality or standard"
+    },
+    {
+      "word": "REAKTION",
+      "description": "Reaction or response"
+    },
+    {
+      "word": "RECHT",
+      "description": "Right or law"
+    },
+    {
+      "word": "REGIERUNG",
+      "description": "Government or administration"
+    },
+    {
+      "word": "REGELUNG",
+      "description": "Regulation or arrangement"
+    },
+    {
+      "word": "RISIKO",
+      "description": "Risk or danger"
+    },
+    {
+      "word": "ROLLE",
+      "description": "Role or function"
+    },
+    {
+      "word": "RUECKSICHT",
+      "description": "Consideration for others"
+    },
+    {
+      "word": "SCHADEN",
+      "description": "Damage or harm"
+    },
+    {
+      "word": "SCHLUSS",
+      "description": "Conclusion or end"
+    },
+    {
+      "word": "SCHULD",
+      "description": "Guilt or debt"
+    },
+    {
+      "word": "SELBSTVERTRAUEN",
+      "description": "Self-confidence"
+    },
+    {
+      "word": "SICHERHEIT",
+      "description": "Safety or security"
+    },
+    {
+      "word": "SOLIDARITAET",
+      "description": "Solidarity, unity of purpose"
+    },
+    {
+      "word": "SPANNUNG",
+      "description": "Tension or excitement"
+    },
+    {
+      "word": "SPRACHE",
+      "description": "Language or speech"
+    },
+    {
+      "word": "STAAT",
+      "description": "State or nation"
+    },
+    {
+      "word": "STIMMUNG",
+      "description": "Mood or atmosphere"
+    },
+    {
+      "word": "STREIT",
+      "description": "Dispute or argument"
+    },
+    {
+      "word": "STRUKTUR",
+      "description": "Structure or framework"
+    },
+    {
+      "word": "TENDENZ",
+      "description": "Tendency or trend"
+    },
+    {
+      "word": "THEMA",
+      "description": "Topic or subject"
+    },
+    {
+      "word": "TOLERANZ",
+      "description": "Tolerance or acceptance"
+    },
+    {
+      "word": "TRADITION",
+      "description": "Tradition, long-established custom"
+    },
+    {
+      "word": "UEBERZEUGUNG",
+      "description": "Conviction or belief"
+    },
+    {
+      "word": "UMGEBUNG",
+      "description": "Environment or surroundings"
+    },
+    {
+      "word": "UMSTAND",
+      "description": "Circumstance or condition"
+    },
+    {
+      "word": "UNGERECHTIGKEIT",
+      "description": "Injustice or unfairness"
+    },
+    {
+      "word": "UNTERNEHMEN",
+      "description": "Company or enterprise"
+    },
+    {
+      "word": "URSACHE",
+      "description": "Cause or reason"
+    },
+    {
+      "word": "VERANTWORTUNG",
+      "description": "Responsibility or accountability"
+    },
+    {
+      "word": "VERAENDERUNG",
+      "description": "Change or transformation"
+    },
+    {
+      "word": "VERBINDUNG",
+      "description": "Connection or link"
+    },
+    {
+      "word": "VERFAHREN",
+      "description": "Procedure or method"
+    },
+    {
+      "word": "VERGESSEN",
+      "description": "Forgetting, the act of not remembering"
+    },
+    {
+      "word": "VERHANDLUNG",
+      "description": "Negotiation or trial"
+    },
+    {
+      "word": "VERHÄLTNIS",
+      "description": "Relationship or ratio"
+    },
+    {
+      "word": "VERMUTUNG",
+      "description": "Assumption or suspicion"
+    },
+    {
+      "word": "VERPFLICHTUNG",
+      "description": "Obligation or commitment"
+    },
+    {
+      "word": "VERSTÄNDNIS",
+      "description": "Understanding or comprehension"
+    },
+    {
+      "word": "VERTRAG",
+      "description": "Contract or treaty"
+    },
+    {
+      "word": "VERTRAUEN",
+      "description": "Trust or confidence"
+    },
+    {
+      "word": "VERWALTUNG",
+      "description": "Administration or management"
+    },
+    {
+      "word": "VIELFALT",
+      "description": "Diversity or variety"
+    },
+    {
+      "word": "VORBEREITUNG",
+      "description": "Preparation for something"
+    },
+    {
+      "word": "VORSCHLAG",
+      "description": "Suggestion or proposal"
+    },
+    {
+      "word": "VORSTELLUNG",
+      "description": "Idea, imagination, or performance"
+    },
+    {
+      "word": "VORTEIL",
+      "description": "Advantage or benefit"
+    },
+    {
+      "word": "WACHSTUM",
+      "description": "Growth or increase"
+    },
+    {
+      "word": "WAHRNEHMUNG",
+      "description": "Perception or awareness"
+    },
+    {
+      "word": "WAHRSCHEINLICHKEIT",
+      "description": "Probability or likelihood"
+    },
+    {
+      "word": "WEITERGABE",
+      "description": "Passing on information or goods"
+    },
+    {
+      "word": "WELTANSCHAUUNG",
+      "description": "Worldview or philosophy of life"
+    },
+    {
+      "word": "WETTBEWERB",
+      "description": "Competition or contest"
+    },
+    {
+      "word": "WIDERSPRUCH",
+      "description": "Contradiction or objection"
+    },
+    {
+      "word": "WIRKUNG",
+      "description": "Effect or impact"
+    },
+    {
+      "word": "WISSEN",
+      "description": "Knowledge or knowing"
+    },
+    {
+      "word": "WOHLSTAND",
+      "description": "Prosperity or wealth"
+    },
+    {
+      "word": "ZUSAMMENARBEIT",
+      "description": "Collaboration or teamwork"
+    },
+    {
+      "word": "ZUSAMMENHANG",
+      "description": "Context or connection"
+    },
+    {
+      "word": "ZUSTAND",
+      "description": "State or condition"
+    },
+    {
+      "word": "ZWECK",
+      "description": "Purpose or aim"
+    },
+    {
+      "word": "ABBRUCH",
+      "description": "Cancellation or demolition"
+    },
+    {
+      "word": "ABHAENGIGKEIT",
+      "description": "Dependency or addiction"
+    },
+    {
+      "word": "ABLEHNUNG",
+      "description": "Rejection or refusal"
+    },
+    {
+      "word": "ABSCHLUSS",
+      "description": "Conclusion, graduation, or deal"
+    },
+    {
+      "word": "ABSICHT",
+      "description": "Intention or purpose"
+    },
+    {
+      "word": "ABSTIMMUNG",
+      "description": "Vote or coordination"
+    },
+    {
+      "word": "ABZUG",
+      "description": "Deduction or withdrawal"
+    },
+    {
+      "word": "AEHNLICHKEIT",
+      "description": "Similarity or resemblance"
+    },
+    {
+      "word": "AENDERUNG",
+      "description": "Change or modification"
+    },
+    {
+      "word": "ANFORDERUNG",
+      "description": "Requirement or demand"
+    },
+    {
+      "word": "ANHAENGER",
+      "description": "Follower or supporter"
+    },
+    {
+      "word": "ANREGUNG",
+      "description": "Suggestion or stimulation"
+    },
+    {
+      "word": "ANSTRENGUNG",
+      "description": "Effort or exertion"
+    },
+    {
+      "word": "ANWENDUNG",
+      "description": "Application or use"
+    },
+    {
+      "word": "AUFNAHME",
+      "description": "Recording or admission"
+    },
+    {
+      "word": "AUSSCHLUSS",
+      "description": "Exclusion or elimination"
+    },
+    {
+      "word": "AUSWEG",
+      "description": "Way out or solution"
+    },
+    {
+      "word": "BEFREIUNG",
+      "description": "Liberation or exemption"
+    },
+    {
+      "word": "BEGEBENHEIT",
+      "description": "Incident or occurrence"
+    },
+    {
+      "word": "BEGEGNUNG",
+      "description": "Encounter or meeting"
+    },
+    {
+      "word": "BEGRUENDUNG",
+      "description": "Justification or reasoning"
+    },
+    {
+      "word": "BEHARRLICHKEIT",
+      "description": "Persistence or perseverance"
+    },
+    {
+      "word": "BERATUNG",
+      "description": "Consultation or counseling"
+    },
+    {
+      "word": "BERECHTIGUNG",
+      "description": "Authorization or entitlement"
+    },
+    {
+      "word": "BEREITSCHAFT",
+      "description": "Readiness or willingness"
+    },
+    {
+      "word": "BESCHRAENKUNG",
+      "description": "Restriction or limitation"
+    },
+    {
+      "word": "BESTIMMUNG",
+      "description": "Determination or destiny"
+    },
+    {
+      "word": "BETREUUNG",
+      "description": "Care or supervision"
+    },
+    {
+      "word": "BEWUSSTSEIN",
+      "description": "Consciousness or awareness"
+    },
+    {
+      "word": "BEZEICHNUNG",
+      "description": "Name, label, or designation"
+    },
+    {
+      "word": "BEZUG",
+      "description": "Reference or relation"
+    },
+    {
+      "word": "DATEI",
+      "description": "Computer file"
+    },
+    {
+      "word": "DARLEGUNG",
+      "description": "Explanation or presentation"
+    },
+    {
+      "word": "DAUER",
+      "description": "Duration or lasting quality"
+    },
+    {
+      "word": "DEUTUNG",
+      "description": "Interpretation or meaning"
+    },
+    {
+      "word": "EIGENINITIATIVE",
+      "description": "Personal initiative"
+    },
+    {
+      "word": "EINBEZIEHUNG",
+      "description": "Inclusion or involvement"
+    },
+    {
+      "word": "EINBUERGERUNG",
+      "description": "Naturalization as a citizen"
+    },
+    {
+      "word": "EINGRIFF",
+      "description": "Intervention or interference"
+    },
+    {
+      "word": "EINIGUNG",
+      "description": "Agreement or unification"
+    },
+    {
+      "word": "EINSCHAENKUNG",
+      "description": "Limitation or restriction"
+    },
+    {
+      "word": "EINSCHRAENKUNG",
+      "description": "Constraint or limitation"
+    },
+    {
+      "word": "EINWAND",
+      "description": "Objection or reservation"
+    },
+    {
+      "word": "EMPFINDUNG",
+      "description": "Feeling or sensation"
+    },
+    {
+      "word": "ENTLASSUNG",
+      "description": "Dismissal or discharge"
+    },
+    {
+      "word": "ENTSCHULDIGUNG",
+      "description": "Apology or excuse"
+    },
+    {
+      "word": "ENTSPANNUNG",
+      "description": "Relaxation or détente"
+    },
+    {
+      "word": "ENTTAEUSCHUNG",
+      "description": "Disappointment"
+    },
+    {
+      "word": "ERHOLUNG",
+      "description": "Recovery or recreation"
+    },
+    {
+      "word": "ERMITTLUNG",
+      "description": "Investigation or inquiry"
+    },
+    {
+      "word": "ERSCHEINUNG",
+      "description": "Appearance or phenomenon"
+    },
+    {
+      "word": "ERWERBSTAETIGKEIT",
+      "description": "Employment or gainful activity"
+    },
+    {
+      "word": "FACHGEBIET",
+      "description": "Field of expertise"
+    },
+    {
+      "word": "FAEHIGKEIT",
+      "description": "Ability or capability"
+    },
+    {
+      "word": "FEHLENTSCHEIDUNG",
+      "description": "Wrong decision or misjudgment"
+    },
+    {
+      "word": "FESTSTELLUNG",
+      "description": "Observation or determination"
+    },
+    {
+      "word": "FOERDERUNG",
+      "description": "Support, promotion, or funding"
+    },
+    {
+      "word": "FREUNDSCHAFT",
+      "description": "Friendship"
+    },
+    {
+      "word": "FUERSPRECHER",
+      "description": "Advocate or spokesperson"
+    },
+    {
+      "word": "GEDANKE",
+      "description": "Thought or idea"
+    },
+    {
+      "word": "GEFAHR",
+      "description": "Danger or risk"
+    },
+    {
+      "word": "GEFUEHL",
+      "description": "Feeling or emotion"
+    },
+    {
+      "word": "GEGENWART",
+      "description": "Present time or presence"
+    },
+    {
+      "word": "GELINGEN",
+      "description": "Success or achievement"
+    },
+    {
+      "word": "GELTUNG",
+      "description": "Validity or prestige"
+    },
+    {
+      "word": "GESAMTHEIT",
+      "description": "Totality or entirety"
+    },
+    {
+      "word": "GESCHAEFT",
+      "description": "Business or shop"
+    },
+    {
+      "word": "GESELLSCHAFT",
+      "description": "Society or company"
+    },
+    {
+      "word": "GESTALTUNG",
+      "description": "Design or shaping"
+    },
+    {
+      "word": "GEWISSHEIT",
+      "description": "Certainty or conviction"
+    },
+    {
+      "word": "GLAUBE",
+      "description": "Belief or faith"
+    },
+    {
+      "word": "GLOBALISIERUNG",
+      "description": "Globalization"
+    },
+    {
+      "word": "GRUNDSATZ",
+      "description": "Principle or basic rule"
+    },
+    {
+      "word": "HAFTUNG",
+      "description": "Liability or responsibility"
+    },
+    {
+      "word": "HANDELSPARTNER",
+      "description": "Trading partner"
+    },
+    {
+      "word": "HAUPTPROBLEM",
+      "description": "Main problem or chief issue"
+    },
+    {
+      "word": "HEMMSCHWELLE",
+      "description": "Inhibition threshold or reluctance"
+    },
+    {
+      "word": "HERKUNFT",
+      "description": "Origin or descent"
+    },
+    {
+      "word": "HILFSMITTEL",
+      "description": "Aid or tool"
+    },
+    {
+      "word": "HOCHACHTUNG",
+      "description": "High regard or respect"
+    },
+    {
+      "word": "IDEALISMUS",
+      "description": "Idealism, pursuit of ideals"
+    },
+    {
+      "word": "IDEOLOGIE",
+      "description": "Ideology or belief system"
+    },
+    {
+      "word": "IMMIGRATION",
+      "description": "Immigration, moving to a new country"
+    },
+    {
+      "word": "INFRASTRUKTUR",
+      "description": "Infrastructure, basic systems"
+    },
+    {
+      "word": "INSPIRATION",
+      "description": "Inspiration or creative idea"
+    },
+    {
+      "word": "INSTINKT",
+      "description": "Instinct or natural impulse"
+    },
+    {
+      "word": "INTEGRATION",
+      "description": "Integration into a group"
+    },
+    {
+      "word": "INTELLEKT",
+      "description": "Intellect or intelligence"
+    },
+    {
+      "word": "INVESTITION",
+      "description": "Investment of money or effort"
+    },
+    {
+      "word": "JAHRESZEIT",
+      "description": "Season of the year"
+    },
+    {
+      "word": "KAMPAGNE",
+      "description": "Campaign or organized effort"
+    },
+    {
+      "word": "KAPAZITAET",
+      "description": "Capacity or capability"
+    },
+    {
+      "word": "KARRIERE",
+      "description": "Career or professional life"
+    },
+    {
+      "word": "KERNFRAGE",
+      "description": "Core question or central issue"
+    },
+    {
+      "word": "KLARHEIT",
+      "description": "Clarity or clearness"
+    },
+    {
+      "word": "KOMPROMISS",
+      "description": "Compromise between parties"
+    },
+    {
+      "word": "KONSEQUENZ",
+      "description": "Consequence or consistency"
+    },
+    {
+      "word": "KONSTRUKTION",
+      "description": "Construction or structure"
+    },
+    {
+      "word": "KREATIVITAET",
+      "description": "Creativity or originality"
+    },
+    {
+      "word": "LEBENSLAUF",
+      "description": "Curriculum vitae or life course"
+    },
+    {
+      "word": "LEBENSWEISE",
+      "description": "Lifestyle or way of living"
+    },
+    {
+      "word": "LEISTUNGSDRUCK",
+      "description": "Performance pressure"
+    },
+    {
+      "word": "LERNBEREITSCHAFT",
+      "description": "Willingness to learn"
+    },
+    {
+      "word": "LOYALITAET",
+      "description": "Loyalty or faithfulness"
+    },
+    {
+      "word": "LÜCKE",
+      "description": "Gap or loophole"
+    },
+    {
+      "word": "MASSSTAB",
+      "description": "Scale or standard of measurement"
+    },
+    {
+      "word": "MEDIENKOMPETENZ",
+      "description": "Media literacy"
+    },
+    {
+      "word": "METHODE",
+      "description": "Method or approach"
+    },
+    {
+      "word": "MOTIVATION",
+      "description": "Motivation or drive"
+    },
+    {
+      "word": "NACHFOLGER",
+      "description": "Successor or follower"
+    },
+    {
+      "word": "NACHDRUCK",
+      "description": "Emphasis or reprint"
+    },
+    {
+      "word": "NACHLASS",
+      "description": "Discount or estate left by deceased"
+    },
+    {
+      "word": "NACHFRAGE",
+      "description": "Demand for goods or inquiry"
+    },
+    {
+      "word": "NACHWEIS",
+      "description": "Proof or evidence"
+    },
+    {
+      "word": "NOTWENDIGKEIT",
+      "description": "Necessity or need"
+    },
+    {
+      "word": "NUTZUNG",
+      "description": "Use or utilization"
+    },
+    {
+      "word": "OBJEKTIVITAET",
+      "description": "Objectivity or impartiality"
+    },
+    {
+      "word": "OEKONOM",
+      "description": "Economist or economist"
+    },
+    {
+      "word": "PERSPEKTIVE",
+      "description": "Perspective or viewpoint"
+    },
+    {
+      "word": "PLANUNG",
+      "description": "Planning or scheduling"
+    },
+    {
+      "word": "POTENTIAL",
+      "description": "Potential or possibility"
+    },
+    {
+      "word": "PRAGMATISMUS",
+      "description": "Pragmatism, practical approach"
+    },
+    {
+      "word": "PRAEZISION",
+      "description": "Precision or accuracy"
+    },
+    {
+      "word": "PRODUKTIVITAET",
+      "description": "Productivity or efficiency"
+    },
+    {
+      "word": "PROGRAMME",
+      "description": "Program or curriculum"
+    },
+    {
+      "word": "PROTEST",
+      "description": "Protest or demonstration"
+    },
+    {
+      "word": "RECHTFERTIGUNG",
+      "description": "Justification or defense"
+    },
+    {
+      "word": "REFLEXION",
+      "description": "Reflection or contemplation"
+    },
+    {
+      "word": "REFORM",
+      "description": "Reform or improvement"
+    },
+    {
+      "word": "REHABILITIERUNG",
+      "description": "Rehabilitation or restoration"
+    },
+    {
+      "word": "REPRAESENTATION",
+      "description": "Representation or depiction"
+    },
+    {
+      "word": "RESSOURCE",
+      "description": "Resource or asset"
+    },
+    {
+      "word": "RUECKKEHR",
+      "description": "Return or coming back"
+    },
+    {
+      "word": "SACHVERSTAND",
+      "description": "Expertise or competence"
+    },
+    {
+      "word": "SANKTIONIERUNG",
+      "description": "Sanctioning or approval"
+    },
+    {
+      "word": "SCHICHTARBEIT",
+      "description": "Shift work"
+    },
+    {
+      "word": "SCHUTZ",
+      "description": "Protection or shelter"
+    },
+    {
+      "word": "SCHWIERIGKEIT",
+      "description": "Difficulty or obstacle"
+    },
+    {
+      "word": "SELBSTBESTIMMUNG",
+      "description": "Self-determination"
+    },
+    {
+      "word": "SERIOESITAET",
+      "description": "Seriousness or credibility"
+    },
+    {
+      "word": "SOLIDARITAET",
+      "description": "Solidarity or mutual support"
+    },
+    {
+      "word": "SOZIALISIERUNG",
+      "description": "Socialization process"
+    },
+    {
+      "word": "SPEZIALISIERUNG",
+      "description": "Specialization in a field"
+    },
+    {
+      "word": "STABILISIERUNG",
+      "description": "Stabilization or steadying"
+    },
+    {
+      "word": "STANDARDISIERUNG",
+      "description": "Standardization"
+    },
+    {
+      "word": "STEUERUNG",
+      "description": "Control or management"
+    },
+    {
+      "word": "STRATEGIE",
+      "description": "Strategy or plan of action"
+    },
+    {
+      "word": "SUBSIDIARITAET",
+      "description": "Subsidiarity principle"
+    },
+    {
+      "word": "SYSTEMKRITIK",
+      "description": "Critique of a system"
+    },
+    {
+      "word": "TRANSPARENZ",
+      "description": "Transparency or openness"
+    },
+    {
+      "word": "UEBERTRAGUNG",
+      "description": "Transfer or transmission"
+    },
+    {
+      "word": "UEBERWINDUNG",
+      "description": "Overcoming or surmounting"
+    },
+    {
+      "word": "UMSTRUKTURIERUNG",
+      "description": "Restructuring or reorganization"
+    },
+    {
+      "word": "UNABHAENGIGKEIT",
+      "description": "Independence or autonomy"
+    },
+    {
+      "word": "UNTERSUCHUNG",
+      "description": "Investigation or examination"
+    },
+    {
+      "word": "VERBESSERUNG",
+      "description": "Improvement or enhancement"
+    },
+    {
+      "word": "VEREINBARUNG",
+      "description": "Agreement or arrangement"
+    },
+    {
+      "word": "VERFASSUNG",
+      "description": "Constitution or condition"
+    },
+    {
+      "word": "VERGLEICH",
+      "description": "Comparison or settlement"
+    },
+    {
+      "word": "VERHALTEN",
+      "description": "Behavior or conduct"
+    },
+    {
+      "word": "VERLUST",
+      "description": "Loss or defeat"
+    },
+    {
+      "word": "VERMEIDUNG",
+      "description": "Avoidance or prevention"
+    },
+    {
+      "word": "VERMOEGEN",
+      "description": "Wealth or ability"
+    },
+    {
+      "word": "VERNUNFT",
+      "description": "Reason or rationality"
+    },
+    {
+      "word": "VERSORGUNG",
+      "description": "Supply or care"
+    },
+    {
+      "word": "VERTEILUNG",
+      "description": "Distribution or allocation"
+    },
+    {
+      "word": "VERZICHT",
+      "description": "Renunciation or giving up"
+    },
+    {
+      "word": "VIELZAHL",
+      "description": "Large number or multitude"
+    },
+    {
+      "word": "VORAUSSETZUNG",
+      "description": "Prerequisite or condition"
+    },
+    {
+      "word": "VORGEHEN",
+      "description": "Approach or procedure"
+    },
+    {
+      "word": "VORZUG",
+      "description": "Preference or advantage"
+    },
+    {
+      "word": "WAHL",
+      "description": "Choice or election"
+    },
+    {
+      "word": "WAHRHEIT",
+      "description": "Truth or reality"
+    },
+    {
+      "word": "WEITERENTWICKLUNG",
+      "description": "Further development"
+    },
+    {
+      "word": "WERTEORDNUNG",
+      "description": "Value system or hierarchy"
+    },
+    {
+      "word": "WETTBEWERB",
+      "description": "Competition or rivalry"
+    },
+    {
+      "word": "WIDERSTAND",
+      "description": "Resistance or opposition"
+    },
+    {
+      "word": "WIRKSAMKEIT",
+      "description": "Effectiveness or efficacy"
+    },
+    {
+      "word": "WISSENSCHAFT",
+      "description": "Science or scholarship"
+    },
+    {
+      "word": "ZIELGRUPPE",
+      "description": "Target group or audience"
+    },
+    {
+      "word": "ZIELSETZUNG",
+      "description": "Goal setting or objective"
+    },
+    {
+      "word": "ZUGAENGLICHKEIT",
+      "description": "Accessibility or availability"
+    },
+    {
+      "word": "ZUKUNFT",
+      "description": "Future or time ahead"
+    },
+    {
+      "word": "ZUSTAENDIGKEIT",
+      "description": "Responsibility or jurisdiction"
+    },
+    {
+      "word": "ZUVERSICHT",
+      "description": "Confidence or optimism"
+    },
+    {
+      "word": "ZWEIFEL",
+      "description": "Doubt or uncertainty"
+    },
+    {
+      "word": "ABFALL",
+      "description": "Waste or decline"
+    },
+    {
+      "word": "ABGABE",
+      "description": "Tax, fee, or submission"
+    },
+    {
+      "word": "ABHAERTUNG",
+      "description": "Hardening or toughening"
+    },
+    {
+      "word": "ABHILFE",
+      "description": "Remedy or relief"
+    },
+    {
+      "word": "ABKEHR",
+      "description": "Turning away or abandonment"
+    },
+    {
+      "word": "ABNEIGUNG",
+      "description": "Aversion or dislike"
+    },
+    {
+      "word": "ABSCHAETZUNG",
+      "description": "Estimation or appraisal"
+    },
+    {
+      "word": "ABSCHWUNG",
+      "description": "Downturn or decline"
+    },
+    {
+      "word": "ABWESENHEIT",
+      "description": "Absence or lack"
+    },
+    {
+      "word": "ACHTUNG",
+      "description": "Respect or attention"
+    },
+    {
+      "word": "AKZEPTANZ",
+      "description": "Acceptance or tolerance"
+    },
+    {
+      "word": "ALLTAGSLEBEN",
+      "description": "Everyday life"
+    },
+    {
+      "word": "AMBITION",
+      "description": "Ambition or aspiration"
+    },
+    {
+      "word": "ANERKENNUNG",
+      "description": "Recognition or acknowledgment"
+    },
+    {
+      "word": "ANFANG",
+      "description": "Beginning or start"
+    },
+    {
+      "word": "ANGEMESSENHEIT",
+      "description": "Appropriateness or suitability"
+    },
+    {
+      "word": "ANGRIFF",
+      "description": "Attack or assault"
+    },
+    {
+      "word": "ANHEBUNG",
+      "description": "Increase or raising"
+    },
+    {
+      "word": "ANREIZ",
+      "description": "Incentive or stimulus"
+    },
+    {
+      "word": "ANSEHEN",
+      "description": "Reputation or prestige"
+    },
+    {
+      "word": "ANSTELLUNG",
+      "description": "Employment or appointment"
+    },
+    {
+      "word": "ANTEIL",
+      "description": "Share or portion"
+    },
+    {
+      "word": "ANTEILNAHME",
+      "description": "Sympathy or compassion"
+    },
+    {
+      "word": "ANZEICHEN",
+      "description": "Sign or indication"
+    },
+    {
+      "word": "ARGUMENTATION",
+      "description": "Argumentation or reasoning"
+    },
+    {
+      "word": "ATMOSPHAERE",
+      "description": "Atmosphere or ambience"
+    },
+    {
+      "word": "AUFHAENGUNG",
+      "description": "Suspension or mounting"
+    },
+    {
+      "word": "AUFLAGE",
+      "description": "Condition, print run, or edition"
+    },
+    {
+      "word": "AUFLOSUNG",
+      "description": "Dissolution or resolution"
+    },
+    {
+      "word": "AUFSTIEG",
+      "description": "Rise or ascent"
+    },
+    {
+      "word": "AUFTEILUNG",
+      "description": "Division or allocation"
+    },
+    {
+      "word": "AUGENBLICK",
+      "description": "Moment or instant"
+    },
+    {
+      "word": "AUSGABE",
+      "description": "Edition, expense, or output"
+    },
+    {
+      "word": "AUSGLEICH",
+      "description": "Compensation or balance"
+    },
+    {
+      "word": "AUSGRENZUNG",
+      "description": "Exclusion or marginalization"
+    },
+    {
+      "word": "AUSKUNFT",
+      "description": "Information or inquiry"
+    },
+    {
+      "word": "AUSLAND",
+      "description": "Foreign country or abroad"
+    },
+    {
+      "word": "AUSLOESER",
+      "description": "Trigger or cause"
+    },
+    {
+      "word": "AUSRICHTUNG",
+      "description": "Orientation or alignment"
+    },
+    {
+      "word": "AUSSICHT",
+      "description": "Prospect or view"
+    },
+    {
+      "word": "AUSWAHL",
+      "description": "Selection or choice"
+    },
+    {
+      "word": "BEDEUTUNG",
+      "description": "Meaning or significance"
+    },
+    {
+      "word": "BEEINDRUCKUNG",
+      "description": "Impression made on someone"
+    },
+    {
+      "word": "BEEINTRAECHTIGUNG",
+      "description": "Impairment or interference"
+    },
+    {
+      "word": "BEFAEHIGUNG",
+      "description": "Qualification or empowerment"
+    },
+    {
+      "word": "BEFUGNIS",
+      "description": "Authority or competence"
+    },
+    {
+      "word": "BEGEBENHEIT",
+      "description": "Event or episode"
+    },
+    {
+      "word": "BEGRUENDUNG",
+      "description": "Reasoning or rationale"
+    },
+    {
+      "word": "BEGRENZUNG",
+      "description": "Limitation or boundary"
+    },
+    {
+      "word": "BELEGSCHAFT",
+      "description": "Workforce or staff"
+    },
+    {
+      "word": "BEMUEHUNG",
+      "description": "Effort or endeavor"
+    },
+    {
+      "word": "BEOBACHTER",
+      "description": "Observer or watcher"
+    },
+    {
+      "word": "BERECHNUNG",
+      "description": "Calculation or computation"
+    },
+    {
+      "word": "BEREICH",
+      "description": "Area or field"
+    },
+    {
+      "word": "BERUEHRUNG",
+      "description": "Contact or touch"
+    },
+    {
+      "word": "BESONDERHEIT",
+      "description": "Peculiarity or special feature"
+    },
+    {
+      "word": "BESPRECHUNG",
+      "description": "Meeting or discussion"
+    },
+    {
+      "word": "BESTANDTEIL",
+      "description": "Component or element"
+    },
+    {
+      "word": "BETRACHTUNGSWEISE",
+      "description": "Way of looking at something"
+    },
+    {
+      "word": "BEURTEILUNG",
+      "description": "Assessment or judgment"
+    },
+    {
+      "word": "BEVOELKERUNG",
+      "description": "Population or inhabitants"
+    },
+    {
+      "word": "BEWEGUNG",
+      "description": "Movement or motion"
+    },
+    {
+      "word": "BEWERTUNG",
+      "description": "Evaluation or rating"
+    },
+    {
+      "word": "BITTE",
+      "description": "Request or plea"
+    },
+    {
+      "word": "BOYKOTT",
+      "description": "Boycott or refusal to participate"
+    },
+    {
+      "word": "BUENDNIS",
+      "description": "Alliance or coalition"
+    },
+    {
+      "word": "DARSTELLUNG",
+      "description": "Presentation or portrayal"
+    },
+    {
+      "word": "DAUERLEISTUNG",
+      "description": "Sustained performance"
+    },
+    {
+      "word": "DEFIZIT",
+      "description": "Deficit or shortfall"
+    },
+    {
+      "word": "DEMOKRATISIERUNG",
+      "description": "Democratization process"
+    },
+    {
+      "word": "DENKMUSTER",
+      "description": "Thought pattern or mindset"
+    },
+    {
+      "word": "DEREGULIERUNG",
+      "description": "Deregulation of rules"
+    },
+    {
+      "word": "DIFFERENZIERUNG",
+      "description": "Differentiation or distinction"
+    },
+    {
+      "word": "DIMENSION",
+      "description": "Dimension or aspect"
+    },
+    {
+      "word": "DISKRIMINIERUNG",
+      "description": "Discrimination or prejudice"
+    },
+    {
+      "word": "DISKURS",
+      "description": "Discourse or discussion"
+    },
+    {
+      "word": "DISZIPLIN",
+      "description": "Discipline or self-control"
+    },
+    {
+      "word": "DIVERSITAET",
+      "description": "Diversity or variety"
+    },
+    {
+      "word": "DOMINANZ",
+      "description": "Dominance or control"
+    },
+    {
+      "word": "DRAMATIK",
+      "description": "Drama or dramatic quality"
+    },
+    {
+      "word": "DYNAMIK",
+      "description": "Dynamics or energy"
+    },
+    {
+      "word": "EFFEKTIVITAET",
+      "description": "Effectiveness or efficiency"
+    },
+    {
+      "word": "EIGENVERANTWORTUNG",
+      "description": "Personal responsibility"
+    },
+    {
+      "word": "EINBUSSE",
+      "description": "Loss or decline"
+    },
+    {
+      "word": "EINFLUSSNAHME",
+      "description": "Exertion of influence"
+    },
+    {
+      "word": "EINWILLIGUNG",
+      "description": "Consent or agreement"
+    },
+    {
+      "word": "EMANZIPATION",
+      "description": "Emancipation or liberation"
+    },
+    {
+      "word": "EMOTIONALITAET",
+      "description": "Emotionality or expressiveness"
+    },
+    {
+      "word": "EMPOERUNG",
+      "description": "Outrage or indignation"
+    },
+    {
+      "word": "ENTLOHNUNG",
+      "description": "Remuneration or wages"
+    },
+    {
+      "word": "ENTSPRECHUNG",
+      "description": "Correspondence or equivalent"
+    },
+    {
+      "word": "ERFAHRUNGSAUSTAUSCH",
+      "description": "Exchange of experiences"
+    },
+    {
+      "word": "ERGEBENHEIT",
+      "description": "Devotion or submission"
+    },
+    {
+      "word": "ERHAERTUNG",
+      "description": "Hardening or confirmation"
+    },
+    {
+      "word": "ERMUTIGUNG",
+      "description": "Encouragement or motivation"
+    },
+    {
+      "word": "ERNEUERUNG",
+      "description": "Renewal or renovation"
+    },
+    {
+      "word": "ERSCHOEPFUNG",
+      "description": "Exhaustion or depletion"
+    },
+    {
+      "word": "ERWERBSARBEIT",
+      "description": "Paid work or employment"
+    },
+    {
+      "word": "ERZAEHLUNG",
+      "description": "Narrative or story"
+    },
+    {
+      "word": "ETHIK",
+      "description": "Ethics or moral philosophy"
+    },
+    {
+      "word": "EXPERTISE",
+      "description": "Expertise or specialist knowledge"
+    },
+    {
+      "word": "FACHKENNTNIS",
+      "description": "Technical knowledge"
+    },
+    {
+      "word": "FACHKOMPETENZ",
+      "description": "Professional competence"
+    },
+    {
+      "word": "FACHWISSEN",
+      "description": "Specialist knowledge"
+    },
+    {
+      "word": "FAIRNESS",
+      "description": "Fairness or impartiality"
+    },
+    {
+      "word": "FALSCHHEIT",
+      "description": "Falseness or deceitfulness"
+    },
+    {
+      "word": "FAMILIENPLANUNG",
+      "description": "Family planning"
+    },
+    {
+      "word": "FLEXIBILITAET",
+      "description": "Flexibility or adaptability"
+    },
+    {
+      "word": "FLÜCHTLING",
+      "description": "Refugee or asylum seeker"
+    },
+    {
+      "word": "FOERDERMASSNAHME",
+      "description": "Support measure"
+    },
+    {
+      "word": "FOLGERUNG",
+      "description": "Inference or conclusion"
+    },
+    {
+      "word": "FORMULIERUNG",
+      "description": "Formulation or wording"
+    },
+    {
+      "word": "FREIZUEGIGKEIT",
+      "description": "Freedom of movement"
+    },
+    {
+      "word": "FUEHRUNGSKRAFT",
+      "description": "Executive or manager"
+    },
+    {
+      "word": "FUEHRUNGSSTIL",
+      "description": "Leadership style"
+    },
+    {
+      "word": "GARANTIE",
+      "description": "Guarantee or warranty"
+    },
+    {
+      "word": "GEFAENGNIS",
+      "description": "Prison or jail"
+    },
+    {
+      "word": "GEHEIMDIENST",
+      "description": "Secret service or intelligence"
+    },
+    {
+      "word": "GEISTESHALTUNG",
+      "description": "Attitude or mindset"
+    },
+    {
+      "word": "GEMEINWOHL",
+      "description": "Common good or public welfare"
+    },
+    {
+      "word": "GENERATIONSKONFLIKT",
+      "description": "Generational conflict"
+    },
+    {
+      "word": "GENESUNG",
+      "description": "Recovery from illness"
+    },
+    {
+      "word": "GERECHTFERTIGTHEIT",
+      "description": "Justifiability"
+    },
+    {
+      "word": "GERICHTSVERFAHREN",
+      "description": "Legal proceedings or trial"
+    },
+    {
+      "word": "GESAMTKONZEPT",
+      "description": "Overall concept or plan"
+    },
+    {
+      "word": "GESETZGEBUNG",
+      "description": "Legislation or lawmaking"
+    },
+    {
+      "word": "GEWINN",
+      "description": "Profit or gain"
+    },
+    {
+      "word": "GLEICHBERECHTIGUNG",
+      "description": "Equal rights"
+    },
+    {
+      "word": "GLEICHGEWICHTUNG",
+      "description": "Equal weighting"
+    },
+    {
+      "word": "GRUNDRECHT",
+      "description": "Fundamental right"
+    },
+    {
+      "word": "GUELTIGKEIT",
+      "description": "Validity or effectiveness"
+    },
+    {
+      "word": "HALTLOSIGKEIT",
+      "description": "Unfoundedness or instability"
+    },
+    {
+      "word": "HANDLUNGSBEDARF",
+      "description": "Need for action"
+    },
+    {
+      "word": "HANDLUNGSSPIELRAUM",
+      "description": "Room for maneuver"
+    },
+    {
+      "word": "HAUPTGRUND",
+      "description": "Main reason or primary cause"
+    },
+    {
+      "word": "HERAUSFORDERUNG",
+      "description": "Challenge or demanding situation"
+    },
+    {
+      "word": "HINGABE",
+      "description": "Dedication or devotion"
+    },
+    {
+      "word": "HINTERGRUND",
+      "description": "Background or context"
+    },
+    {
+      "word": "HOCHSCHULE",
+      "description": "University or higher education institution"
+    },
+    {
+      "word": "HUMAENISMUS",
+      "description": "Humanism or humanitarian values"
+    },
+    {
+      "word": "IDEENVIELFALT",
+      "description": "Diversity of ideas"
+    },
+    {
+      "word": "INFORMATIONSAUSTAUSCH",
+      "description": "Exchange of information"
+    },
+    {
+      "word": "IRRATIONALITAET",
+      "description": "Irrationality"
+    },
+    {
+      "word": "JAHRESABSCHLUSS",
+      "description": "Annual financial statement"
+    },
+    {
+      "word": "KORREKTHEIT",
+      "description": "Correctness or accuracy"
+    },
+    {
+      "word": "KRAFTQUELLE",
+      "description": "Source of strength"
+    },
+    {
+      "word": "KRISENMANAGEMENT",
+      "description": "Crisis management"
+    },
+    {
+      "word": "KUNDENSERVICE",
+      "description": "Customer service"
+    },
+    {
+      "word": "LEBENSERWARTUNG",
+      "description": "Life expectancy"
+    },
+    {
+      "word": "LEBENSQUALITAET",
+      "description": "Quality of life"
+    },
+    {
+      "word": "LEGITIMATION",
+      "description": "Legitimization or justification"
+    },
+    {
+      "word": "LEITBILD",
+      "description": "Mission statement or guiding principle"
+    },
+    {
+      "word": "LERNPROZESS",
+      "description": "Learning process"
+    },
+    {
+      "word": "LOESUNG",
+      "description": "Solution or answer"
+    },
+    {
+      "word": "MACHBARKEIT",
+      "description": "Feasibility or practicality"
+    },
+    {
+      "word": "MACHTGEFUEGE",
+      "description": "Power structure"
+    },
+    {
+      "word": "MACHTMISSBRAUCH",
+      "description": "Abuse of power"
+    },
+    {
+      "word": "MEINUNGSFREIHEIT",
+      "description": "Freedom of opinion or speech"
+    },
+    {
+      "word": "MEINUNGSVIELFALT",
+      "description": "Plurality of opinions"
+    },
+    {
+      "word": "MENSCHENWUERDE",
+      "description": "Human dignity"
+    },
+    {
+      "word": "MENSCHENRECHT",
+      "description": "Human right"
+    },
+    {
+      "word": "MINDESTLOHN",
+      "description": "Minimum wage"
+    },
+    {
+      "word": "MISSVERSTAENDNIS",
+      "description": "Misunderstanding"
+    },
+    {
+      "word": "MOBILITAET",
+      "description": "Mobility or ability to move"
+    },
+    {
+      "word": "MOEGLICHKEIT",
+      "description": "Possibility or opportunity"
+    },
+    {
+      "word": "NACHHALTIGKEIT",
+      "description": "Sustainability or endurance"
+    },
+    {
+      "word": "NACHTREFFEN",
+      "description": "Follow-up meeting"
+    },
+    {
+      "word": "NATIONALITAET",
+      "description": "Nationality or citizenship"
+    },
+    {
+      "word": "NETZWERK",
+      "description": "Network or system of connections"
+    },
+    {
+      "word": "NORMIERUNG",
+      "description": "Standardization or normalization"
+    },
+    {
+      "word": "NUANCIERUNG",
+      "description": "Nuancing or subtle distinction"
+    },
+    {
+      "word": "OFFENHEIT",
+      "description": "Openness or transparency"
+    },
+    {
+      "word": "OHNMACHT",
+      "description": "Powerlessness or fainting"
+    },
+    {
+      "word": "ÖKOSYSTEM",
+      "description": "Ecosystem or ecological system"
+    },
+    {
+      "word": "OPTIMISMUS",
+      "description": "Optimism or positive outlook"
+    },
+    {
+      "word": "ORDNUNGSRAHMEN",
+      "description": "Regulatory framework"
+    },
+    {
+      "word": "PÄDAGOGIK",
+      "description": "Pedagogy or educational theory"
+    },
+    {
+      "word": "PARTIZIPATION",
+      "description": "Participation or involvement"
+    },
+    {
+      "word": "PENSIONIERUNG",
+      "description": "Retirement"
+    },
+    {
+      "word": "PERSPEKTIVLOSIGKEIT",
+      "description": "Lack of prospects"
+    },
+    {
+      "word": "PHILOSOPHIE",
+      "description": "Philosophy"
+    },
+    {
+      "word": "PLUSQUAMPERFEKT",
+      "description": "Past perfect tense in grammar"
+    },
+    {
+      "word": "PRAEVENTION",
+      "description": "Prevention"
+    },
+    {
+      "word": "PROJEKTPLANUNG",
+      "description": "Project planning"
+    },
+    {
+      "word": "PROSPERITAET",
+      "description": "Prosperity or economic success"
+    },
+    {
+      "word": "QUALIFIKATION",
+      "description": "Qualification or credential"
+    },
+    {
+      "word": "QUALITAETSMANAGEMENT",
+      "description": "Quality management"
+    },
+    {
+      "word": "RECHENSCHAFT",
+      "description": "Accountability or reckoning"
+    },
+    {
+      "word": "REFORMBEDARF",
+      "description": "Need for reform"
+    },
+    {
+      "word": "REICHWEITE",
+      "description": "Reach or range"
+    },
+    {
+      "word": "RELATIVITAET",
+      "description": "Relativity or relative nature"
+    },
+    {
+      "word": "RESILIENZ",
+      "description": "Resilience or ability to recover"
+    },
+    {
+      "word": "RESPEKT",
+      "description": "Respect or regard"
+    },
+    {
+      "word": "RUECKSICHTNAHME",
+      "description": "Consideration for others"
+    },
+    {
+      "word": "SACHLICHKEIT",
+      "description": "Objectivity or matter-of-factness"
+    },
+    {
+      "word": "SELBSTKRITIK",
+      "description": "Self-criticism"
+    },
+    {
+      "word": "SELBSTREFLEXION",
+      "description": "Self-reflection"
+    },
+    {
+      "word": "SITUATIONSANALYSE",
+      "description": "Situation analysis"
+    },
+    {
+      "word": "SOZIALPOLITIK",
+      "description": "Social policy"
+    },
+    {
+      "word": "SPANNUNGSFELD",
+      "description": "Area of tension or conflict"
+    },
+    {
+      "word": "STAATSBUERGERSCHAFT",
+      "description": "Citizenship"
+    },
+    {
+      "word": "STEIGERUNG",
+      "description": "Increase or improvement"
+    },
+    {
+      "word": "STRUKTURSCHWAECHE",
+      "description": "Structural weakness"
+    },
+    {
+      "word": "TAGESORDNUNG",
+      "description": "Agenda or daily schedule"
+    },
+    {
+      "word": "TEILNAHME",
+      "description": "Participation or attendance"
+    },
+    {
+      "word": "THEMENSCHWERPUNKT",
+      "description": "Main topic or focus"
+    },
+    {
+      "word": "TIEFGANG",
+      "description": "Depth or profound thinking"
+    },
+    {
+      "word": "TRENNUNG",
+      "description": "Separation or division"
+    },
+    {
+      "word": "UEBEREINSTIMMUNG",
+      "description": "Agreement or conformity"
+    },
+    {
+      "word": "UEBERNAHME",
+      "description": "Takeover or adoption"
+    },
+    {
+      "word": "UEBERPRUEFUNG",
+      "description": "Verification or review"
+    },
+    {
+      "word": "UMWELTSCHUTZ",
+      "description": "Environmental protection"
+    },
+    {
+      "word": "UNGLEICHHEIT",
+      "description": "Inequality or disparity"
+    },
+    {
+      "word": "URSACHENFORSCHUNG",
+      "description": "Root cause analysis"
+    },
+    {
+      "word": "VERBUNDENHEIT",
+      "description": "Connectedness or solidarity"
+    },
+    {
+      "word": "VERDACHT",
+      "description": "Suspicion or suspicion"
+    },
+    {
+      "word": "VERGAENGLICHKEIT",
+      "description": "Transience or impermanence"
+    },
+    {
+      "word": "VERGLEICHBARKEIT",
+      "description": "Comparability"
+    },
+    {
+      "word": "VERGUETUNG",
+      "description": "Compensation or remuneration"
+    },
+    {
+      "word": "VERLÄSSLICHKEIT",
+      "description": "Reliability or dependability"
+    },
+    {
+      "word": "VEROEFFENTLICHUNG",
+      "description": "Publication or release"
+    },
+    {
+      "word": "VERSCHULDUNG",
+      "description": "Indebtedness or debt"
+    },
+    {
+      "word": "VERSTAENDIGUNG",
+      "description": "Communication or understanding"
+    },
+    {
+      "word": "VERTIEFUNG",
+      "description": "Deepening or intensification"
+    },
+    {
+      "word": "VISION",
+      "description": "Vision or long-term goal"
+    },
+    {
+      "word": "VOLKSVERTRETER",
+      "description": "Representative of the people"
+    },
+    {
+      "word": "VORBILD",
+      "description": "Role model or example"
+    },
+    {
+      "word": "VORGABE",
+      "description": "Specification or target"
+    },
+    {
+      "word": "VORSICHT",
+      "description": "Caution or care"
+    },
+    {
+      "word": "WACHSTUMSSTRATEGIE",
+      "description": "Growth strategy"
+    },
+    {
+      "word": "WANDEL",
+      "description": "Change or transformation"
+    },
+    {
+      "word": "WELTOFFENHEIT",
+      "description": "Openness to the world"
+    },
+    {
+      "word": "WESENSZUG",
+      "description": "Character trait or feature"
+    },
+    {
+      "word": "WETTBEWERBSFAEHIGKEIT",
+      "description": "Competitiveness"
+    },
+    {
+      "word": "WIRTSCHAFTSKRISE",
+      "description": "Economic crisis"
+    },
+    {
+      "word": "WOHLBEFINDEN",
+      "description": "Wellbeing or comfort"
+    },
+    {
+      "word": "WUENSCHWERT",
+      "description": "Desirable or worth wishing for"
+    },
+    {
+      "word": "ZERFALL",
+      "description": "Decay or disintegration"
+    },
+    {
+      "word": "ZUSAMMENFASSUNG",
+      "description": "Summary or abstract"
+    },
+    {
+      "word": "ZUVERLÄSSIGKEIT",
+      "description": "Reliability or trustworthiness"
+    },
+    {
+      "word": "ABKUERZUNG",
+      "description": "Abbreviation or shortcut"
+    },
+    {
+      "word": "ABENDBROT",
+      "description": "Light evening meal or supper"
+    },
+    {
+      "word": "ABGEORDNETER",
+      "description": "Member of parliament or delegate"
+    },
+    {
+      "word": "ABKLAERUNG",
+      "description": "Clarification or settling"
+    },
+    {
+      "word": "ABLENKUNG",
+      "description": "Distraction or diversion"
+    },
+    {
+      "word": "ABSCHRECKUNG",
+      "description": "Deterrence or intimidation"
+    },
+    {
+      "word": "ABWESENHEIT",
+      "description": "Absence or non-presence"
+    },
+    {
+      "word": "ACKERBAU",
+      "description": "Arable farming or agriculture"
+    },
+    {
+      "word": "ALLGEMEINHEIT",
+      "description": "General public or universality"
+    },
+    {
+      "word": "ALLTAGSSPRACHE",
+      "description": "Everyday language"
+    },
+    {
+      "word": "AMTSSPRACHE",
+      "description": "Official language"
+    },
+    {
+      "word": "ANBINDUNG",
+      "description": "Connection or link"
+    },
+    {
+      "word": "ANDERSARTIGKEIT",
+      "description": "Difference or otherness"
+    },
+    {
+      "word": "ANGESTELLTER",
+      "description": "Employee or white-collar worker"
+    },
+    {
+      "word": "ANNAHMSLOS",
+      "description": "Unconditional or without assumption"
+    },
+    {
+      "word": "ANPASSUNGSFÄHIGKEIT",
+      "description": "Adaptability or flexibility"
+    },
+    {
+      "word": "ANREGUNGSPUNKT",
+      "description": "Point of stimulation"
+    },
+    {
+      "word": "ANSATZPUNKT",
+      "description": "Starting point or approach"
+    },
+    {
+      "word": "ANSPRUCHSDENKEN",
+      "description": "Entitlement thinking"
+    },
+    {
+      "word": "ARBEITSMARKT",
+      "description": "Labour market"
+    },
+    {
+      "word": "ARBEITSUMGEBUNG",
+      "description": "Work environment"
+    },
+    {
+      "word": "AUFARBEITUNG",
+      "description": "Working through or reappraisal"
+    },
+    {
+      "word": "AUFLISTUNG",
+      "description": "Listing or enumeration"
+    },
+    {
+      "word": "AUFMERKSAMKEIT",
+      "description": "Attention or concentration"
+    },
+    {
+      "word": "AUFWERTUNG",
+      "description": "Appreciation or upgrading"
+    },
+    {
+      "word": "AUSEINANDERSETZUNG",
+      "description": "Conflict or confrontation"
+    },
+    {
+      "word": "AUSGANGSITUATION",
+      "description": "Initial situation"
+    },
+    {
+      "word": "AUSKOMMEN",
+      "description": "Getting along or livelihood"
+    },
+    {
+      "word": "AUSRUFER",
+      "description": "Announcer or town crier"
+    },
+    {
+      "word": "AUSWANDERUNG",
+      "description": "Emigration from a country"
+    },
+    {
+      "word": "AUSWIRKUNGSFELD",
+      "description": "Field of impact"
+    },
+    {
+      "word": "AUTONOMIE",
+      "description": "Autonomy or self-governance"
+    },
+    {
+      "word": "BAUERNHOF",
+      "description": "Farm or farmhouse"
+    },
+    {
+      "word": "BEDACHTHEIT",
+      "description": "Thoughtfulness or deliberateness"
+    },
+    {
+      "word": "BEDUERFNIS",
+      "description": "Need or requirement"
+    },
+    {
+      "word": "BEEINFLUSSBARKEIT",
+      "description": "Susceptibility to influence"
+    },
+    {
+      "word": "BEFINDLICHKEIT",
+      "description": "State of mind or condition"
+    },
+    {
+      "word": "BEFRIEDIGUNG",
+      "description": "Satisfaction or fulfillment"
+    },
+    {
+      "word": "BEGABUNG",
+      "description": "Talent or gift"
+    },
+    {
+      "word": "BEGEBENHEIT",
+      "description": "Happening or occurrence"
+    },
+    {
+      "word": "BEHINDERTE",
+      "description": "Person with disability"
+    },
+    {
+      "word": "BEIBEHALTUNG",
+      "description": "Maintenance or retention"
+    },
+    {
+      "word": "BEKENNNTIS",
+      "description": "Confession or declaration"
+    },
+    {
+      "word": "BELEBUNG",
+      "description": "Revival or animation"
+    },
+    {
+      "word": "BENACHRICHTIGUNG",
+      "description": "Notification or message"
+    },
+    {
+      "word": "BENUTZEROBERFLAECHE",
+      "description": "User interface"
+    },
+    {
+      "word": "BEZIEHUNGSWEISE",
+      "description": "Or rather, respectively"
+    },
+    {
+      "word": "BIEGSAMKEIT",
+      "description": "Flexibility or pliability"
+    },
+    {
+      "word": "BILDUNGSSYSTEM",
+      "description": "Education system"
+    },
+    {
+      "word": "BODENSTAENDIGKEIT",
+      "description": "Groundedness or down-to-earth quality"
+    },
+    {
+      "word": "BREITENWIRKUNG",
+      "description": "Broad impact or wide reach"
+    },
+    {
+      "word": "BRIEFWAHL",
+      "description": "Postal vote"
+    },
+    {
+      "word": "BUERGERRECHT",
+      "description": "Civil right or citizenship right"
+    },
+    {
+      "word": "BÜRGSCHAFT",
+      "description": "Guarantee or surety"
+    },
+    {
+      "word": "CHANCENGLEICHHEIT",
+      "description": "Equal opportunity"
+    },
+    {
+      "word": "DANKBARKEIT",
+      "description": "Gratitude or appreciation"
+    },
+    {
+      "word": "DASEINSVORSORGE",
+      "description": "Public services provision"
+    },
+    {
+      "word": "DAUERHAFTIGKEIT",
+      "description": "Durability or permanence"
+    },
+    {
+      "word": "DAUERHAFTE",
+      "description": "Lasting or enduring quality"
+    },
+    {
+      "word": "DEMOKRATIEVERSTAENDNIS",
+      "description": "Understanding of democracy"
+    },
+    {
+      "word": "DENKWEISE",
+      "description": "Way of thinking or mindset"
+    },
+    {
+      "word": "DIALOGBEREITSCHAFT",
+      "description": "Willingness to engage in dialogue"
+    },
+    {
+      "word": "DIREKTHEIT",
+      "description": "Directness or frankness"
+    },
+    {
+      "word": "DISKREPANZ",
+      "description": "Discrepancy or inconsistency"
+    },
+    {
+      "word": "DIVERSIFIKATION",
+      "description": "Diversification"
+    },
+    {
+      "word": "DURCHSETZUNGSVERMÖGEN",
+      "description": "Assertiveness or ability to prevail"
+    },
+    {
+      "word": "EIGENSTAENDIGKEIT",
+      "description": "Independence or self-sufficiency"
+    },
+    {
+      "word": "EINDEUTIGKEIT",
+      "description": "Clarity or unambiguousness"
+    },
+    {
+      "word": "EINGEBUNDENHEIT",
+      "description": "Being embedded or included"
+    },
+    {
+      "word": "EINGRENZUNG",
+      "description": "Demarcation or narrowing down"
+    },
+    {
+      "word": "EINKOMMENSGEFAELLE",
+      "description": "Income gap or disparity"
+    },
+    {
+      "word": "EINSATZ",
+      "description": "Deployment or commitment"
+    },
+    {
+      "word": "EINSCHNITT",
+      "description": "Incision or significant change"
+    },
+    {
+      "word": "EINSCHUECHERUNG",
+      "description": "Intimidation or bullying"
+    },
+    {
+      "word": "EMPFAENGER",
+      "description": "Recipient or receiver"
+    },
+    {
+      "word": "ENTEIGNUNG",
+      "description": "Expropriation or dispossession"
+    },
+    {
+      "word": "ENTHALTSAMKEIT",
+      "description": "Abstinence or restraint"
+    },
+    {
+      "word": "ENTSCHLOSSENHEIT",
+      "description": "Determination or resolve"
+    },
+    {
+      "word": "ERKENNTISGEWINN",
+      "description": "Gain of insight or knowledge"
+    },
+    {
+      "word": "ERKLAERUNGSVERSUCH",
+      "description": "Attempt at explanation"
+    },
+    {
+      "word": "ERNEUERBAREENERGIE",
+      "description": "Renewable energy"
+    },
+    {
+      "word": "ERSCHOEPFBARKEIT",
+      "description": "Depletability"
+    },
+    {
+      "word": "ERZIEHUNGSBERECHTIGTER",
+      "description": "Legal guardian"
+    },
+    {
+      "word": "FACHSPRACHE",
+      "description": "Technical language or jargon"
+    },
+    {
+      "word": "FAIRNESSGEBOT",
+      "description": "Requirement of fairness"
+    },
+    {
+      "word": "FAMILIENSTAND",
+      "description": "Marital status"
+    },
+    {
+      "word": "FASSUNGSLOSIGKEIT",
+      "description": "Stunned disbelief"
+    },
+    {
+      "word": "FERNZIEL",
+      "description": "Long-term goal"
+    },
+    {
+      "word": "FINANZKRISE",
+      "description": "Financial crisis"
+    },
+    {
+      "word": "FOLGEABSCHAETZUNG",
+      "description": "Impact assessment"
+    },
+    {
+      "word": "FREMDBESTIMMUNG",
+      "description": "External control or heteronomy"
+    },
+    {
+      "word": "FRIEDENSBEMUEHUNGEN",
+      "description": "Peace efforts"
+    },
+    {
+      "word": "FRIEDLICHKEIT",
+      "description": "Peacefulness"
+    },
+    {
+      "word": "FUNKTIONSFÄHIGKEIT",
+      "description": "Functionality or operability"
+    },
+    {
+      "word": "FUERSORGEPFLICHT",
+      "description": "Duty of care"
+    },
+    {
+      "word": "GEFAEHRDUNG",
+      "description": "Endangerment or risk"
+    },
+    {
+      "word": "GEGENSEITIGKEIT",
+      "description": "Mutuality or reciprocity"
+    },
+    {
+      "word": "GEISTESKRAFT",
+      "description": "Mental strength or intellect"
+    },
+    {
+      "word": "GEMEINSAMKEIT",
+      "description": "Common ground or shared feature"
+    },
+    {
+      "word": "GENEROSITÄT",
+      "description": "Generosity or magnanimity"
+    },
+    {
+      "word": "GENÜGSAMKEIT",
+      "description": "Contentment or frugality"
+    },
+    {
+      "word": "GEREIFHEIT",
+      "description": "Maturity or ripeness"
+    },
+    {
+      "word": "GESELLSCHAFTSBILD",
+      "description": "Image of society"
+    },
+    {
+      "word": "GESTAENDNIS",
+      "description": "Confession or admission"
+    },
+    {
+      "word": "GEWAEHRSMANN",
+      "description": "Informant or source"
+    },
+    {
+      "word": "GEWISSENHAFTIGKEIT",
+      "description": "Conscientiousness or diligence"
+    },
+    {
+      "word": "GLEICHWERTIGKEIT",
+      "description": "Equivalence or equal value"
+    },
+    {
+      "word": "GLOBALPOLITIK",
+      "description": "Global politics"
+    },
+    {
+      "word": "GRENZWERT",
+      "description": "Threshold value or limit"
+    },
+    {
+      "word": "GROSSZUEGIGKEIT",
+      "description": "Generosity or magnanimity"
+    },
+    {
+      "word": "HINFÄLLIGKEIT",
+      "description": "Frailty or vulnerability"
+    },
+    {
+      "word": "HUMANITAET",
+      "description": "Humanity or humaneness"
+    },
+    {
+      "word": "IMMOBILIEN",
+      "description": "Real estate or property"
+    },
+    {
+      "word": "INDIVIDUALITAET",
+      "description": "Individuality or uniqueness"
+    },
+    {
+      "word": "INFORMATIONSQUELLE",
+      "description": "Source of information"
+    },
+    {
+      "word": "INTEGRITAET",
+      "description": "Integrity or moral wholeness"
+    },
+    {
+      "word": "INTERVENTIONSPOLITIK",
+      "description": "Interventionist policy"
+    },
+    {
+      "word": "KAPITALISMUS",
+      "description": "Capitalism or market economy"
+    },
+    {
+      "word": "KERNKOMPETENZ",
+      "description": "Core competency"
+    },
+    {
+      "word": "KLIMAPOLITIK",
+      "description": "Climate policy"
+    },
+    {
+      "word": "KOHAERENZ",
+      "description": "Coherence or logical consistency"
+    },
+    {
+      "word": "KOLLABORATIONSGEIST",
+      "description": "Spirit of collaboration"
+    },
+    {
+      "word": "KOMMUNIKATION",
+      "description": "Communication"
+    },
+    {
+      "word": "KORREKTHEIT",
+      "description": "Correctness or propriety"
+    },
+    {
+      "word": "KULTURPOLITIK",
+      "description": "Cultural policy"
+    },
+    {
+      "word": "LANGFRISTIGKEIT",
+      "description": "Long-term perspective"
+    },
+    {
+      "word": "LERNKULTUR",
+      "description": "Learning culture"
+    },
+    {
+      "word": "LIBERALISMUS",
+      "description": "Liberalism or liberal philosophy"
+    },
+    {
+      "word": "LOYALITAET",
+      "description": "Loyalty or faithfulness"
+    },
+    {
+      "word": "MACHTBALANCE",
+      "description": "Balance of power"
+    },
+    {
+      "word": "MASSENMEDIEN",
+      "description": "Mass media"
+    },
+    {
+      "word": "MEHRSPRACHIGKEIT",
+      "description": "Multilingualism"
+    },
+    {
+      "word": "MITBESTIMMUNG",
+      "description": "Co-determination or participation"
+    },
+    {
+      "word": "MITBÜRGER",
+      "description": "Fellow citizen"
+    },
+    {
+      "word": "MITWIRKUNGSRECHT",
+      "description": "Right to participation"
+    },
+    {
+      "word": "MÜNDIGKEIT",
+      "description": "Maturity or legal capacity"
+    },
+    {
+      "word": "NACHTARBEIT",
+      "description": "Night work or night shift"
+    },
+    {
+      "word": "NATIONALISMUS",
+      "description": "Nationalism"
+    },
+    {
+      "word": "NEUORIENTIERUNG",
+      "description": "Reorientation or new direction"
+    },
+    {
+      "word": "NICHTREGIERUNGSORGANISATION",
+      "description": "Non-governmental organization"
+    },
+    {
+      "word": "NIEDRIGLOHNSEKTOR",
+      "description": "Low-wage sector"
+    },
+    {
+      "word": "NORMALZUSTAND",
+      "description": "Normal state or status quo"
+    },
+    {
+      "word": "NOTLÖSUNG",
+      "description": "Emergency solution or stopgap"
+    },
+    {
+      "word": "NUTZUNGSRECHT",
+      "description": "Right of use"
+    },
+    {
+      "word": "OBDACHLOSIGKEIT",
+      "description": "Homelessness"
+    },
+    {
+      "word": "OFFENBARUNG",
+      "description": "Revelation or disclosure"
+    },
+    {
+      "word": "OPPORTUNISMUS",
+      "description": "Opportunism"
+    },
+    {
+      "word": "PARITAET",
+      "description": "Parity or equality"
+    },
+    {
+      "word": "PARTIZIPATIONSRECHT",
+      "description": "Right of participation"
+    },
+    {
+      "word": "PATIENTENWILLE",
+      "description": "Patient's will or wishes"
+    },
+    {
+      "word": "PERSONALENTWICKLUNG",
+      "description": "Personnel development"
+    },
+    {
+      "word": "PFLICHTBEWUSSTSEIN",
+      "description": "Sense of duty"
+    },
+    {
+      "word": "PLANLOSIGKEIT",
+      "description": "Lack of planning"
+    },
+    {
+      "word": "PLAUSIBILITAET",
+      "description": "Plausibility or reasonableness"
+    },
+    {
+      "word": "POPULISMUS",
+      "description": "Populism"
+    },
+    {
+      "word": "PRAESENZ",
+      "description": "Presence or attendance"
+    },
+    {
+      "word": "PROFILIERUNG",
+      "description": "Profiling or establishing a profile"
+    },
+    {
+      "word": "RATIONALISIERUNG",
+      "description": "Rationalization"
+    },
+    {
+      "word": "RATIONALITAET",
+      "description": "Rationality or logical thinking"
+    },
+    {
+      "word": "RECHTSSICHERHEIT",
+      "description": "Legal certainty"
+    },
+    {
+      "word": "REFLEXIONSVERMÖGEN",
+      "description": "Capacity for reflection"
+    },
+    {
+      "word": "REFORMWILLE",
+      "description": "Will to reform"
+    },
+    {
+      "word": "REGELMÄSSIGKEIT",
+      "description": "Regularity or consistency"
+    },
+    {
+      "word": "REIFEPRUEFUNG",
+      "description": "Maturity test or school-leaving exam"
+    },
+    {
+      "word": "RELATIVISMUS",
+      "description": "Relativism"
+    },
+    {
+      "word": "RISIKOBEREITSCHAFT",
+      "description": "Risk tolerance or willingness to take risks"
+    },
+    {
+      "word": "RUECKGRAT",
+      "description": "Backbone or spine"
+    },
+    {
+      "word": "SACHKENNTNIS",
+      "description": "Expertise or knowledge of facts"
+    },
+    {
+      "word": "SACHZWANG",
+      "description": "Constraint of facts or necessity"
+    },
+    {
+      "word": "SANKTIONSYSTEM",
+      "description": "Sanction system"
+    },
+    {
+      "word": "SCHLUESSELFAKTOR",
+      "description": "Key factor"
+    },
+    {
+      "word": "SELBSTAENDIGKEIT",
+      "description": "Independence or self-employment"
+    },
+    {
+      "word": "SELBSTVERWIRKLICHUNG",
+      "description": "Self-realization"
+    },
+    {
+      "word": "SICHERHEITSBEDENKEN",
+      "description": "Security concerns"
+    },
+    {
+      "word": "SINNHAFTIGKEIT",
+      "description": "Meaningfulness"
+    },
+    {
+      "word": "SITUATIONSBEWUSSTSEIN",
+      "description": "Situational awareness"
+    },
+    {
+      "word": "SOZIALGEFUEGE",
+      "description": "Social fabric or structure"
+    },
+    {
+      "word": "SOZIALLEISTUNGEN",
+      "description": "Social benefits"
+    },
+    {
+      "word": "SPRACHKENNTNISSE",
+      "description": "Language skills"
+    },
+    {
+      "word": "STAATSGEFAELLE",
+      "description": "State disparity"
+    },
+    {
+      "word": "STABILITAETSPOLITIK",
+      "description": "Stability policy"
+    },
+    {
+      "word": "STANDARDISIERUNGSDRUCK",
+      "description": "Pressure to standardize"
+    },
+    {
+      "word": "STEUERRECHT",
+      "description": "Tax law"
+    },
+    {
+      "word": "STIMMUNGSWANDEL",
+      "description": "Change of mood or sentiment"
+    },
+    {
+      "word": "STRUKTURREFORM",
+      "description": "Structural reform"
+    },
+    {
+      "word": "SUBSIDIARITAETSPRINZIP",
+      "description": "Principle of subsidiarity"
+    },
+    {
+      "word": "SYSTEMWECHSEL",
+      "description": "Change of system"
+    },
+    {
+      "word": "TAGESORDNUNGSPUNKT",
+      "description": "Agenda item"
+    },
+    {
+      "word": "TEILHABE",
+      "description": "Participation or sharing"
+    },
+    {
+      "word": "TOLERANZBEREITSCHAFT",
+      "description": "Willingness to be tolerant"
+    },
+    {
+      "word": "TRADITIONALISMUS",
+      "description": "Traditionalism"
+    },
+    {
+      "word": "TRANSFORMATIONSPHASE",
+      "description": "Phase of transformation"
+    },
+    {
+      "word": "TRANSPARENZGEBOT",
+      "description": "Requirement for transparency"
+    },
+    {
+      "word": "UEBERZEUGUNGSARBEIT",
+      "description": "Persuasion work"
+    },
+    {
+      "word": "UMWELTBEWUSSTSEIN",
+      "description": "Environmental awareness"
+    },
+    {
+      "word": "UMWELTPOLITIK",
+      "description": "Environmental policy"
+    },
+    {
+      "word": "UNPARTEILICHKEIT",
+      "description": "Impartiality or neutrality"
+    },
+    {
+      "word": "UNTERSUCHUNGSAUSSCHUSS",
+      "description": "Parliamentary inquiry committee"
+    },
+    {
+      "word": "VERBINDLICHKEIT",
+      "description": "Obligatoriness or reliability"
+    },
+    {
+      "word": "VERHAELTNISMAESSIGKEIT",
+      "description": "Proportionality"
+    },
+    {
+      "word": "VERLÄSSLICHKEIT",
+      "description": "Reliability or dependability"
+    },
+    {
+      "word": "VERMITTLUNGSROLLE",
+      "description": "Mediation role"
+    },
+    {
+      "word": "VERNETZUNG",
+      "description": "Networking or interconnection"
+    },
+    {
+      "word": "VERÖFFENTLICHUNG",
+      "description": "Publication or announcement"
+    },
+    {
+      "word": "VERPFLICHTUNGSGEFÜHL",
+      "description": "Sense of obligation"
+    },
+    {
+      "word": "VERSTAERKUNG",
+      "description": "Reinforcement or amplification"
+    },
+    {
+      "word": "VERTRAUENSWUERDIGKEIT",
+      "description": "Trustworthiness"
+    },
+    {
+      "word": "VOLKSBEGEHREN",
+      "description": "Popular initiative or referendum"
+    },
+    {
+      "word": "VOLKSWIRTSCHAFT",
+      "description": "National economy"
+    },
+    {
+      "word": "VOLLKASKO",
+      "description": "Comprehensive insurance"
+    },
+    {
+      "word": "VORSORGEPFLICHT",
+      "description": "Duty of precaution"
+    },
+    {
+      "word": "WAHRHAFTIGKEIT",
+      "description": "Truthfulness or veracity"
+    },
+    {
+      "word": "WEITSICHTIGKEIT",
+      "description": "Far-sightedness or foresight"
+    },
+    {
+      "word": "WELTGEMEINSCHAFT",
+      "description": "World community"
+    },
+    {
+      "word": "WERTEKODEX",
+      "description": "Code of values"
+    },
+    {
+      "word": "WERTEWANDEL",
+      "description": "Value change"
+    },
+    {
+      "word": "WETTBEWERBSRECHT",
+      "description": "Competition law"
+    },
+    {
+      "word": "WIDERSTANDSFAEHIGKEIT",
+      "description": "Resilience or robustness"
+    },
+    {
+      "word": "WISSENSGESELLSCHAFT",
+      "description": "Knowledge society"
+    },
+    {
+      "word": "WOHLFAHRTSSTAAT",
+      "description": "Welfare state"
+    },
+    {
+      "word": "ZEITGEIST",
+      "description": "Spirit of the time or era"
+    },
+    {
+      "word": "ZENTRALISIERUNG",
+      "description": "Centralization"
+    },
+    {
+      "word": "ZIVILGESELLSCHAFT",
+      "description": "Civil society"
+    },
+    {
+      "word": "ZIVILISIERUNG",
+      "description": "Civilization or civilizing process"
+    },
+    {
+      "word": "ZULAESSIGKEIT",
+      "description": "Admissibility or permissibility"
+    },
+    {
+      "word": "ZURECHNUNG",
+      "description": "Attribution or assignment"
+    },
+    {
+      "word": "ZURECHTKOMMEN",
+      "description": "Getting along or managing"
+    },
+    {
+      "word": "ZUSICHERUNG",
+      "description": "Assurance or guarantee"
+    },
+    {
+      "word": "ZUVERSICHTLICHKEIT",
+      "description": "Optimism or confidence"
+    },
+    {
+      "word": "ZWANGSLAGE",
+      "description": "Predicament or forced situation"
+    },
+    {
+      "word": "ZWECKBESTIMMUNG",
+      "description": "Purpose designation"
+    },
+    {
+      "word": "ABGEORDNETENHAUS",
+      "description": "House of Representatives"
+    },
+    {
+      "word": "ABGELEGEN",
+      "description": "Remote or isolated location"
+    },
+    {
+      "word": "ABGRENZUNG",
+      "description": "Delimitation or distinction"
+    },
+    {
+      "word": "ANSCHAUUNG",
+      "description": "View or outlook"
+    },
+    {
+      "word": "AUFBRUCH",
+      "description": "Departure or new beginning"
+    },
+    {
+      "word": "AUFKLÄRUNG",
+      "description": "Enlightenment or clarification"
+    },
+    {
+      "word": "BEGRENZUNG",
+      "description": "Limitation or restriction"
+    },
+    {
+      "word": "BEISTAND",
+      "description": "Support or assistance"
+    },
+    {
+      "word": "BESCHEIDENHEIT",
+      "description": "Modesty or humility"
+    },
+    {
+      "word": "BEWUSSTSEINSWANDEL",
+      "description": "Change of consciousness"
+    },
+    {
+      "word": "DARUEBER",
+      "description": "About that or above"
+    },
+    {
+      "word": "DEMUT",
+      "description": "Humility or modesty"
+    },
+    {
+      "word": "ENTSCHLOSSENHEIT",
+      "description": "Determination or decisiveness"
+    },
+    {
+      "word": "ERNEUERBAR",
+      "description": "Renewable or regenerable"
+    },
+    {
+      "word": "ERRUNGENSCHAFT",
+      "description": "Achievement or accomplishment"
+    },
+    {
+      "word": "FAIRPLAY",
+      "description": "Fair play or sportsmanship"
+    },
+    {
+      "word": "FRIEDEN",
+      "description": "Peace"
+    },
+    {
+      "word": "GEMEINSINN",
+      "description": "Public spirit or community sense"
+    },
+    {
+      "word": "GENERATIONENGERECHTIGKEIT",
+      "description": "Intergenerational justice"
+    },
+    {
+      "word": "GESTALTUNGSWILLE",
+      "description": "Will to shape or design"
+    },
+    {
+      "word": "GLAUBWUERDIGKEIT",
+      "description": "Credibility or trustworthiness"
+    },
+    {
+      "word": "GUTACHTEN",
+      "description": "Expert opinion or appraisal"
+    },
+    {
+      "word": "HANDLUNGSFÄHIGKEIT",
+      "description": "Ability to act"
+    },
+    {
+      "word": "HAUSHALTSKONSOLIDIERUNG",
+      "description": "Budget consolidation"
+    },
+    {
+      "word": "INNOVATIONSGEIST",
+      "description": "Spirit of innovation"
+    },
+    {
+      "word": "INTERESSENGRUPPE",
+      "description": "Interest group or lobby"
+    },
+    {
+      "word": "INVESTITIONSKLIMA",
+      "description": "Investment climate"
+    },
+    {
+      "word": "KAPITALMARKT",
+      "description": "Capital market"
+    },
+    {
+      "word": "KOMPETENZENTWICKLUNG",
+      "description": "Competency development"
+    },
+    {
+      "word": "KONSENSBILDUNG",
+      "description": "Consensus building"
+    },
+    {
+      "word": "KONTINUITAET",
+      "description": "Continuity or consistency"
+    },
+    {
+      "word": "LEITGEDANKE",
+      "description": "Guiding thought or main idea"
+    },
+    {
+      "word": "MITMENSCHLICHKEIT",
+      "description": "Fellow humanity or compassion"
+    },
+    {
+      "word": "MITVERANTWORTUNG",
+      "description": "Shared responsibility"
+    },
+    {
+      "word": "NAEHRBODEN",
+      "description": "Breeding ground or fertile soil"
+    },
+    {
+      "word": "NIVEAUUNTERSCHIED",
+      "description": "Level difference"
+    },
+    {
+      "word": "NOTWENDIGKEIT",
+      "description": "Necessity or need"
+    },
+    {
+      "word": "OBRIGKEITSDENKEN",
+      "description": "Obedience to authority"
+    },
+    {
+      "word": "ÖKOLOGIE",
+      "description": "Ecology"
+    },
+    {
+      "word": "ÖFFENTLICHKEITSARBEIT",
+      "description": "Public relations"
+    },
+    {
+      "word": "POLITIKGESTALTUNG",
+      "description": "Policy making"
+    },
+    {
+      "word": "QUERDENKER",
+      "description": "Lateral thinker or unconventional thinker"
+    },
+    {
+      "word": "REALPOLITIK",
+      "description": "Practical politics based on interests"
+    },
+    {
+      "word": "RECHTSSTAATLICHKEIT",
+      "description": "Rule of law"
+    },
+    {
+      "word": "REDEFREIHEIT",
+      "description": "Freedom of speech"
+    },
+    {
+      "word": "RESPEKTLOSIGKEIT",
+      "description": "Disrespect"
+    },
+    {
+      "word": "RITUALISIERUNG",
+      "description": "Ritualization"
+    },
+    {
+      "word": "SACHVERSTAENDIGER",
+      "description": "Expert or specialist"
+    },
+    {
+      "word": "SELBSTGEFAELLIGKEIT",
+      "description": "Complacency or self-satisfaction"
+    },
+    {
+      "word": "SENIORENARBEIT",
+      "description": "Work with elderly people"
+    },
+    {
+      "word": "SOLIDARITAETSGEFUEHL",
+      "description": "Feeling of solidarity"
+    },
+    {
+      "word": "SOZIALISATIONSAGENT",
+      "description": "Agent of socialization"
+    },
+    {
+      "word": "SYSTEMVERAENDERUNG",
+      "description": "System change"
+    },
+    {
+      "word": "TRAEGHEIT",
+      "description": "Inertia or laziness"
+    },
+    {
+      "word": "UMSETZUNGSSCHWIERIGKEITEN",
+      "description": "Implementation difficulties"
+    },
+    {
+      "word": "UNBERECHENBARKEIT",
+      "description": "Unpredictability"
+    },
+    {
+      "word": "UNBEUGSAMKEIT",
+      "description": "Inflexibility or unbending nature"
+    },
+    {
+      "word": "UNGEDULD",
+      "description": "Impatience"
+    },
+    {
+      "word": "UNTERENTWICKLUNG",
+      "description": "Underdevelopment"
+    },
+    {
+      "word": "VERANKERUNG",
+      "description": "Anchoring or embedding"
+    },
+    {
+      "word": "VERGELTUNG",
+      "description": "Retaliation or retribution"
+    },
+    {
+      "word": "VERHARMLOSUNG",
+      "description": "Trivialization or downplaying"
+    },
+    {
+      "word": "VERNICHTUNG",
+      "description": "Destruction or annihilation"
+    },
+    {
+      "word": "VERORDNUNG",
+      "description": "Regulation or ordinance"
+    },
+    {
+      "word": "VERSAEUMNIS",
+      "description": "Omission or negligence"
+    },
+    {
+      "word": "VIELSCHICHTIGKEIT",
+      "description": "Complexity or multi-layeredness"
+    },
+    {
+      "word": "VORBEUGUNG",
+      "description": "Prevention or precaution"
+    },
+    {
+      "word": "WAHRHEITSGEHALT",
+      "description": "Truth content or veracity"
+    },
+    {
+      "word": "WEITREICHEND",
+      "description": "Far-reaching or extensive"
+    },
+    {
+      "word": "WIEDERHERSTELLUNG",
+      "description": "Restoration or reconstruction"
+    },
+    {
+      "word": "WIRKLICHKEITSNAH",
+      "description": "Close to reality"
+    },
+    {
+      "word": "WISSENSVERMITTLUNG",
+      "description": "Knowledge transfer"
+    },
+    {
+      "word": "WOHLERGEHEN",
+      "description": "Welfare or wellbeing"
+    },
+    {
+      "word": "WOHNUNGSNOT",
+      "description": "Housing shortage"
+    },
+    {
+      "word": "ZERRISSENHEIT",
+      "description": "Divided nature or inner conflict"
+    },
+    {
+      "word": "ZIELERREICHUNG",
+      "description": "Goal achievement"
+    },
+    {
+      "word": "ZIELKONFLIKT",
+      "description": "Conflict of goals"
+    },
+    {
+      "word": "ZUGANG",
+      "description": "Access or approach"
+    },
+    {
+      "word": "ZWANGSMASSNAHME",
+      "description": "Coercive measure"
+    },
+    {
+      "word": "ZWEIDEUTIGKEIT",
+      "description": "Ambiguity or double meaning"
+    }
+  ]
+}

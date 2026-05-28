@@ -1,0 +1,4235 @@
+{
+  "metadata": {
+    "level": "A2",
+    "language": "German",
+    "description_language": "English",
+    "total_words": 1056,
+    "usage": "crossword"
+  },
+  "words": [
+    {
+      "word": "HAUS",
+      "description": "Building where people live"
+    },
+    {
+      "word": "AUTO",
+      "description": "Motor vehicle for transportation"
+    },
+    {
+      "word": "BUCH",
+      "description": "Printed pages bound together"
+    },
+    {
+      "word": "TISCH",
+      "description": "Furniture with a flat top surface"
+    },
+    {
+      "word": "STUHL",
+      "description": "Seat with four legs and a back"
+    },
+    {
+      "word": "FENSTER",
+      "description": "Glass opening in a wall"
+    },
+    {
+      "word": "TUER",
+      "description": "Entrance to a room or building"
+    },
+    {
+      "word": "BETT",
+      "description": "Furniture for sleeping"
+    },
+    {
+      "word": "LAMPE",
+      "description": "Device that produces light"
+    },
+    {
+      "word": "KUCHE",
+      "description": "Room where food is prepared"
+    },
+    {
+      "word": "BAD",
+      "description": "Room with a bathtub or shower"
+    },
+    {
+      "word": "GARTEN",
+      "description": "Outdoor area with plants and flowers"
+    },
+    {
+      "word": "STRASSE",
+      "description": "Public road in a town"
+    },
+    {
+      "word": "SCHULE",
+      "description": "Building where children learn"
+    },
+    {
+      "word": "ARZT",
+      "description": "Medical doctor"
+    },
+    {
+      "word": "KRANKENHAUS",
+      "description": "Hospital building"
+    },
+    {
+      "word": "APOTHEKE",
+      "description": "Pharmacy where medicines are sold"
+    },
+    {
+      "word": "MARKT",
+      "description": "Place where goods are bought and sold"
+    },
+    {
+      "word": "BAHNHOF",
+      "description": "Train station"
+    },
+    {
+      "word": "FLUGHAFEN",
+      "description": "Airport"
+    },
+    {
+      "word": "HOTEL",
+      "description": "Building offering paid accommodation"
+    },
+    {
+      "word": "RESTAURANT",
+      "description": "Place where meals are served"
+    },
+    {
+      "word": "CAFE",
+      "description": "Small restaurant serving coffee and snacks"
+    },
+    {
+      "word": "BANK",
+      "description": "Financial institution"
+    },
+    {
+      "word": "POST",
+      "description": "Office for sending mail and packages"
+    },
+    {
+      "word": "POLIZEI",
+      "description": "Law enforcement organization"
+    },
+    {
+      "word": "KIRCHE",
+      "description": "Christian place of worship"
+    },
+    {
+      "word": "PARK",
+      "description": "Public green area for recreation"
+    },
+    {
+      "word": "BERG",
+      "description": "Large natural elevation of land"
+    },
+    {
+      "word": "SEE",
+      "description": "Large body of fresh water"
+    },
+    {
+      "word": "FLUSS",
+      "description": "Flowing body of water"
+    },
+    {
+      "word": "MEER",
+      "description": "Large body of salt water"
+    },
+    {
+      "word": "WALD",
+      "description": "Large area covered with trees"
+    },
+    {
+      "word": "FELD",
+      "description": "Open area of land"
+    },
+    {
+      "word": "WIESE",
+      "description": "Area of grassland"
+    },
+    {
+      "word": "HIMMEL",
+      "description": "The sky above"
+    },
+    {
+      "word": "SONNE",
+      "description": "The star at the center of our solar system"
+    },
+    {
+      "word": "MOND",
+      "description": "Natural satellite of the Earth"
+    },
+    {
+      "word": "STERN",
+      "description": "Luminous point visible in the night sky"
+    },
+    {
+      "word": "WOLKE",
+      "description": "White or grey mass floating in the sky"
+    },
+    {
+      "word": "REGEN",
+      "description": "Water falling from clouds"
+    },
+    {
+      "word": "SCHNEE",
+      "description": "White frozen precipitation"
+    },
+    {
+      "word": "WIND",
+      "description": "Moving air outdoors"
+    },
+    {
+      "word": "EIS",
+      "description": "Frozen water"
+    },
+    {
+      "word": "FEUER",
+      "description": "Combustion producing heat and light"
+    },
+    {
+      "word": "WASSER",
+      "description": "Clear liquid essential for life"
+    },
+    {
+      "word": "LUFT",
+      "description": "Mixture of gases surrounding the Earth"
+    },
+    {
+      "word": "ERDE",
+      "description": "Soil or planet we live on"
+    },
+    {
+      "word": "BLUME",
+      "description": "Colorful part of a plant"
+    },
+    {
+      "word": "BAUM",
+      "description": "Tall woody plant"
+    },
+    {
+      "word": "GRAS",
+      "description": "Green ground cover plant"
+    },
+    {
+      "word": "TIER",
+      "description": "Living creature, not a human or plant"
+    },
+    {
+      "word": "HUND",
+      "description": "Domestic pet, loyal companion"
+    },
+    {
+      "word": "KATZE",
+      "description": "Small furry domestic pet that meows"
+    },
+    {
+      "word": "VOGEL",
+      "description": "Feathered animal that can fly"
+    },
+    {
+      "word": "FISCH",
+      "description": "Water-dwelling animal with gills"
+    },
+    {
+      "word": "PFERD",
+      "description": "Large animal used for riding"
+    },
+    {
+      "word": "KUH",
+      "description": "Farm animal that gives milk"
+    },
+    {
+      "word": "SCHWEIN",
+      "description": "Farm animal, source of pork"
+    },
+    {
+      "word": "SCHAF",
+      "description": "Woolly farm animal"
+    },
+    {
+      "word": "HUHN",
+      "description": "Common farm bird that lays eggs"
+    },
+    {
+      "word": "MAUS",
+      "description": "Small rodent with a long tail"
+    },
+    {
+      "word": "HASE",
+      "description": "Fast-running animal with long ears"
+    },
+    {
+      "word": "BÄR",
+      "description": "Large wild animal with thick fur"
+    },
+    {
+      "word": "WOLF",
+      "description": "Wild canine living in packs"
+    },
+    {
+      "word": "FUCHS",
+      "description": "Clever wild animal with red fur"
+    },
+    {
+      "word": "ELEFANT",
+      "description": "Largest land animal with a trunk"
+    },
+    {
+      "word": "LÖWE",
+      "description": "Large wild cat called the king of animals"
+    },
+    {
+      "word": "TIGER",
+      "description": "Striped large wild cat"
+    },
+    {
+      "word": "AFFE",
+      "description": "Primate related to humans"
+    },
+    {
+      "word": "SCHLANGE",
+      "description": "Reptile without legs"
+    },
+    {
+      "word": "FROSCH",
+      "description": "Small green amphibian that jumps"
+    },
+    {
+      "word": "MANN",
+      "description": "Adult male human"
+    },
+    {
+      "word": "FRAU",
+      "description": "Adult female human"
+    },
+    {
+      "word": "KIND",
+      "description": "Young human being"
+    },
+    {
+      "word": "JUNGE",
+      "description": "Male child"
+    },
+    {
+      "word": "MÄDCHEN",
+      "description": "Female child"
+    },
+    {
+      "word": "BABY",
+      "description": "Very young child or infant"
+    },
+    {
+      "word": "VATER",
+      "description": "Male parent"
+    },
+    {
+      "word": "MUTTER",
+      "description": "Female parent"
+    },
+    {
+      "word": "BRUDER",
+      "description": "Male sibling"
+    },
+    {
+      "word": "SCHWESTER",
+      "description": "Female sibling"
+    },
+    {
+      "word": "GROSSVATER",
+      "description": "Father of one's parent"
+    },
+    {
+      "word": "GROSSMUTTER",
+      "description": "Mother of one's parent"
+    },
+    {
+      "word": "ONKEL",
+      "description": "Brother of one's parent"
+    },
+    {
+      "word": "TANTE",
+      "description": "Sister of one's parent"
+    },
+    {
+      "word": "COUSIN",
+      "description": "Child of one's aunt or uncle, male"
+    },
+    {
+      "word": "FREUND",
+      "description": "Close companion or male friend"
+    },
+    {
+      "word": "FREUNDIN",
+      "description": "Close companion or female friend"
+    },
+    {
+      "word": "KOLLEGE",
+      "description": "Person you work with"
+    },
+    {
+      "word": "NACHBAR",
+      "description": "Person living next door"
+    },
+    {
+      "word": "LEHRER",
+      "description": "Person who teaches at school"
+    },
+    {
+      "word": "SCHULER",
+      "description": "Student at school"
+    },
+    {
+      "word": "CHEF",
+      "description": "Person in charge at work"
+    },
+    {
+      "word": "KOPF",
+      "description": "Upper part of the human body"
+    },
+    {
+      "word": "GESICHT",
+      "description": "Front part of the head"
+    },
+    {
+      "word": "AUGE",
+      "description": "Organ of sight"
+    },
+    {
+      "word": "NASE",
+      "description": "Organ of smell on the face"
+    },
+    {
+      "word": "MUND",
+      "description": "Opening for eating and speaking"
+    },
+    {
+      "word": "OHRR",
+      "description": "Organ of hearing"
+    },
+    {
+      "word": "HAAR",
+      "description": "Thread-like strands growing on the head"
+    },
+    {
+      "word": "HAND",
+      "description": "Part of the arm at the end"
+    },
+    {
+      "word": "FUSS",
+      "description": "Lower part of the leg"
+    },
+    {
+      "word": "BEIN",
+      "description": "Lower limb of the body"
+    },
+    {
+      "word": "ARM",
+      "description": "Upper limb of the body"
+    },
+    {
+      "word": "BAUCH",
+      "description": "Front part of the torso, belly"
+    },
+    {
+      "word": "RÜCKEN",
+      "description": "Back side of the body"
+    },
+    {
+      "word": "HERZ",
+      "description": "Organ that pumps blood"
+    },
+    {
+      "word": "BROT",
+      "description": "Baked food made from flour"
+    },
+    {
+      "word": "BUTTER",
+      "description": "Yellow fat made from cream"
+    },
+    {
+      "word": "MILCH",
+      "description": "White liquid from cows"
+    },
+    {
+      "word": "KASE",
+      "description": "Solid dairy product"
+    },
+    {
+      "word": "FLEISCH",
+      "description": "Animal tissue used as food"
+    },
+    {
+      "word": "WURST",
+      "description": "Sausage meat in a casing"
+    },
+    {
+      "word": "EI",
+      "description": "Oval object laid by a hen"
+    },
+    {
+      "word": "ZUCKER",
+      "description": "Sweet white crystalline substance"
+    },
+    {
+      "word": "SALZ",
+      "description": "White mineral used to flavor food"
+    },
+    {
+      "word": "PFEFFER",
+      "description": "Spicy black or white seasoning"
+    },
+    {
+      "word": "OL",
+      "description": "Liquid fat used for cooking"
+    },
+    {
+      "word": "APFEL",
+      "description": "Round red or green fruit"
+    },
+    {
+      "word": "BIRNE",
+      "description": "Sweet juicy fruit, bell-shaped"
+    },
+    {
+      "word": "ORANGE",
+      "description": "Round citrus fruit with orange skin"
+    },
+    {
+      "word": "ZITRONE",
+      "description": "Yellow sour citrus fruit"
+    },
+    {
+      "word": "BANANE",
+      "description": "Long yellow tropical fruit"
+    },
+    {
+      "word": "ERDBEERE",
+      "description": "Small red sweet summer fruit"
+    },
+    {
+      "word": "KIRSCHE",
+      "description": "Small round red stone fruit"
+    },
+    {
+      "word": "TRAUBE",
+      "description": "Small fruit growing in clusters on vines"
+    },
+    {
+      "word": "KARTOFFEL",
+      "description": "Starchy underground vegetable"
+    },
+    {
+      "word": "TOMATE",
+      "description": "Red juicy vegetable used in salads"
+    },
+    {
+      "word": "KAROTTE",
+      "description": "Orange root vegetable"
+    },
+    {
+      "word": "ZWIEBEL",
+      "description": "Round layered vegetable that makes you cry"
+    },
+    {
+      "word": "KNOBLAUCH",
+      "description": "Strong-smelling bulb used in cooking"
+    },
+    {
+      "word": "SALAT",
+      "description": "Green leafy vegetable or a mixed dish"
+    },
+    {
+      "word": "KAFFEE",
+      "description": "Hot dark drink made from roasted beans"
+    },
+    {
+      "word": "TEE",
+      "description": "Hot drink made by infusing dried leaves"
+    },
+    {
+      "word": "SAFT",
+      "description": "Liquid extracted from fruit"
+    },
+    {
+      "word": "BIER",
+      "description": "Alcoholic drink made from barley"
+    },
+    {
+      "word": "WEIN",
+      "description": "Alcoholic drink made from grapes"
+    },
+    {
+      "word": "SUPPE",
+      "description": "Liquid food made by boiling ingredients"
+    },
+    {
+      "word": "KUCHEN",
+      "description": "Sweet baked dessert"
+    },
+    {
+      "word": "EIS",
+      "description": "Frozen sweet dessert"
+    },
+    {
+      "word": "SCHOKOLADE",
+      "description": "Sweet brown food made from cacao"
+    },
+    {
+      "word": "BONBON",
+      "description": "Small sweet candy"
+    },
+    {
+      "word": "HEMD",
+      "description": "Garment worn on the upper body with buttons"
+    },
+    {
+      "word": "HOSE",
+      "description": "Garment covering the legs"
+    },
+    {
+      "word": "ROCK",
+      "description": "Garment hanging from the waist, worn by women"
+    },
+    {
+      "word": "KLEID",
+      "description": "One-piece garment worn by women"
+    },
+    {
+      "word": "JACKE",
+      "description": "Short coat worn outdoors"
+    },
+    {
+      "word": "MANTEL",
+      "description": "Long heavy outer coat"
+    },
+    {
+      "word": "PULLOVER",
+      "description": "Warm knitted top"
+    },
+    {
+      "word": "SOCKE",
+      "description": "Garment worn on the foot inside a shoe"
+    },
+    {
+      "word": "SCHUH",
+      "description": "Covering for the foot"
+    },
+    {
+      "word": "STIEFEL",
+      "description": "Tall shoe covering the ankle"
+    },
+    {
+      "word": "MÜTZE",
+      "description": "Hat for the head"
+    },
+    {
+      "word": "SCHAL",
+      "description": "Long piece of fabric worn around the neck"
+    },
+    {
+      "word": "HANDSCHUH",
+      "description": "Covering for the hand"
+    },
+    {
+      "word": "BRILLE",
+      "description": "Pair of lenses in frames worn on the nose"
+    },
+    {
+      "word": "UHR",
+      "description": "Device for measuring time"
+    },
+    {
+      "word": "RING",
+      "description": "Circular band worn on a finger"
+    },
+    {
+      "word": "KETTE",
+      "description": "Jewelry worn around the neck"
+    },
+    {
+      "word": "TASCHE",
+      "description": "Bag carried by hand"
+    },
+    {
+      "word": "RUCKSACK",
+      "description": "Bag carried on the back"
+    },
+    {
+      "word": "KOFFER",
+      "description": "Large bag for travel"
+    },
+    {
+      "word": "SCHLÜSSEL",
+      "description": "Metal object used to open a lock"
+    },
+    {
+      "word": "HANDY",
+      "description": "Mobile phone"
+    },
+    {
+      "word": "TELEFON",
+      "description": "Device used for voice communication"
+    },
+    {
+      "word": "COMPUTER",
+      "description": "Electronic device for processing data"
+    },
+    {
+      "word": "RADIO",
+      "description": "Device for receiving broadcast audio"
+    },
+    {
+      "word": "FERNSEHER",
+      "description": "Device for watching television programs"
+    },
+    {
+      "word": "KAMERA",
+      "description": "Device for taking photographs"
+    },
+    {
+      "word": "ZEITUNG",
+      "description": "Daily printed publication with news"
+    },
+    {
+      "word": "BRIEF",
+      "description": "Written message sent by mail"
+    },
+    {
+      "word": "PAKET",
+      "description": "Wrapped parcel sent by post"
+    },
+    {
+      "word": "KARTE",
+      "description": "Flat piece of card with information"
+    },
+    {
+      "word": "GELD",
+      "description": "Currency used for buying and selling"
+    },
+    {
+      "word": "EURO",
+      "description": "European currency unit"
+    },
+    {
+      "word": "PREIS",
+      "description": "Amount of money for something"
+    },
+    {
+      "word": "RECHNUNG",
+      "description": "Bill for goods or services"
+    },
+    {
+      "word": "QUITTUNG",
+      "description": "Proof of payment"
+    },
+    {
+      "word": "KLASSE",
+      "description": "Group of students learning together"
+    },
+    {
+      "word": "ZIMMER",
+      "description": "Room in a house or hotel"
+    },
+    {
+      "word": "WOHNUNG",
+      "description": "Apartment or flat"
+    },
+    {
+      "word": "ETAGE",
+      "description": "Floor level in a building"
+    },
+    {
+      "word": "TREPPE",
+      "description": "Set of steps inside a building"
+    },
+    {
+      "word": "AUFZUG",
+      "description": "Machine that moves people between floors"
+    },
+    {
+      "word": "KELLER",
+      "description": "Underground room below a house"
+    },
+    {
+      "word": "DACH",
+      "description": "Top covering of a building"
+    },
+    {
+      "word": "WAND",
+      "description": "Vertical surface inside a building"
+    },
+    {
+      "word": "BODEN",
+      "description": "Floor or ground surface"
+    },
+    {
+      "word": "DECKE",
+      "description": "Ceiling of a room"
+    },
+    {
+      "word": "SOFA",
+      "description": "Long comfortable seat for several people"
+    },
+    {
+      "word": "SESSEL",
+      "description": "Comfortable armchair"
+    },
+    {
+      "word": "SCHRANK",
+      "description": "Tall cupboard for storing clothes"
+    },
+    {
+      "word": "REGAL",
+      "description": "Set of shelves for books or objects"
+    },
+    {
+      "word": "SPIEGEL",
+      "description": "Reflective glass surface"
+    },
+    {
+      "word": "BILD",
+      "description": "Painting or drawing on a wall"
+    },
+    {
+      "word": "VORHANG",
+      "description": "Hanging fabric over a window"
+    },
+    {
+      "word": "TEPPICH",
+      "description": "Floor covering made of fabric"
+    },
+    {
+      "word": "KISSEN",
+      "description": "Soft cushion for comfort"
+    },
+    {
+      "word": "DECKE",
+      "description": "Warm covering used on a bed"
+    },
+    {
+      "word": "TOPF",
+      "description": "Deep round cooking vessel"
+    },
+    {
+      "word": "PFANNE",
+      "description": "Flat cooking pan"
+    },
+    {
+      "word": "TELLER",
+      "description": "Flat dish for eating food"
+    },
+    {
+      "word": "TASSE",
+      "description": "Small cup for hot drinks"
+    },
+    {
+      "word": "GLAS",
+      "description": "Transparent drinking vessel"
+    },
+    {
+      "word": "FLASCHE",
+      "description": "Container with a narrow neck for liquids"
+    },
+    {
+      "word": "LÖFFEL",
+      "description": "Spoon for eating"
+    },
+    {
+      "word": "GABEL",
+      "description": "Fork for eating"
+    },
+    {
+      "word": "MESSER",
+      "description": "Cutting utensil with a blade"
+    },
+    {
+      "word": "DOSE",
+      "description": "Metal container for food"
+    },
+    {
+      "word": "KÜHLSCHRANK",
+      "description": "Appliance for keeping food cold"
+    },
+    {
+      "word": "HERD",
+      "description": "Cooking appliance with burners"
+    },
+    {
+      "word": "OFEN",
+      "description": "Appliance for baking food"
+    },
+    {
+      "word": "WASCHMASCHINE",
+      "description": "Appliance for washing clothes"
+    },
+    {
+      "word": "STAUBSAUGER",
+      "description": "Appliance for vacuuming floors"
+    },
+    {
+      "word": "MONTAG",
+      "description": "First day of the working week"
+    },
+    {
+      "word": "DIENSTAG",
+      "description": "Second day of the working week"
+    },
+    {
+      "word": "MITTWOCH",
+      "description": "Middle day of the week"
+    },
+    {
+      "word": "DONNERSTAG",
+      "description": "Fourth day of the working week"
+    },
+    {
+      "word": "FREITAG",
+      "description": "Last day of the working week"
+    },
+    {
+      "word": "SAMSTAG",
+      "description": "Sixth day of the week"
+    },
+    {
+      "word": "SONNTAG",
+      "description": "Last day of the week, day of rest"
+    },
+    {
+      "word": "JANUAR",
+      "description": "First month of the year"
+    },
+    {
+      "word": "FEBRUAR",
+      "description": "Second month, shortest month"
+    },
+    {
+      "word": "MARZ",
+      "description": "Third month, start of spring"
+    },
+    {
+      "word": "APRIL",
+      "description": "Fourth month of the year"
+    },
+    {
+      "word": "MAI",
+      "description": "Fifth month of the year"
+    },
+    {
+      "word": "JUNI",
+      "description": "Sixth month, start of summer"
+    },
+    {
+      "word": "JULI",
+      "description": "Seventh month of the year"
+    },
+    {
+      "word": "AUGUST",
+      "description": "Eighth month, peak of summer"
+    },
+    {
+      "word": "SEPTEMBER",
+      "description": "Ninth month, start of autumn"
+    },
+    {
+      "word": "OKTOBER",
+      "description": "Tenth month of the year"
+    },
+    {
+      "word": "NOVEMBER",
+      "description": "Eleventh month of the year"
+    },
+    {
+      "word": "DEZEMBER",
+      "description": "Twelfth month, winter month"
+    },
+    {
+      "word": "FRÜHLING",
+      "description": "Season after winter when flowers bloom"
+    },
+    {
+      "word": "SOMMER",
+      "description": "Hottest season of the year"
+    },
+    {
+      "word": "HERBST",
+      "description": "Season when leaves fall"
+    },
+    {
+      "word": "WINTER",
+      "description": "Coldest season of the year"
+    },
+    {
+      "word": "MORGEN",
+      "description": "Early part of the day"
+    },
+    {
+      "word": "MITTAG",
+      "description": "Middle of the day, noon"
+    },
+    {
+      "word": "ABEND",
+      "description": "Late part of the day"
+    },
+    {
+      "word": "NACHT",
+      "description": "Dark hours when people sleep"
+    },
+    {
+      "word": "TAG",
+      "description": "Period of 24 hours"
+    },
+    {
+      "word": "WOCHE",
+      "description": "Period of seven days"
+    },
+    {
+      "word": "MONAT",
+      "description": "Period of about 30 days"
+    },
+    {
+      "word": "JAHR",
+      "description": "Period of 12 months"
+    },
+    {
+      "word": "STUNDE",
+      "description": "Period of 60 minutes"
+    },
+    {
+      "word": "MINUTE",
+      "description": "Period of 60 seconds"
+    },
+    {
+      "word": "SEKUNDE",
+      "description": "Very short unit of time"
+    },
+    {
+      "word": "ROT",
+      "description": "Color of blood and fire"
+    },
+    {
+      "word": "BLAU",
+      "description": "Color of the sky and sea"
+    },
+    {
+      "word": "GRÜN",
+      "description": "Color of grass and leaves"
+    },
+    {
+      "word": "GELB",
+      "description": "Color of the sun and lemons"
+    },
+    {
+      "word": "WEISS",
+      "description": "Color of snow and milk"
+    },
+    {
+      "word": "SCHWARZ",
+      "description": "Darkest color, absence of light"
+    },
+    {
+      "word": "GRAU",
+      "description": "Color between black and white"
+    },
+    {
+      "word": "BRAUN",
+      "description": "Color of wood and soil"
+    },
+    {
+      "word": "ORANGE",
+      "description": "Color between red and yellow"
+    },
+    {
+      "word": "ROSA",
+      "description": "Light pink color"
+    },
+    {
+      "word": "LILA",
+      "description": "Purple or violet color"
+    },
+    {
+      "word": "EINS",
+      "description": "The number 1"
+    },
+    {
+      "word": "ZWEI",
+      "description": "The number 2"
+    },
+    {
+      "word": "DREI",
+      "description": "The number 3"
+    },
+    {
+      "word": "VIER",
+      "description": "The number 4"
+    },
+    {
+      "word": "FÜNF",
+      "description": "The number 5"
+    },
+    {
+      "word": "SECHS",
+      "description": "The number 6"
+    },
+    {
+      "word": "SIEBEN",
+      "description": "The number 7"
+    },
+    {
+      "word": "ACHT",
+      "description": "The number 8"
+    },
+    {
+      "word": "NEUN",
+      "description": "The number 9"
+    },
+    {
+      "word": "ZEHN",
+      "description": "The number 10"
+    },
+    {
+      "word": "ZWANZIG",
+      "description": "The number 20"
+    },
+    {
+      "word": "HUNDERT",
+      "description": "The number 100"
+    },
+    {
+      "word": "TAUSEND",
+      "description": "The number 1000"
+    },
+    {
+      "word": "GROSS",
+      "description": "Of large size"
+    },
+    {
+      "word": "KLEIN",
+      "description": "Of small size"
+    },
+    {
+      "word": "ALT",
+      "description": "Having existed for a long time"
+    },
+    {
+      "word": "NEU",
+      "description": "Recently made or acquired"
+    },
+    {
+      "word": "GUT",
+      "description": "Of high quality or morally right"
+    },
+    {
+      "word": "SCHLECHT",
+      "description": "Of poor quality or negative"
+    },
+    {
+      "word": "SCHÖN",
+      "description": "Pleasing to the eye, beautiful"
+    },
+    {
+      "word": "HÄSSLICH",
+      "description": "Unpleasant to look at"
+    },
+    {
+      "word": "SCHNELL",
+      "description": "Moving at high speed"
+    },
+    {
+      "word": "LANGSAM",
+      "description": "Moving at low speed"
+    },
+    {
+      "word": "KALT",
+      "description": "Low in temperature"
+    },
+    {
+      "word": "WARM",
+      "description": "Moderately high in temperature"
+    },
+    {
+      "word": "HEISS",
+      "description": "Very high in temperature"
+    },
+    {
+      "word": "JUNG",
+      "description": "Having lived for a short time"
+    },
+    {
+      "word": "HELL",
+      "description": "Full of light, bright"
+    },
+    {
+      "word": "DUNKEL",
+      "description": "Lacking light"
+    },
+    {
+      "word": "LEICHT",
+      "description": "Not heavy in weight"
+    },
+    {
+      "word": "SCHWER",
+      "description": "Having great weight or difficult"
+    },
+    {
+      "word": "LANG",
+      "description": "Having great length"
+    },
+    {
+      "word": "KURZ",
+      "description": "Having little length"
+    },
+    {
+      "word": "HOCH",
+      "description": "Far up from the ground"
+    },
+    {
+      "word": "NIEDRIG",
+      "description": "Close to the ground"
+    },
+    {
+      "word": "BILLIG",
+      "description": "Low in price"
+    },
+    {
+      "word": "TEUER",
+      "description": "High in price"
+    },
+    {
+      "word": "LEER",
+      "description": "Containing nothing"
+    },
+    {
+      "word": "VOLL",
+      "description": "Containing as much as possible"
+    },
+    {
+      "word": "SAUBER",
+      "description": "Free from dirt"
+    },
+    {
+      "word": "SCHMUTZIG",
+      "description": "Covered in dirt"
+    },
+    {
+      "word": "LAUT",
+      "description": "Making a lot of noise"
+    },
+    {
+      "word": "LEISE",
+      "description": "Making little or no noise"
+    },
+    {
+      "word": "MÜDE",
+      "description": "Feeling a need to sleep"
+    },
+    {
+      "word": "KRANK",
+      "description": "Not in good health"
+    },
+    {
+      "word": "GESUND",
+      "description": "In good physical condition"
+    },
+    {
+      "word": "HUNGRIG",
+      "description": "Feeling a need to eat"
+    },
+    {
+      "word": "DURSTIG",
+      "description": "Feeling a need to drink"
+    },
+    {
+      "word": "GLÜCKLICH",
+      "description": "Feeling joy and contentment"
+    },
+    {
+      "word": "TRAURIG",
+      "description": "Feeling sorrow or sadness"
+    },
+    {
+      "word": "LUSTIG",
+      "description": "Funny or amusing"
+    },
+    {
+      "word": "LANGWEILIG",
+      "description": "Causing boredom"
+    },
+    {
+      "word": "INTERESSANT",
+      "description": "Arousing curiosity or attention"
+    },
+    {
+      "word": "WICHTIG",
+      "description": "Of great significance"
+    },
+    {
+      "word": "RICHTIG",
+      "description": "Correct or true"
+    },
+    {
+      "word": "FALSCH",
+      "description": "Incorrect or untrue"
+    },
+    {
+      "word": "OFFEN",
+      "description": "Not closed"
+    },
+    {
+      "word": "GESCHLOSSEN",
+      "description": "Not open"
+    },
+    {
+      "word": "FREI",
+      "description": "Not occupied or costing nothing"
+    },
+    {
+      "word": "BESETZT",
+      "description": "Occupied or in use"
+    },
+    {
+      "word": "LINKS",
+      "description": "Direction to the west when facing north"
+    },
+    {
+      "word": "RECHTS",
+      "description": "Direction to the east when facing north"
+    },
+    {
+      "word": "OBEN",
+      "description": "In or toward a higher place"
+    },
+    {
+      "word": "UNTEN",
+      "description": "In or toward a lower place"
+    },
+    {
+      "word": "VORNE",
+      "description": "At or near the front"
+    },
+    {
+      "word": "HINTEN",
+      "description": "At or near the back"
+    },
+    {
+      "word": "HIER",
+      "description": "In this place"
+    },
+    {
+      "word": "DORT",
+      "description": "In that place"
+    },
+    {
+      "word": "NEBEN",
+      "description": "At the side of"
+    },
+    {
+      "word": "ZWISCHEN",
+      "description": "In the space separating two things"
+    },
+    {
+      "word": "HINTER",
+      "description": "At the back of"
+    },
+    {
+      "word": "VOR",
+      "description": "In front of"
+    },
+    {
+      "word": "ÜBER",
+      "description": "Directly above"
+    },
+    {
+      "word": "UNTER",
+      "description": "Directly below"
+    },
+    {
+      "word": "NEBEN",
+      "description": "Next to"
+    },
+    {
+      "word": "GEGEN",
+      "description": "In opposition to"
+    },
+    {
+      "word": "OHNE",
+      "description": "Not having or including"
+    },
+    {
+      "word": "MIT",
+      "description": "Together or accompanied by"
+    },
+    {
+      "word": "FÜR",
+      "description": "In favor of or on behalf of"
+    },
+    {
+      "word": "DURCH",
+      "description": "Moving from one side to the other"
+    },
+    {
+      "word": "NACH",
+      "description": "Following in time or going toward"
+    },
+    {
+      "word": "BEI",
+      "description": "Close to or at the home of"
+    },
+    {
+      "word": "AUS",
+      "description": "From inside or made of"
+    },
+    {
+      "word": "VON",
+      "description": "Indicating origin or possession"
+    },
+    {
+      "word": "ZU",
+      "description": "Moving in the direction of"
+    },
+    {
+      "word": "BIS",
+      "description": "Up to a certain point in time"
+    },
+    {
+      "word": "SEIT",
+      "description": "From a point in time until now"
+    },
+    {
+      "word": "ICH",
+      "description": "First person singular pronoun"
+    },
+    {
+      "word": "DU",
+      "description": "Second person singular informal pronoun"
+    },
+    {
+      "word": "ER",
+      "description": "Third person singular male pronoun"
+    },
+    {
+      "word": "SIE",
+      "description": "Third person singular female pronoun"
+    },
+    {
+      "word": "ES",
+      "description": "Third person neutral pronoun"
+    },
+    {
+      "word": "WIR",
+      "description": "First person plural pronoun"
+    },
+    {
+      "word": "IHR",
+      "description": "Second person plural pronoun"
+    },
+    {
+      "word": "MEIN",
+      "description": "Possessive pronoun for first person"
+    },
+    {
+      "word": "DEIN",
+      "description": "Possessive pronoun for second person informal"
+    },
+    {
+      "word": "SEIN",
+      "description": "Possessive pronoun for third person male"
+    },
+    {
+      "word": "IHR",
+      "description": "Possessive pronoun for third person female"
+    },
+    {
+      "word": "UNSER",
+      "description": "Possessive pronoun for first person plural"
+    },
+    {
+      "word": "WER",
+      "description": "Question word asking about a person"
+    },
+    {
+      "word": "WAS",
+      "description": "Question word asking about a thing"
+    },
+    {
+      "word": "WO",
+      "description": "Question word asking about a place"
+    },
+    {
+      "word": "WANN",
+      "description": "Question word asking about time"
+    },
+    {
+      "word": "WARUM",
+      "description": "Question word asking about reason"
+    },
+    {
+      "word": "WIE",
+      "description": "Question word asking about manner"
+    },
+    {
+      "word": "WOHIN",
+      "description": "Question word asking about direction"
+    },
+    {
+      "word": "WOHER",
+      "description": "Question word asking about origin"
+    },
+    {
+      "word": "WIEVIEL",
+      "description": "Question word asking about quantity"
+    },
+    {
+      "word": "WELCH",
+      "description": "Question word asking about choice"
+    },
+    {
+      "word": "KAUFEN",
+      "description": "To acquire in exchange for money"
+    },
+    {
+      "word": "VERKAUFEN",
+      "description": "To give something in exchange for money"
+    },
+    {
+      "word": "ZAHLEN",
+      "description": "To give money for something"
+    },
+    {
+      "word": "ARBEITEN",
+      "description": "To do a job or task"
+    },
+    {
+      "word": "LERNEN",
+      "description": "To gain knowledge or skills"
+    },
+    {
+      "word": "LESEN",
+      "description": "To look at and understand written words"
+    },
+    {
+      "word": "SCHREIBEN",
+      "description": "To mark letters or words on a surface"
+    },
+    {
+      "word": "SPRECHEN",
+      "description": "To use words to communicate"
+    },
+    {
+      "word": "HÖREN",
+      "description": "To perceive sound with the ears"
+    },
+    {
+      "word": "SEHEN",
+      "description": "To perceive with the eyes"
+    },
+    {
+      "word": "ESSEN",
+      "description": "To put food in the mouth and swallow"
+    },
+    {
+      "word": "TRINKEN",
+      "description": "To swallow liquid"
+    },
+    {
+      "word": "SCHLAFEN",
+      "description": "To be in a state of rest with eyes closed"
+    },
+    {
+      "word": "WOHNEN",
+      "description": "To live in a place"
+    },
+    {
+      "word": "KOCHEN",
+      "description": "To prepare food by heating"
+    },
+    {
+      "word": "BACKEN",
+      "description": "To cook food in an oven"
+    },
+    {
+      "word": "WASCHEN",
+      "description": "To clean with water"
+    },
+    {
+      "word": "SPIELEN",
+      "description": "To engage in activity for fun"
+    },
+    {
+      "word": "SINGEN",
+      "description": "To produce musical sounds with the voice"
+    },
+    {
+      "word": "TANZEN",
+      "description": "To move rhythmically to music"
+    },
+    {
+      "word": "LAUFEN",
+      "description": "To move quickly on foot"
+    },
+    {
+      "word": "GEHEN",
+      "description": "To move on foot at a normal pace"
+    },
+    {
+      "word": "KOMMEN",
+      "description": "To move toward a place"
+    },
+    {
+      "word": "FAHREN",
+      "description": "To travel in a vehicle"
+    },
+    {
+      "word": "FLIEGEN",
+      "description": "To travel through the air"
+    },
+    {
+      "word": "SCHWIMMEN",
+      "description": "To move through water"
+    },
+    {
+      "word": "HELFEN",
+      "description": "To make it easier for someone"
+    },
+    {
+      "word": "SAGEN",
+      "description": "To express in words"
+    },
+    {
+      "word": "FRAGEN",
+      "description": "To seek information"
+    },
+    {
+      "word": "ANTWORTEN",
+      "description": "To respond to a question"
+    },
+    {
+      "word": "VERSTEHEN",
+      "description": "To grasp the meaning of"
+    },
+    {
+      "word": "KENNEN",
+      "description": "To be familiar with someone or something"
+    },
+    {
+      "word": "WISSEN",
+      "description": "To have information in the mind"
+    },
+    {
+      "word": "DENKEN",
+      "description": "To use the mind to reason"
+    },
+    {
+      "word": "GLAUBEN",
+      "description": "To accept something as true"
+    },
+    {
+      "word": "MÖGEN",
+      "description": "To have a liking for"
+    },
+    {
+      "word": "WOLLEN",
+      "description": "To have a desire for"
+    },
+    {
+      "word": "MÜSSEN",
+      "description": "To be obliged to do something"
+    },
+    {
+      "word": "KÖNNEN",
+      "description": "To be able to do something"
+    },
+    {
+      "word": "DÜRFEN",
+      "description": "To be allowed to do something"
+    },
+    {
+      "word": "SOLLEN",
+      "description": "To be expected or required to do"
+    },
+    {
+      "word": "HABEN",
+      "description": "To possess or own something"
+    },
+    {
+      "word": "SEIN",
+      "description": "To exist or to be"
+    },
+    {
+      "word": "WERDEN",
+      "description": "To come to be something"
+    },
+    {
+      "word": "MACHEN",
+      "description": "To produce or create"
+    },
+    {
+      "word": "GEBEN",
+      "description": "To hand over to someone"
+    },
+    {
+      "word": "NEHMEN",
+      "description": "To pick up or receive"
+    },
+    {
+      "word": "STEHEN",
+      "description": "To be in an upright position"
+    },
+    {
+      "word": "SITZEN",
+      "description": "To rest with the bottom on a surface"
+    },
+    {
+      "word": "LIEGEN",
+      "description": "To rest in a horizontal position"
+    },
+    {
+      "word": "AUFMACHEN",
+      "description": "To open something"
+    },
+    {
+      "word": "ZUMACHEN",
+      "description": "To close something"
+    },
+    {
+      "word": "ANFANGEN",
+      "description": "To begin something"
+    },
+    {
+      "word": "AUFHÖREN",
+      "description": "To stop doing something"
+    },
+    {
+      "word": "WARTEN",
+      "description": "To remain in one place until something happens"
+    },
+    {
+      "word": "SUCHEN",
+      "description": "To try to find something"
+    },
+    {
+      "word": "FINDEN",
+      "description": "To discover or locate something"
+    },
+    {
+      "word": "BRINGEN",
+      "description": "To carry something to a place"
+    },
+    {
+      "word": "SCHICKEN",
+      "description": "To cause something to go somewhere"
+    },
+    {
+      "word": "ZEIGEN",
+      "description": "To point out or demonstrate"
+    },
+    {
+      "word": "TREFFEN",
+      "description": "To encounter or meet someone"
+    },
+    {
+      "word": "BESUCHEN",
+      "description": "To go and see someone"
+    },
+    {
+      "word": "EINLADEN",
+      "description": "To ask someone to come or participate"
+    },
+    {
+      "word": "REISEN",
+      "description": "To make a journey"
+    },
+    {
+      "word": "BUCHEN",
+      "description": "To reserve a place or ticket"
+    },
+    {
+      "word": "BEZAHLEN",
+      "description": "To give payment for"
+    },
+    {
+      "word": "BESTELLEN",
+      "description": "To request goods or food"
+    },
+    {
+      "word": "TELEFONIEREN",
+      "description": "To make a telephone call"
+    },
+    {
+      "word": "ÖFFNEN",
+      "description": "To make accessible"
+    },
+    {
+      "word": "SCHLIESSEN",
+      "description": "To make inaccessible"
+    },
+    {
+      "word": "BEGINNEN",
+      "description": "To start an action"
+    },
+    {
+      "word": "ENDEN",
+      "description": "To come to a conclusion"
+    },
+    {
+      "word": "WECHSELN",
+      "description": "To change or exchange"
+    },
+    {
+      "word": "BRAUCHEN",
+      "description": "To need or require"
+    },
+    {
+      "word": "VERGESSEN",
+      "description": "To fail to remember"
+    },
+    {
+      "word": "ERINNERN",
+      "description": "To recall to mind"
+    },
+    {
+      "word": "ZEITUNG",
+      "description": "Daily publication with news articles"
+    },
+    {
+      "word": "NACHRICHTEN",
+      "description": "News or current information"
+    },
+    {
+      "word": "PROGRAMM",
+      "description": "Schedule of planned activities"
+    },
+    {
+      "word": "KONZERT",
+      "description": "Live musical performance"
+    },
+    {
+      "word": "THEATER",
+      "description": "Building for dramatic performances"
+    },
+    {
+      "word": "KINO",
+      "description": "Building where films are shown"
+    },
+    {
+      "word": "MUSEUM",
+      "description": "Building where artifacts are displayed"
+    },
+    {
+      "word": "BIBLIOTHEK",
+      "description": "Building with books to borrow"
+    },
+    {
+      "word": "SCHWIMMBAD",
+      "description": "Public place for swimming"
+    },
+    {
+      "word": "SPORTPLATZ",
+      "description": "Outdoor area for sports"
+    },
+    {
+      "word": "STADION",
+      "description": "Large arena for sports events"
+    },
+    {
+      "word": "FITNESSSTUDIO",
+      "description": "Gym for exercise and training"
+    },
+    {
+      "word": "SPORT",
+      "description": "Physical activity for exercise or competition"
+    },
+    {
+      "word": "FUSSBALL",
+      "description": "Game played with a round ball and feet"
+    },
+    {
+      "word": "TENNIS",
+      "description": "Racket sport played on a court"
+    },
+    {
+      "word": "BASKETBALL",
+      "description": "Team sport with a basket and ball"
+    },
+    {
+      "word": "VOLLEYBALL",
+      "description": "Team sport hitting a ball over a net"
+    },
+    {
+      "word": "RADFAHREN",
+      "description": "Sport of riding a bicycle"
+    },
+    {
+      "word": "WANDERN",
+      "description": "Activity of walking in nature"
+    },
+    {
+      "word": "SKIFAHREN",
+      "description": "Sport of sliding down snow on skis"
+    },
+    {
+      "word": "SCHWIMMEN",
+      "description": "Sport of moving through water"
+    },
+    {
+      "word": "LAUFEN",
+      "description": "Sport of running for fitness"
+    },
+    {
+      "word": "TURNEN",
+      "description": "Gymnastics or physical exercise"
+    },
+    {
+      "word": "SCHACH",
+      "description": "Strategic board game with pieces"
+    },
+    {
+      "word": "KARTEN",
+      "description": "Playing cards for games"
+    },
+    {
+      "word": "PUZZLE",
+      "description": "Game of fitting pieces together"
+    },
+    {
+      "word": "MUSIK",
+      "description": "Organized sound for entertainment"
+    },
+    {
+      "word": "LIED",
+      "description": "Short musical composition with words"
+    },
+    {
+      "word": "MELODIE",
+      "description": "Sequence of musical notes"
+    },
+    {
+      "word": "GITARRE",
+      "description": "Stringed musical instrument"
+    },
+    {
+      "word": "KLAVIER",
+      "description": "Large keyboard musical instrument"
+    },
+    {
+      "word": "GEIGE",
+      "description": "Bowed string instrument"
+    },
+    {
+      "word": "FLÖTE",
+      "description": "Wind instrument played by blowing"
+    },
+    {
+      "word": "TROMMEL",
+      "description": "Percussion instrument you beat"
+    },
+    {
+      "word": "SÄNGER",
+      "description": "Person who sings professionally"
+    },
+    {
+      "word": "MUSIKER",
+      "description": "Person who plays music"
+    },
+    {
+      "word": "MALER",
+      "description": "Person who creates paintings"
+    },
+    {
+      "word": "BILD",
+      "description": "Work of visual art"
+    },
+    {
+      "word": "FOTO",
+      "description": "Image captured by a camera"
+    },
+    {
+      "word": "STIFT",
+      "description": "Writing instrument"
+    },
+    {
+      "word": "BLEISTIFT",
+      "description": "Pencil used for writing or drawing"
+    },
+    {
+      "word": "FARBE",
+      "description": "Color or paint substance"
+    },
+    {
+      "word": "PAPIER",
+      "description": "Thin flat material for writing"
+    },
+    {
+      "word": "HEFT",
+      "description": "Notebook or exercise book"
+    },
+    {
+      "word": "LINEAL",
+      "description": "Flat tool for drawing straight lines"
+    },
+    {
+      "word": "SCHERE",
+      "description": "Tool with two blades for cutting"
+    },
+    {
+      "word": "KLEBER",
+      "description": "Substance used to stick things together"
+    },
+    {
+      "word": "ARZT",
+      "description": "Medical doctor who treats patients"
+    },
+    {
+      "word": "ÄRZTIN",
+      "description": "Female medical doctor"
+    },
+    {
+      "word": "ZAHNARZT",
+      "description": "Dentist who treats teeth"
+    },
+    {
+      "word": "KRANKENSCHWESTER",
+      "description": "Nurse who cares for patients"
+    },
+    {
+      "word": "APOTHEKER",
+      "description": "Person who dispenses medicines"
+    },
+    {
+      "word": "POLIZIST",
+      "description": "Member of the police force"
+    },
+    {
+      "word": "FEUERWEHRMANN",
+      "description": "Person who fights fires"
+    },
+    {
+      "word": "BÄCKER",
+      "description": "Person who bakes and sells bread"
+    },
+    {
+      "word": "METZGER",
+      "description": "Person who sells meat"
+    },
+    {
+      "word": "GÄRTNER",
+      "description": "Person who tends a garden"
+    },
+    {
+      "word": "FAHRER",
+      "description": "Person who drives a vehicle"
+    },
+    {
+      "word": "PILOT",
+      "description": "Person who flies an aircraft"
+    },
+    {
+      "word": "KOCH",
+      "description": "Person who cooks professionally"
+    },
+    {
+      "word": "KELLNER",
+      "description": "Waiter who serves food in a restaurant"
+    },
+    {
+      "word": "VERKÄUFER",
+      "description": "Person who sells goods in a shop"
+    },
+    {
+      "word": "INGENIEUR",
+      "description": "Person who designs machines or structures"
+    },
+    {
+      "word": "MECHANIKER",
+      "description": "Person who repairs machines"
+    },
+    {
+      "word": "ELEKTRIKER",
+      "description": "Person who works with electrical systems"
+    },
+    {
+      "word": "MALER",
+      "description": "Person who paints walls or pictures"
+    },
+    {
+      "word": "JOURNALIST",
+      "description": "Person who writes for newspapers"
+    },
+    {
+      "word": "SCHAUSPIELER",
+      "description": "Person who performs in theater or film"
+    },
+    {
+      "word": "SPORTLER",
+      "description": "Person who participates in sports"
+    },
+    {
+      "word": "STUDENT",
+      "description": "Person studying at a university"
+    },
+    {
+      "word": "PROFESSOR",
+      "description": "University teacher"
+    },
+    {
+      "word": "DIREKTOR",
+      "description": "Person managing an organization"
+    },
+    {
+      "word": "SEKRETÄR",
+      "description": "Office worker handling correspondence"
+    },
+    {
+      "word": "RECHTSANWALT",
+      "description": "Person who practices law"
+    },
+    {
+      "word": "RICHTER",
+      "description": "Person who presides over a court"
+    },
+    {
+      "word": "SOLDAT",
+      "description": "Person serving in the military"
+    },
+    {
+      "word": "BAUER",
+      "description": "Person who farms land"
+    },
+    {
+      "word": "FISCHER",
+      "description": "Person who catches fish"
+    },
+    {
+      "word": "TIERARZT",
+      "description": "Doctor who treats animals"
+    },
+    {
+      "word": "APFEL",
+      "description": "Red or green fruit from a tree"
+    },
+    {
+      "word": "BIRNE",
+      "description": "Juicy pear-shaped fruit"
+    },
+    {
+      "word": "PFLAUME",
+      "description": "Small purple stone fruit"
+    },
+    {
+      "word": "PFIRSICH",
+      "description": "Soft fuzzy orange fruit"
+    },
+    {
+      "word": "MANGO",
+      "description": "Tropical yellow-orange fruit"
+    },
+    {
+      "word": "ANANAS",
+      "description": "Tropical fruit with spiky skin"
+    },
+    {
+      "word": "KIWI",
+      "description": "Small brown fruit with green flesh"
+    },
+    {
+      "word": "MELONE",
+      "description": "Large sweet fruit with thick skin"
+    },
+    {
+      "word": "WASSERMELONE",
+      "description": "Large fruit with red flesh and black seeds"
+    },
+    {
+      "word": "HEIDELBEERE",
+      "description": "Small dark blue berry"
+    },
+    {
+      "word": "HIMBEERE",
+      "description": "Small red or pink berry"
+    },
+    {
+      "word": "BROMBEERE",
+      "description": "Small dark purple blackberry"
+    },
+    {
+      "word": "PAPRIKA",
+      "description": "Sweet pepper vegetable"
+    },
+    {
+      "word": "GURKE",
+      "description": "Long green vegetable"
+    },
+    {
+      "word": "ZUCCHINI",
+      "description": "Green summer squash vegetable"
+    },
+    {
+      "word": "AUBERGINE",
+      "description": "Dark purple elongated vegetable"
+    },
+    {
+      "word": "BROKKOLI",
+      "description": "Green vegetable with tree-like clusters"
+    },
+    {
+      "word": "BLUMENKOHL",
+      "description": "White vegetable with dense florets"
+    },
+    {
+      "word": "SPINAT",
+      "description": "Dark green leafy vegetable"
+    },
+    {
+      "word": "ERBSEN",
+      "description": "Small round green legumes"
+    },
+    {
+      "word": "BOHNEN",
+      "description": "Pod vegetables, green or dried"
+    },
+    {
+      "word": "MAIS",
+      "description": "Yellow grain grown on tall stalks"
+    },
+    {
+      "word": "REIS",
+      "description": "Staple grain from Asian origin"
+    },
+    {
+      "word": "NUDELN",
+      "description": "Pasta made from flour and water"
+    },
+    {
+      "word": "MEHL",
+      "description": "Finely ground grain powder"
+    },
+    {
+      "word": "ESSIG",
+      "description": "Sour liquid used as condiment"
+    },
+    {
+      "word": "SENF",
+      "description": "Yellow spicy condiment"
+    },
+    {
+      "word": "KETCHUP",
+      "description": "Tomato-based sauce condiment"
+    },
+    {
+      "word": "MARMELADE",
+      "description": "Sweet spread made from fruit"
+    },
+    {
+      "word": "HONIG",
+      "description": "Sweet sticky liquid made by bees"
+    },
+    {
+      "word": "QUARK",
+      "description": "Soft German fresh cheese"
+    },
+    {
+      "word": "JOGHURT",
+      "description": "Fermented dairy product"
+    },
+    {
+      "word": "SAHNE",
+      "description": "Thick cream from milk"
+    },
+    {
+      "word": "BIER",
+      "description": "Alcoholic beverage made from hops"
+    },
+    {
+      "word": "SEKT",
+      "description": "German sparkling wine"
+    },
+    {
+      "word": "SCHNAPS",
+      "description": "Strong distilled alcoholic drink"
+    },
+    {
+      "word": "LIMO",
+      "description": "Sweet carbonated soft drink"
+    },
+    {
+      "word": "COLA",
+      "description": "Dark carbonated soft drink"
+    },
+    {
+      "word": "MINERALWASSER",
+      "description": "Sparkling or still bottled water"
+    },
+    {
+      "word": "KAKAO",
+      "description": "Hot chocolate drink made from cocoa"
+    },
+    {
+      "word": "FRÜHSTÜCK",
+      "description": "First meal of the day"
+    },
+    {
+      "word": "MITTAGESSEN",
+      "description": "Midday meal"
+    },
+    {
+      "word": "ABENDESSEN",
+      "description": "Evening meal"
+    },
+    {
+      "word": "SNACK",
+      "description": "Small amount of food between meals"
+    },
+    {
+      "word": "DESSERT",
+      "description": "Sweet course eaten after a meal"
+    },
+    {
+      "word": "VORSPEISE",
+      "description": "Starter course before the main dish"
+    },
+    {
+      "word": "HAUPTGERICHT",
+      "description": "Main course of a meal"
+    },
+    {
+      "word": "PORTION",
+      "description": "Amount of food served to one person"
+    },
+    {
+      "word": "SPEISEKARTE",
+      "description": "List of dishes available in a restaurant"
+    },
+    {
+      "word": "REZEPT",
+      "description": "Instructions for preparing a dish"
+    },
+    {
+      "word": "ZUTATEN",
+      "description": "Ingredients used in cooking"
+    },
+    {
+      "word": "BUS",
+      "description": "Large road vehicle for many passengers"
+    },
+    {
+      "word": "TRAM",
+      "description": "Electric rail vehicle on city streets"
+    },
+    {
+      "word": "UBAHN",
+      "description": "Underground metro train"
+    },
+    {
+      "word": "ZUG",
+      "description": "Vehicle on rails for travel"
+    },
+    {
+      "word": "FAHRRAD",
+      "description": "Two-wheeled human-powered vehicle"
+    },
+    {
+      "word": "MOTORRAD",
+      "description": "Two-wheeled engine-powered vehicle"
+    },
+    {
+      "word": "TAXI",
+      "description": "Car hired with a driver"
+    },
+    {
+      "word": "FLUGZEUG",
+      "description": "Aircraft with wings and engines"
+    },
+    {
+      "word": "BOOT",
+      "description": "Small vessel for water travel"
+    },
+    {
+      "word": "SCHIFF",
+      "description": "Large vessel for sea travel"
+    },
+    {
+      "word": "TANKSTELLE",
+      "description": "Station where vehicles get fuel"
+    },
+    {
+      "word": "PARKPLATZ",
+      "description": "Area designated for parking cars"
+    },
+    {
+      "word": "STAU",
+      "description": "Traffic jam on a road"
+    },
+    {
+      "word": "KARTE",
+      "description": "Map used for navigation"
+    },
+    {
+      "word": "REISE",
+      "description": "Journey or trip to another place"
+    },
+    {
+      "word": "URLAUB",
+      "description": "Holiday period away from work"
+    },
+    {
+      "word": "FERIEN",
+      "description": "School holiday or vacation period"
+    },
+    {
+      "word": "AUSFLUG",
+      "description": "Short trip or excursion"
+    },
+    {
+      "word": "REISEFÜHRER",
+      "description": "Book with tourist information"
+    },
+    {
+      "word": "REISEPASS",
+      "description": "Official document for international travel"
+    },
+    {
+      "word": "VISUM",
+      "description": "Official permission to enter a country"
+    },
+    {
+      "word": "TICKET",
+      "description": "Purchased document for travel or entry"
+    },
+    {
+      "word": "RESERVIERUNG",
+      "description": "Advance booking of a place"
+    },
+    {
+      "word": "ABFAHRT",
+      "description": "Time of departure"
+    },
+    {
+      "word": "ANKUNFT",
+      "description": "Time of arrival"
+    },
+    {
+      "word": "VERSPÄTUNG",
+      "description": "Delay in arrival or departure"
+    },
+    {
+      "word": "GEPÄCK",
+      "description": "Bags and luggage for travel"
+    },
+    {
+      "word": "AUSGANG",
+      "description": "Exit from a building"
+    },
+    {
+      "word": "EINGANG",
+      "description": "Entry to a building"
+    },
+    {
+      "word": "EMPFANG",
+      "description": "Reception area of a hotel"
+    },
+    {
+      "word": "ZIMMERSCHLÜSSEL",
+      "description": "Key to a hotel room"
+    },
+    {
+      "word": "FRÜHSTÜCKSBÜFET",
+      "description": "Self-service morning meal in a hotel"
+    },
+    {
+      "word": "STRAND",
+      "description": "Sandy area beside the sea"
+    },
+    {
+      "word": "INSEL",
+      "description": "Land surrounded by water"
+    },
+    {
+      "word": "GEBIRGE",
+      "description": "Range of mountains"
+    },
+    {
+      "word": "TAL",
+      "description": "Low area between hills"
+    },
+    {
+      "word": "HÖHLE",
+      "description": "Natural underground cavity"
+    },
+    {
+      "word": "WASSERFALL",
+      "description": "Stream of water falling from height"
+    },
+    {
+      "word": "BRÜCKE",
+      "description": "Structure spanning a gap or water"
+    },
+    {
+      "word": "TURM",
+      "description": "Tall narrow building or structure"
+    },
+    {
+      "word": "SCHLOSS",
+      "description": "Large castle or palace"
+    },
+    {
+      "word": "BURG",
+      "description": "Medieval fortified castle"
+    },
+    {
+      "word": "DENKMAL",
+      "description": "Monument commemorating a person or event"
+    },
+    {
+      "word": "AUSSICHT",
+      "description": "View from a high place"
+    },
+    {
+      "word": "LANDSCHAFT",
+      "description": "Scenery of a particular area"
+    },
+    {
+      "word": "HAUPTSTADT",
+      "description": "Most important city of a country"
+    },
+    {
+      "word": "DEUTSCHLAND",
+      "description": "European country where German is spoken"
+    },
+    {
+      "word": "ÖSTERREICH",
+      "description": "Alpine country where German is spoken"
+    },
+    {
+      "word": "SCHWEIZ",
+      "description": "Country with four official languages"
+    },
+    {
+      "word": "EUROPA",
+      "description": "Continent of western Eurasia"
+    },
+    {
+      "word": "WELT",
+      "description": "The entire Earth and its inhabitants"
+    },
+    {
+      "word": "LAND",
+      "description": "Nation or territory"
+    },
+    {
+      "word": "STADT",
+      "description": "Large human settlement"
+    },
+    {
+      "word": "DORF",
+      "description": "Small rural settlement"
+    },
+    {
+      "word": "EINWOHNER",
+      "description": "Person who lives in a place"
+    },
+    {
+      "word": "BEVÖLKERUNG",
+      "description": "Total number of people living in an area"
+    },
+    {
+      "word": "KRIEG",
+      "description": "Armed conflict between groups"
+    },
+    {
+      "word": "FRIEDEN",
+      "description": "State without war or conflict"
+    },
+    {
+      "word": "POLITIK",
+      "description": "Activities of government and power"
+    },
+    {
+      "word": "REGIERUNG",
+      "description": "Group that governs a country"
+    },
+    {
+      "word": "PRESIDENT",
+      "description": "Head of a republic"
+    },
+    {
+      "word": "KANZLER",
+      "description": "Head of government in Germany"
+    },
+    {
+      "word": "WAHL",
+      "description": "Process of voting for representatives"
+    },
+    {
+      "word": "PARTEI",
+      "description": "Political organization"
+    },
+    {
+      "word": "RECHT",
+      "description": "Legal system or entitlement"
+    },
+    {
+      "word": "GESETZ",
+      "description": "Rule made by government"
+    },
+    {
+      "word": "STRAFE",
+      "description": "Punishment for breaking a rule"
+    },
+    {
+      "word": "PRESSE",
+      "description": "News media collectively"
+    },
+    {
+      "word": "INTERNET",
+      "description": "Global network of computers"
+    },
+    {
+      "word": "EMAIL",
+      "description": "Electronic message sent via internet"
+    },
+    {
+      "word": "PASSWORT",
+      "description": "Secret word to access a system"
+    },
+    {
+      "word": "DRUCKER",
+      "description": "Machine that prints on paper"
+    },
+    {
+      "word": "BILDSCHIRM",
+      "description": "Display screen of a computer"
+    },
+    {
+      "word": "TASTATUR",
+      "description": "Set of keys for typing"
+    },
+    {
+      "word": "MAUS",
+      "description": "Hand-held device to control a cursor"
+    },
+    {
+      "word": "PROGRAMM",
+      "description": "Software running on a computer"
+    },
+    {
+      "word": "DATEI",
+      "description": "Digital document stored on a computer"
+    },
+    {
+      "word": "ORDNER",
+      "description": "Container for organizing files"
+    },
+    {
+      "word": "HERUNTERLADEN",
+      "description": "To transfer data from the internet"
+    },
+    {
+      "word": "HOCHLADEN",
+      "description": "To transfer data to the internet"
+    },
+    {
+      "word": "SPEICHERN",
+      "description": "To save data on a device"
+    },
+    {
+      "word": "DRUCKEN",
+      "description": "To produce a printed copy"
+    },
+    {
+      "word": "KOPIEREN",
+      "description": "To make a duplicate"
+    },
+    {
+      "word": "EINFÜGEN",
+      "description": "To place copied content"
+    },
+    {
+      "word": "LÖSCHEN",
+      "description": "To permanently remove"
+    },
+    {
+      "word": "SUCHEN",
+      "description": "To look for information online"
+    },
+    {
+      "word": "BANK",
+      "description": "Financial institution for savings"
+    },
+    {
+      "word": "KONTO",
+      "description": "Bank account"
+    },
+    {
+      "word": "SPARKASSE",
+      "description": "Savings bank"
+    },
+    {
+      "word": "KREDIT",
+      "description": "Borrowed money from a bank"
+    },
+    {
+      "word": "ZINSEN",
+      "description": "Interest paid on borrowed money"
+    },
+    {
+      "word": "STEUER",
+      "description": "Money paid to the government"
+    },
+    {
+      "word": "VERSICHERUNG",
+      "description": "Protection against financial loss"
+    },
+    {
+      "word": "VERTRAG",
+      "description": "Legal agreement between parties"
+    },
+    {
+      "word": "MIETE",
+      "description": "Regular payment for using a property"
+    },
+    {
+      "word": "EIGENTÜMER",
+      "description": "Person who owns something"
+    },
+    {
+      "word": "MIETER",
+      "description": "Person who rents a property"
+    },
+    {
+      "word": "VERMIETER",
+      "description": "Person who rents out a property"
+    },
+    {
+      "word": "KRANKENVERSICHERUNG",
+      "description": "Insurance covering medical costs"
+    },
+    {
+      "word": "RENTE",
+      "description": "Pension paid after retirement"
+    },
+    {
+      "word": "GEHALT",
+      "description": "Monthly salary paid to an employee"
+    },
+    {
+      "word": "LOHN",
+      "description": "Wages paid to a worker"
+    },
+    {
+      "word": "STELLE",
+      "description": "Job position"
+    },
+    {
+      "word": "BERUF",
+      "description": "Occupation or profession"
+    },
+    {
+      "word": "AUSBILDUNG",
+      "description": "Vocational training or apprenticeship"
+    },
+    {
+      "word": "STUDIUM",
+      "description": "Academic study at university"
+    },
+    {
+      "word": "ABSCHLUSS",
+      "description": "Academic degree or qualification"
+    },
+    {
+      "word": "ERFAHRUNG",
+      "description": "Knowledge gained from doing things"
+    },
+    {
+      "word": "KENNTNISSE",
+      "description": "Skills and knowledge"
+    },
+    {
+      "word": "LEBENSLAUF",
+      "description": "Document listing work and education history"
+    },
+    {
+      "word": "BEWERBUNG",
+      "description": "Application for a job"
+    },
+    {
+      "word": "VORSTELLUNGSGESPRÄCH",
+      "description": "Job interview"
+    },
+    {
+      "word": "KÜNDIGUNG",
+      "description": "Notice of termination of employment"
+    },
+    {
+      "word": "URLAUB",
+      "description": "Paid time off from work"
+    },
+    {
+      "word": "ÜBERSTUNDEN",
+      "description": "Extra hours worked beyond normal"
+    },
+    {
+      "word": "SCHICHT",
+      "description": "Period of work in a day"
+    },
+    {
+      "word": "PAUSE",
+      "description": "Short break during work"
+    },
+    {
+      "word": "FEIERABEND",
+      "description": "End of the working day"
+    },
+    {
+      "word": "GESUNDHEIT",
+      "description": "State of physical and mental well-being"
+    },
+    {
+      "word": "KRANKHEIT",
+      "description": "State of being ill"
+    },
+    {
+      "word": "SCHMERZ",
+      "description": "Feeling of physical hurt"
+    },
+    {
+      "word": "FIEBER",
+      "description": "Elevated body temperature"
+    },
+    {
+      "word": "HUSTEN",
+      "description": "Repeated coughing"
+    },
+    {
+      "word": "SCHNUPFEN",
+      "description": "Common cold with runny nose"
+    },
+    {
+      "word": "ALLERGIE",
+      "description": "Adverse reaction to a substance"
+    },
+    {
+      "word": "IMPFUNG",
+      "description": "Vaccination against disease"
+    },
+    {
+      "word": "TABLETTE",
+      "description": "Small medicinal pill"
+    },
+    {
+      "word": "TROPFEN",
+      "description": "Liquid medicine in drop form"
+    },
+    {
+      "word": "SALBE",
+      "description": "Cream or ointment for skin"
+    },
+    {
+      "word": "VERBAND",
+      "description": "Bandage for covering a wound"
+    },
+    {
+      "word": "PFLASTER",
+      "description": "Adhesive strip for small wounds"
+    },
+    {
+      "word": "THERMOMETER",
+      "description": "Instrument for measuring temperature"
+    },
+    {
+      "word": "BLUTDRUCK",
+      "description": "Pressure of blood in arteries"
+    },
+    {
+      "word": "UNTERSUCHUNG",
+      "description": "Medical examination"
+    },
+    {
+      "word": "TERMIN",
+      "description": "Appointment or scheduled meeting"
+    },
+    {
+      "word": "REZEPT",
+      "description": "Doctor's prescription for medicine"
+    },
+    {
+      "word": "OPERATION",
+      "description": "Surgical procedure"
+    },
+    {
+      "word": "ERHOLUNG",
+      "description": "Recovery or rest period"
+    },
+    {
+      "word": "DIÄT",
+      "description": "Controlled eating for health"
+    },
+    {
+      "word": "BEWEGUNG",
+      "description": "Physical activity and exercise"
+    },
+    {
+      "word": "ENTSPANNUNG",
+      "description": "State of relaxation"
+    },
+    {
+      "word": "STRESS",
+      "description": "Mental or physical tension"
+    },
+    {
+      "word": "SCHLAF",
+      "description": "Natural state of rest and unconsciousness"
+    },
+    {
+      "word": "TRAUM",
+      "description": "Images experienced during sleep"
+    },
+    {
+      "word": "ENERGIE",
+      "description": "Vitality and power to do things"
+    },
+    {
+      "word": "KRAFT",
+      "description": "Physical strength"
+    },
+    {
+      "word": "SCHWÄCHE",
+      "description": "Lack of physical or mental strength"
+    },
+    {
+      "word": "ANGST",
+      "description": "Feeling of fear or anxiety"
+    },
+    {
+      "word": "MUT",
+      "description": "Bravery in the face of danger"
+    },
+    {
+      "word": "HOFFNUNG",
+      "description": "Feeling that something desired will happen"
+    },
+    {
+      "word": "FREUDE",
+      "description": "Feeling of great happiness"
+    },
+    {
+      "word": "LIEBE",
+      "description": "Deep affection for another person"
+    },
+    {
+      "word": "HASS",
+      "description": "Intense feeling of dislike"
+    },
+    {
+      "word": "WUT",
+      "description": "Strong feeling of anger"
+    },
+    {
+      "word": "NEID",
+      "description": "Feeling of envy toward another"
+    },
+    {
+      "word": "EIFERSUCHT",
+      "description": "Fear of losing someone to a rival"
+    },
+    {
+      "word": "STOLZ",
+      "description": "Satisfaction in one's achievements"
+    },
+    {
+      "word": "SCHAM",
+      "description": "Painful feeling of embarrassment"
+    },
+    {
+      "word": "SCHULD",
+      "description": "Feeling of responsibility for a wrong"
+    },
+    {
+      "word": "EINSAMKEIT",
+      "description": "Feeling of being alone"
+    },
+    {
+      "word": "SEHNSUCHT",
+      "description": "Deep longing for something"
+    },
+    {
+      "word": "ÜBERRASCHUNG",
+      "description": "Feeling caused by something unexpected"
+    },
+    {
+      "word": "ENTTÄUSCHUNG",
+      "description": "Feeling when expectations are not met"
+    },
+    {
+      "word": "ERLEICHTERUNG",
+      "description": "Feeling when worry is removed"
+    },
+    {
+      "word": "ZUFRIEDENHEIT",
+      "description": "Feeling of contentment"
+    },
+    {
+      "word": "EINLADUNG",
+      "description": "Request to attend an event"
+    },
+    {
+      "word": "FEST",
+      "description": "Celebration or festive event"
+    },
+    {
+      "word": "PARTY",
+      "description": "Social gathering for fun"
+    },
+    {
+      "word": "FEIER",
+      "description": "Celebration of a special occasion"
+    },
+    {
+      "word": "HOCHZEIT",
+      "description": "Marriage ceremony"
+    },
+    {
+      "word": "GEBURTSTAG",
+      "description": "Anniversary of the day of birth"
+    },
+    {
+      "word": "JUBILÄUM",
+      "description": "Anniversary of an important event"
+    },
+    {
+      "word": "WEIHNACHTEN",
+      "description": "Christmas celebration"
+    },
+    {
+      "word": "OSTERN",
+      "description": "Easter celebration"
+    },
+    {
+      "word": "SILVESTER",
+      "description": "New Year's Eve celebration"
+    },
+    {
+      "word": "KARNEVAL",
+      "description": "Festival before Lent with costumes"
+    },
+    {
+      "word": "GESCHENK",
+      "description": "Present given to someone"
+    },
+    {
+      "word": "KERZE",
+      "description": "Stick of wax with a wick for light"
+    },
+    {
+      "word": "BALLON",
+      "description": "Inflated rubber bag for decoration"
+    },
+    {
+      "word": "MUSIK",
+      "description": "Sound organized into rhythms and melodies"
+    },
+    {
+      "word": "LIED",
+      "description": "Song sung at celebrations"
+    },
+    {
+      "word": "GLÜCKWUNSCH",
+      "description": "Words of congratulation"
+    },
+    {
+      "word": "PROST",
+      "description": "German toast when drinking"
+    },
+    {
+      "word": "GESUNDHEIT",
+      "description": "What you say when someone sneezes"
+    },
+    {
+      "word": "BITTE",
+      "description": "Polite word for request"
+    },
+    {
+      "word": "DANKE",
+      "description": "Expression of gratitude"
+    },
+    {
+      "word": "BITTE",
+      "description": "Response to thank you"
+    },
+    {
+      "word": "ENTSCHULDIGUNG",
+      "description": "Apology or excuse me"
+    },
+    {
+      "word": "HALLO",
+      "description": "Common greeting"
+    },
+    {
+      "word": "TSCHÜSS",
+      "description": "Informal farewell"
+    },
+    {
+      "word": "AUF WIEDERSEHEN",
+      "description": "Formal goodbye"
+    },
+    {
+      "word": "GUTEN MORGEN",
+      "description": "Morning greeting"
+    },
+    {
+      "word": "GUTEN TAG",
+      "description": "Daytime greeting"
+    },
+    {
+      "word": "GUTEN ABEND",
+      "description": "Evening greeting"
+    },
+    {
+      "word": "GUTE NACHT",
+      "description": "Nighttime farewell"
+    },
+    {
+      "word": "WILLKOMMEN",
+      "description": "Welcome greeting"
+    },
+    {
+      "word": "JA",
+      "description": "Affirmative response"
+    },
+    {
+      "word": "NEIN",
+      "description": "Negative response"
+    },
+    {
+      "word": "VIELLEICHT",
+      "description": "Expression of possibility"
+    },
+    {
+      "word": "NATÜRLICH",
+      "description": "Expression of obvious agreement"
+    },
+    {
+      "word": "SICHER",
+      "description": "Expression of certainty"
+    },
+    {
+      "word": "LEIDER",
+      "description": "Expression of regret"
+    },
+    {
+      "word": "HOFFENTLICH",
+      "description": "Expression of hope"
+    },
+    {
+      "word": "EIGENTLICH",
+      "description": "Actually or in fact"
+    },
+    {
+      "word": "ALSO",
+      "description": "Connecting word meaning therefore or so"
+    },
+    {
+      "word": "ABER",
+      "description": "Conjunction meaning however or but"
+    },
+    {
+      "word": "DENN",
+      "description": "Conjunction meaning because or for"
+    },
+    {
+      "word": "UND",
+      "description": "Conjunction connecting two items"
+    },
+    {
+      "word": "ODER",
+      "description": "Conjunction expressing alternative"
+    },
+    {
+      "word": "WEIL",
+      "description": "Conjunction meaning because"
+    },
+    {
+      "word": "WENN",
+      "description": "Conjunction meaning if or when"
+    },
+    {
+      "word": "OBWOHL",
+      "description": "Conjunction meaning although"
+    },
+    {
+      "word": "DAMIT",
+      "description": "Conjunction meaning so that"
+    },
+    {
+      "word": "SOBALD",
+      "description": "Conjunction meaning as soon as"
+    },
+    {
+      "word": "WÄHREND",
+      "description": "Conjunction meaning while"
+    },
+    {
+      "word": "NACHDEM",
+      "description": "Conjunction meaning after"
+    },
+    {
+      "word": "BEVOR",
+      "description": "Conjunction meaning before"
+    },
+    {
+      "word": "TROTZDEM",
+      "description": "Conjunction meaning nevertheless"
+    },
+    {
+      "word": "TROTZ",
+      "description": "Preposition meaning despite"
+    },
+    {
+      "word": "AUSSERDEM",
+      "description": "Additionally or besides"
+    },
+    {
+      "word": "DESHALB",
+      "description": "Therefore or that is why"
+    },
+    {
+      "word": "DESWEGEN",
+      "description": "Because of that"
+    },
+    {
+      "word": "BEISPIEL",
+      "description": "Instance used to illustrate"
+    },
+    {
+      "word": "SCHRITT",
+      "description": "Single step or pace"
+    },
+    {
+      "word": "FORTSCHRITT",
+      "description": "Progress or advancement"
+    },
+    {
+      "word": "ERGEBNIS",
+      "description": "Result or outcome"
+    },
+    {
+      "word": "LÖSUNG",
+      "description": "Answer to a problem"
+    },
+    {
+      "word": "PROBLEM",
+      "description": "Difficult situation requiring a solution"
+    },
+    {
+      "word": "FRAGE",
+      "description": "Sentence seeking information"
+    },
+    {
+      "word": "ANTWORT",
+      "description": "Response to a question"
+    },
+    {
+      "word": "IDEE",
+      "description": "Thought or plan in the mind"
+    },
+    {
+      "word": "PLAN",
+      "description": "Scheme for achieving something"
+    },
+    {
+      "word": "ZIEL",
+      "description": "Aim or desired result"
+    },
+    {
+      "word": "TRAUM",
+      "description": "Cherished aspiration or ambition"
+    },
+    {
+      "word": "WUNSCH",
+      "description": "Desire for something"
+    },
+    {
+      "word": "MEINUNG",
+      "description": "View or judgment formed about something"
+    },
+    {
+      "word": "ENTSCHEIDUNG",
+      "description": "Choice made after consideration"
+    },
+    {
+      "word": "CHANCE",
+      "description": "Opportunity or possibility"
+    },
+    {
+      "word": "RISIKO",
+      "description": "Possibility of something bad happening"
+    },
+    {
+      "word": "GLÜCK",
+      "description": "Success brought by chance or happiness"
+    },
+    {
+      "word": "PECH",
+      "description": "Bad luck or misfortune"
+    },
+    {
+      "word": "FEHLER",
+      "description": "Mistake or error"
+    },
+    {
+      "word": "ERFOLG",
+      "description": "Achievement of a goal"
+    },
+    {
+      "word": "VERSUCH",
+      "description": "Attempt to do something"
+    },
+    {
+      "word": "AUFGABE",
+      "description": "Task or homework assignment"
+    },
+    {
+      "word": "PRÜFUNG",
+      "description": "Test of knowledge or ability"
+    },
+    {
+      "word": "NOTE",
+      "description": "Grade or mark in school"
+    },
+    {
+      "word": "ZEUGNIS",
+      "description": "School report card"
+    },
+    {
+      "word": "ABSCHLUSS",
+      "description": "Final exam or graduation"
+    },
+    {
+      "word": "THEMA",
+      "description": "Subject or topic"
+    },
+    {
+      "word": "INHALT",
+      "description": "Content or subject matter"
+    },
+    {
+      "word": "BEDEUTUNG",
+      "description": "Meaning or significance"
+    },
+    {
+      "word": "ERKLÄRUNG",
+      "description": "Statement that makes something clear"
+    },
+    {
+      "word": "BESCHREIBUNG",
+      "description": "Account of what something is like"
+    },
+    {
+      "word": "BERICHT",
+      "description": "Account of an event"
+    },
+    {
+      "word": "GESCHICHTE",
+      "description": "Story or historical account"
+    },
+    {
+      "word": "ROMAN",
+      "description": "Long fictional narrative book"
+    },
+    {
+      "word": "GEDICHT",
+      "description": "Poem in written form"
+    },
+    {
+      "word": "MÄRCHEN",
+      "description": "Fairy tale or folk story"
+    },
+    {
+      "word": "WÖRTERBUCH",
+      "description": "Book of words and their meanings"
+    },
+    {
+      "word": "ÜBUNG",
+      "description": "Practice exercise"
+    },
+    {
+      "word": "UNTERRICHT",
+      "description": "Teaching in a classroom"
+    },
+    {
+      "word": "FACH",
+      "description": "Subject studied at school"
+    },
+    {
+      "word": "MATHEMATIK",
+      "description": "Study of numbers and calculations"
+    },
+    {
+      "word": "DEUTSCH",
+      "description": "German language or nationality"
+    },
+    {
+      "word": "ENGLISCH",
+      "description": "English language"
+    },
+    {
+      "word": "PHYSIK",
+      "description": "Science of matter and energy"
+    },
+    {
+      "word": "CHEMIE",
+      "description": "Science of substances and reactions"
+    },
+    {
+      "word": "BIOLOGIE",
+      "description": "Study of living organisms"
+    },
+    {
+      "word": "ERDKUNDE",
+      "description": "Subject studying the Earth and geography"
+    },
+    {
+      "word": "GESCHICHTE",
+      "description": "Subject studying past events"
+    },
+    {
+      "word": "KUNST",
+      "description": "Subject of visual arts and creativity"
+    },
+    {
+      "word": "MUSIK",
+      "description": "Subject of musical education"
+    },
+    {
+      "word": "SPORT",
+      "description": "Subject of physical education"
+    },
+    {
+      "word": "INFORMATIIK",
+      "description": "Computer science subject"
+    },
+    {
+      "word": "RELIGION",
+      "description": "Subject of religious study"
+    },
+    {
+      "word": "PHILOSOPHIE",
+      "description": "Study of fundamental questions"
+    },
+    {
+      "word": "SOZIALKUNDE",
+      "description": "Subject studying society and government"
+    },
+    {
+      "word": "WIRTSCHAFT",
+      "description": "Economics or business studies"
+    },
+    {
+      "word": "KURS",
+      "description": "Series of lessons on a topic"
+    },
+    {
+      "word": "SEMINAR",
+      "description": "Small group learning session"
+    },
+    {
+      "word": "VORLESUNG",
+      "description": "University lecture"
+    },
+    {
+      "word": "PRAKTIKUM",
+      "description": "Work experience placement"
+    },
+    {
+      "word": "HAUSAUFGABEN",
+      "description": "Work assigned to do at home"
+    },
+    {
+      "word": "REFERAT",
+      "description": "Oral presentation in class"
+    },
+    {
+      "word": "AUFSATZ",
+      "description": "Written essay"
+    },
+    {
+      "word": "DIKTAT",
+      "description": "Dictation exercise"
+    },
+    {
+      "word": "EXPERIMENT",
+      "description": "Scientific test or procedure"
+    },
+    {
+      "word": "LABORR",
+      "description": "Room for scientific experiments"
+    },
+    {
+      "word": "BIBLIOTHEK",
+      "description": "Room with books for research"
+    },
+    {
+      "word": "WOHNZIMMER",
+      "description": "Living room in a home"
+    },
+    {
+      "word": "SCHLAFZIMMER",
+      "description": "Room with a bed for sleeping"
+    },
+    {
+      "word": "ESSZIMMER",
+      "description": "Room where meals are eaten"
+    },
+    {
+      "word": "BADEZIMMER",
+      "description": "Room with washing facilities"
+    },
+    {
+      "word": "TOILETTE",
+      "description": "Toilet or bathroom"
+    },
+    {
+      "word": "FLUR",
+      "description": "Corridor or hallway"
+    },
+    {
+      "word": "BALKON",
+      "description": "Platform projecting from a building"
+    },
+    {
+      "word": "TERRASSE",
+      "description": "Patio outside a building"
+    },
+    {
+      "word": "GARAGE",
+      "description": "Shelter for keeping a car"
+    },
+    {
+      "word": "KLINGEL",
+      "description": "Doorbell"
+    },
+    {
+      "word": "BRIEFKASTEN",
+      "description": "Box for receiving mail"
+    },
+    {
+      "word": "ZAUN",
+      "description": "Fence around a garden"
+    },
+    {
+      "word": "TOR",
+      "description": "Large gate or entrance"
+    },
+    {
+      "word": "HAUSHALTT",
+      "description": "Household or family unit"
+    },
+    {
+      "word": "MÜLL",
+      "description": "Garbage or household waste"
+    },
+    {
+      "word": "RECYCLING",
+      "description": "Processing waste for reuse"
+    },
+    {
+      "word": "ENERGIE",
+      "description": "Power used for heating and electricity"
+    },
+    {
+      "word": "STROM",
+      "description": "Electrical power"
+    },
+    {
+      "word": "GAS",
+      "description": "Fuel used for heating and cooking"
+    },
+    {
+      "word": "HEIZUNG",
+      "description": "System for heating a building"
+    },
+    {
+      "word": "KLIMAANLAGE",
+      "description": "System for cooling a building"
+    },
+    {
+      "word": "WASSER",
+      "description": "Utility piped into buildings"
+    },
+    {
+      "word": "WERKZEUG",
+      "description": "Implement used for manual tasks"
+    },
+    {
+      "word": "HAMMER",
+      "description": "Tool for driving nails"
+    },
+    {
+      "word": "SCHRAUBENZIEHER",
+      "description": "Tool for turning screws"
+    },
+    {
+      "word": "NAGEL",
+      "description": "Metal pin used in construction"
+    },
+    {
+      "word": "SCHRAUBE",
+      "description": "Threaded metal fastener"
+    },
+    {
+      "word": "LEITER",
+      "description": "Structure for climbing up"
+    },
+    {
+      "word": "PINSEL",
+      "description": "Brush for painting"
+    },
+    {
+      "word": "FARBROLLE",
+      "description": "Roller for applying paint"
+    },
+    {
+      "word": "DOSE",
+      "description": "Container of paint"
+    },
+    {
+      "word": "SAND",
+      "description": "Granular material on beaches"
+    },
+    {
+      "word": "STEIN",
+      "description": "Solid piece of rock"
+    },
+    {
+      "word": "HOLZ",
+      "description": "Material from trees used in building"
+    },
+    {
+      "word": "METALL",
+      "description": "Hard material like iron or steel"
+    },
+    {
+      "word": "PLASTIK",
+      "description": "Synthetic man-made material"
+    },
+    {
+      "word": "GLAS",
+      "description": "Transparent hard material"
+    },
+    {
+      "word": "LEDER",
+      "description": "Animal skin used to make bags and shoes"
+    },
+    {
+      "word": "STOFF",
+      "description": "Woven fabric or cloth"
+    },
+    {
+      "word": "WOLLE",
+      "description": "Soft fiber from sheep"
+    },
+    {
+      "word": "SEIDE",
+      "description": "Smooth lustrous fabric from silkworms"
+    },
+    {
+      "word": "BAUMWOLLE",
+      "description": "Natural fiber from cotton plants"
+    },
+    {
+      "word": "DIAMANT",
+      "description": "Precious gemstone, hardest natural material"
+    },
+    {
+      "word": "GOLD",
+      "description": "Precious yellow metal"
+    },
+    {
+      "word": "SILBER",
+      "description": "Precious white metallic element"
+    },
+    {
+      "word": "EISEN",
+      "description": "Common metal used in construction"
+    },
+    {
+      "word": "STAHL",
+      "description": "Strong alloy made from iron"
+    },
+    {
+      "word": "ALUMINIUM",
+      "description": "Light silvery metal"
+    },
+    {
+      "word": "KUPFER",
+      "description": "Reddish metal used in wiring"
+    },
+    {
+      "word": "ZAHL",
+      "description": "Numerical figure or number"
+    },
+    {
+      "word": "MENGE",
+      "description": "Quantity or amount of something"
+    },
+    {
+      "word": "GRÖSSE",
+      "description": "Measurement of how large something is"
+    },
+    {
+      "word": "LÄNGE",
+      "description": "Measurement from end to end"
+    },
+    {
+      "word": "BREITE",
+      "description": "Measurement from side to side"
+    },
+    {
+      "word": "HÖHE",
+      "description": "Measurement from base to top"
+    },
+    {
+      "word": "GEWICHT",
+      "description": "Measurement of heaviness"
+    },
+    {
+      "word": "KILOGRAMM",
+      "description": "Unit of weight equal to 1000 grams"
+    },
+    {
+      "word": "GRAMM",
+      "description": "Small unit of weight"
+    },
+    {
+      "word": "LITER",
+      "description": "Unit of liquid volume"
+    },
+    {
+      "word": "METER",
+      "description": "Unit of length"
+    },
+    {
+      "word": "KILOMETER",
+      "description": "Unit of length equal to 1000 meters"
+    },
+    {
+      "word": "ZENTIMETER",
+      "description": "Unit of length, hundredth of a meter"
+    },
+    {
+      "word": "GRAD",
+      "description": "Unit for measuring temperature or angle"
+    },
+    {
+      "word": "PROZENT",
+      "description": "Fraction out of one hundred"
+    },
+    {
+      "word": "HÄLFTE",
+      "description": "One of two equal parts"
+    },
+    {
+      "word": "VIERTEL",
+      "description": "One of four equal parts"
+    },
+    {
+      "word": "DRITTEL",
+      "description": "One of three equal parts"
+    },
+    {
+      "word": "PAAR",
+      "description": "Two matching items or a couple"
+    },
+    {
+      "word": "DUTZEND",
+      "description": "Group of twelve"
+    },
+    {
+      "word": "HUNDERT",
+      "description": "Ten times ten, a century"
+    },
+    {
+      "word": "MILLION",
+      "description": "One thousand thousands"
+    },
+    {
+      "word": "BEIDE",
+      "description": "The two together"
+    },
+    {
+      "word": "EINIGE",
+      "description": "A few or several"
+    },
+    {
+      "word": "VIELE",
+      "description": "A large number"
+    },
+    {
+      "word": "WENIGE",
+      "description": "Not many"
+    },
+    {
+      "word": "ALLE",
+      "description": "Every one, without exception"
+    },
+    {
+      "word": "NIEMAND",
+      "description": "Not a single person"
+    },
+    {
+      "word": "JEMAND",
+      "description": "An unspecified person"
+    },
+    {
+      "word": "ETWAS",
+      "description": "A thing or amount unspecified"
+    },
+    {
+      "word": "NICHTS",
+      "description": "Not anything at all"
+    },
+    {
+      "word": "ALLES",
+      "description": "Every thing, the whole"
+    },
+    {
+      "word": "JEDER",
+      "description": "Every individual person or thing"
+    },
+    {
+      "word": "MANCH",
+      "description": "Some or a few"
+    },
+    {
+      "word": "SELTEN",
+      "description": "Not happening often"
+    },
+    {
+      "word": "MANCHMAL",
+      "description": "On some occasions"
+    },
+    {
+      "word": "OFT",
+      "description": "On many occasions"
+    },
+    {
+      "word": "IMMER",
+      "description": "At all times"
+    },
+    {
+      "word": "NIE",
+      "description": "At no time"
+    },
+    {
+      "word": "NOCH",
+      "description": "Up to the present time"
+    },
+    {
+      "word": "SCHON",
+      "description": "Earlier than expected"
+    },
+    {
+      "word": "BEREITS",
+      "description": "Before the present time"
+    },
+    {
+      "word": "BALD",
+      "description": "In a short time"
+    },
+    {
+      "word": "SOFORT",
+      "description": "Without any delay"
+    },
+    {
+      "word": "GERADE",
+      "description": "At this very moment"
+    },
+    {
+      "word": "GLEICH",
+      "description": "Very soon or identical"
+    },
+    {
+      "word": "DANN",
+      "description": "At that time or after that"
+    },
+    {
+      "word": "DANACH",
+      "description": "After that time"
+    },
+    {
+      "word": "DAVOR",
+      "description": "Before that time"
+    },
+    {
+      "word": "ZUERST",
+      "description": "Before anything else"
+    },
+    {
+      "word": "ZULETZT",
+      "description": "After everything else"
+    },
+    {
+      "word": "ENDLICH",
+      "description": "After a long time"
+    },
+    {
+      "word": "PLÖTZLICH",
+      "description": "Happening unexpectedly"
+    },
+    {
+      "word": "MEISTENS",
+      "description": "In most cases"
+    },
+    {
+      "word": "NORMALERWEISE",
+      "description": "Under normal circumstances"
+    },
+    {
+      "word": "GEWÖHNLICH",
+      "description": "As is usual"
+    },
+    {
+      "word": "ZUSAMMEN",
+      "description": "With each other"
+    },
+    {
+      "word": "ALLEIN",
+      "description": "Without others"
+    },
+    {
+      "word": "EXTRA",
+      "description": "Beyond what is usual"
+    },
+    {
+      "word": "BESONDERS",
+      "description": "To a greater degree than usual"
+    },
+    {
+      "word": "SEHR",
+      "description": "To a great degree"
+    },
+    {
+      "word": "ZIEMLICH",
+      "description": "To a fair degree"
+    },
+    {
+      "word": "KAUM",
+      "description": "Only just or barely"
+    },
+    {
+      "word": "GAR NICHT",
+      "description": "Not at all"
+    },
+    {
+      "word": "WIRKLICH",
+      "description": "In actual fact"
+    },
+    {
+      "word": "GENAU",
+      "description": "With precision and accuracy"
+    },
+    {
+      "word": "FAST",
+      "description": "Very nearly"
+    },
+    {
+      "word": "UNGEFÄHR",
+      "description": "Close to but not exact"
+    },
+    {
+      "word": "MINDESTENS",
+      "description": "At the lowest estimate"
+    },
+    {
+      "word": "HÖCHSTENS",
+      "description": "Not more than"
+    },
+    {
+      "word": "SONST",
+      "description": "In other circumstances"
+    },
+    {
+      "word": "TROTZDEM",
+      "description": "In spite of that"
+    },
+    {
+      "word": "TROTZ",
+      "description": "In spite of"
+    },
+    {
+      "word": "WENIGSTENS",
+      "description": "At least or at the minimum"
+    },
+    {
+      "word": "JEDENFALLS",
+      "description": "In any case"
+    },
+    {
+      "word": "SOWIESO",
+      "description": "In any case, anyway"
+    },
+    {
+      "word": "NÄMLICH",
+      "description": "Because or that is to say"
+    },
+    {
+      "word": "EBENFALLS",
+      "description": "Also or in the same way"
+    },
+    {
+      "word": "AUCH",
+      "description": "In addition or too"
+    },
+    {
+      "word": "NUR",
+      "description": "And nothing more"
+    },
+    {
+      "word": "NOCH NICHT",
+      "description": "Not up to this point"
+    },
+    {
+      "word": "NICHT MEHR",
+      "description": "No longer"
+    },
+    {
+      "word": "VIEL",
+      "description": "A large amount or great degree"
+    },
+    {
+      "word": "ZU VIEL",
+      "description": "More than is wanted"
+    },
+    {
+      "word": "ZU WENIG",
+      "description": "Less than is needed"
+    },
+    {
+      "word": "GENUG",
+      "description": "As much as is needed"
+    },
+    {
+      "word": "HERZLICH",
+      "description": "Warm and friendly in manner"
+    },
+    {
+      "word": "HÖFLICH",
+      "description": "Having good manners"
+    },
+    {
+      "word": "FREUNDLICH",
+      "description": "Kind and pleasant"
+    },
+    {
+      "word": "NETT",
+      "description": "Pleasant and agreeable"
+    },
+    {
+      "word": "ERNST",
+      "description": "Serious in manner"
+    },
+    {
+      "word": "RUHIG",
+      "description": "Calm and peaceful"
+    },
+    {
+      "word": "GEDULDIG",
+      "description": "Able to wait without complaining"
+    },
+    {
+      "word": "FLEISSIG",
+      "description": "Working hard and diligently"
+    },
+    {
+      "word": "FAUL",
+      "description": "Unwilling to work"
+    },
+    {
+      "word": "KLUG",
+      "description": "Having intelligence"
+    },
+    {
+      "word": "DUMM",
+      "description": "Lacking intelligence"
+    },
+    {
+      "word": "CLEVER",
+      "description": "Quick to understand things"
+    },
+    {
+      "word": "KREATIV",
+      "description": "Having imagination and new ideas"
+    },
+    {
+      "word": "SPORTLICH",
+      "description": "Good at sports and active"
+    },
+    {
+      "word": "MUSIKALISCH",
+      "description": "Having talent for music"
+    },
+    {
+      "word": "PÜNKTLICH",
+      "description": "Arriving exactly on time"
+    },
+    {
+      "word": "ZUVERLÄSSIG",
+      "description": "Able to be relied upon"
+    },
+    {
+      "word": "EHRLICH",
+      "description": "Truthful and not deceptive"
+    },
+    {
+      "word": "MUTIG",
+      "description": "Having courage and bravery"
+    },
+    {
+      "word": "VORSICHTIG",
+      "description": "Careful to avoid danger"
+    },
+    {
+      "word": "NEUGIERIG",
+      "description": "Eager to know or learn"
+    },
+    {
+      "word": "SELBSTSTÄNDIG",
+      "description": "Able to work independently"
+    },
+    {
+      "word": "HILFSBEREIT",
+      "description": "Ready and willing to help"
+    },
+    {
+      "word": "GROSSZÜGIG",
+      "description": "Generous with money or time"
+    },
+    {
+      "word": "SPARSAM",
+      "description": "Careful not to waste resources"
+    },
+    {
+      "word": "ORDENTLICH",
+      "description": "Neat and tidy"
+    },
+    {
+      "word": "CHAOTISCH",
+      "description": "In complete disorder"
+    },
+    {
+      "word": "LOCKER",
+      "description": "Relaxed and easy-going"
+    },
+    {
+      "word": "STRENG",
+      "description": "Demanding strict obedience"
+    },
+    {
+      "word": "LIEB",
+      "description": "Kind and caring"
+    },
+    {
+      "word": "BÖSE",
+      "description": "Angry or evil"
+    },
+    {
+      "word": "FROH",
+      "description": "Pleased and glad"
+    },
+    {
+      "word": "AUFGEREGT",
+      "description": "In a state of excitement"
+    },
+    {
+      "word": "ENTSPANNT",
+      "description": "Free from tension"
+    },
+    {
+      "word": "NERVÖS",
+      "description": "Feeling anxious and uneasy"
+    },
+    {
+      "word": "VERLEGEN",
+      "description": "Feeling embarrassed"
+    },
+    {
+      "word": "ÜBERRASCHT",
+      "description": "Feeling sudden wonder"
+    },
+    {
+      "word": "ENTTÄUSCHT",
+      "description": "Feeling let down"
+    },
+    {
+      "word": "STOLZ",
+      "description": "Feeling pleased with oneself"
+    },
+    {
+      "word": "BESCHÄMT",
+      "description": "Feeling embarrassed or ashamed"
+    },
+    {
+      "word": "DANKBAR",
+      "description": "Feeling thankful for something received"
+    },
+    {
+      "word": "EIFERSÜCHTIG",
+      "description": "Feeling envious of another"
+    },
+    {
+      "word": "GELASSEN",
+      "description": "Calm and composed"
+    },
+    {
+      "word": "WÜTEND",
+      "description": "Feeling or showing great anger"
+    },
+    {
+      "word": "BEGEISTERT",
+      "description": "Filled with enthusiasm"
+    },
+    {
+      "word": "LANGWEILIG",
+      "description": "Feeling bored"
+    },
+    {
+      "word": "VERLIEBT",
+      "description": "Feeling romantic love"
+    },
+    {
+      "word": "EINSAM",
+      "description": "Feeling sad due to lack of company"
+    },
+    {
+      "word": "ZUFRIEDEN",
+      "description": "Feeling happy with what one has"
+    },
+    {
+      "word": "UNZUFRIEDEN",
+      "description": "Not satisfied with something"
+    },
+    {
+      "word": "ÄRGERLICH",
+      "description": "Feeling annoyed or irritated"
+    },
+    {
+      "word": "ERFREUT",
+      "description": "Happy and pleased"
+    },
+    {
+      "word": "ERSTAUNT",
+      "description": "Greatly surprised"
+    },
+    {
+      "word": "ERSCHÖPFT",
+      "description": "Extremely tired"
+    },
+    {
+      "word": "AUSGERUHT",
+      "description": "Rested and refreshed"
+    },
+    {
+      "word": "ZUVERSICHTLICH",
+      "description": "Feeling confident about the future"
+    }
+  ]
+}

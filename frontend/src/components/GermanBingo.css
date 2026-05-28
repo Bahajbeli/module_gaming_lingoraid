@@ -1,0 +1,453 @@
+/* Plein écran — sans navbar (voir App.js) */
+/* Variante intégrée dans la page match en ligne */
+.german-bingo--embedded {
+  min-height: auto;
+  width: 100%;
+  padding: 0;
+  justify-content: flex-start;
+}
+
+.german-bingo--embedded .german-bingo-inner {
+  max-width: 100%;
+}
+
+.german-bingo-wait-opponent {
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 15px;
+  font-weight: 600;
+  margin-top: 8px;
+  animation: pulse 1.5s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.55; }
+}
+
+.german-bingo {
+  min-height: 100dvh;
+  width: 100%;
+  background: #1a1625;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: max(12px, env(safe-area-inset-top)) 16px max(20px, env(safe-area-inset-bottom));
+  font-family: system-ui, -apple-system, sans-serif;
+  box-sizing: border-box;
+}
+
+.german-bingo-inner {
+  width: 100%;
+  max-width: min(520px, 100%);
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.german-bingo-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  flex-shrink: 0;
+}
+
+.german-bingo-nav button {
+  background: transparent;
+  border: none;
+  color: #d2f500;
+  cursor: pointer;
+  text-transform: uppercase;
+  padding: 8px 4px;
+}
+
+.german-bingo-nav button:hover {
+  opacity: 0.85;
+}
+
+.german-bingo-header {
+  background: #36318e;
+  border-radius: 14px;
+  padding: 14px 16px;
+  flex-shrink: 0;
+}
+
+.german-bingo-title {
+  margin: 0 0 10px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: rgba(210, 245, 0, 0.85);
+  text-align: center;
+}
+
+.german-bingo-word-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.german-bingo-word-num {
+  background: #d2f500;
+  color: #1a1625;
+  font-weight: 800;
+  width: 36px;
+  height: 36px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  flex-shrink: 0;
+}
+
+.german-bingo-current-word {
+  flex: 1;
+  font-size: clamp(16px, 4vw, 22px);
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  text-align: center;
+  line-height: 1.2;
+}
+
+.german-bingo-next {
+  background: #d2f500;
+  color: #1a1625;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 8px;
+  font-weight: 800;
+  font-size: 12px;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+.german-bingo-next:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.german-bingo-timer-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.german-bingo-timer {
+  font-weight: 700;
+  color: white;
+  font-size: 18px;
+  font-variant-numeric: tabular-nums;
+}
+
+/* Grille carrée responsive */
+.german-bingo-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(4, 1fr);
+  gap: clamp(6px, 1.5vw, 10px);
+  width: 100%;
+  aspect-ratio: 1;
+  max-height: min(72vh, 520px);
+  margin: 0 auto;
+}
+
+.german-bingo-tile {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+  border-radius: 10px;
+  overflow: hidden;
+  cursor: pointer;
+  background: #353145;
+  border: 2px solid transparent;
+  transition: border-color 0.15s, transform 0.1s;
+  padding: 0;
+}
+
+.german-bingo-tile:hover:not(:disabled) {
+  border-color: rgba(210, 245, 0, 0.5);
+  transform: scale(1.02);
+}
+
+.german-bingo-tile:disabled {
+  cursor: default;
+}
+
+.german-bingo-tile.placed .german-bingo-tile-bg {
+  filter: grayscale(0.45);
+}
+
+.german-bingo-tile.placed {
+  cursor: default;
+  border-color: rgba(210, 245, 0, 0.35);
+}
+
+.german-bingo-tile.correct {
+  border-color: #22c55e;
+  box-shadow: 0 0 0 2px rgba(34, 197, 94, 0.45);
+}
+
+.german-bingo-tile.wrong {
+  border-color: #ef4444;
+  box-shadow: 0 0 0 2px rgba(239, 68, 68, 0.45);
+}
+
+.german-bingo-tile.correct .german-bingo-tile-bg,
+.german-bingo-tile.wrong .german-bingo-tile-bg {
+  filter: grayscale(0.2);
+}
+
+.german-bingo-tile-bg {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+}
+
+.german-bingo-tile-bg--emoji {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(160deg, rgba(54, 49, 142, 0.95), rgba(26, 22, 37, 0.98));
+}
+
+.german-bingo-tile-emoji {
+  font-size: clamp(28px, 7vw, 42px);
+  line-height: 1;
+  filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.35));
+}
+
+.german-bingo-tile-label {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.9));
+  font-size: clamp(9px, 2.2vw, 12px);
+  padding: 18px 6px 6px;
+  text-align: center;
+  font-weight: 600;
+  z-index: 1;
+}
+
+.german-bingo-tile-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(210, 245, 0, 0.93);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px;
+  z-index: 2;
+}
+
+.german-bingo-tile-overlay.placed {
+  background: rgba(210, 245, 0, 0.93);
+}
+
+.german-bingo-tile-overlay.correct {
+  background: rgba(34, 197, 94, 0.92);
+}
+
+.german-bingo-tile-overlay.wrong {
+  background: rgba(239, 68, 68, 0.92);
+}
+
+.german-bingo-tile-overlay span {
+  color: #1a1625;
+  font-weight: 800;
+  font-size: clamp(10px, 2.5vw, 14px);
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 1.15;
+  word-break: break-word;
+}
+
+.german-bingo-tile-overlay.correct span,
+.german-bingo-tile-overlay.wrong span {
+  color: #fff;
+}
+
+.german-bingo-footer {
+  text-align: center;
+  flex-shrink: 0;
+  padding-top: 4px;
+}
+
+.german-bingo-progress-label {
+  font-size: 13px;
+  color: #9499a8;
+  margin-bottom: 8px;
+  font-weight: 600;
+}
+
+.german-bingo-progress-bar {
+  height: 8px;
+  background: #2b2738;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.german-bingo-progress-fill {
+  height: 100%;
+  background: #d2f500;
+  transition: width 0.3s ease;
+  border-radius: 4px;
+}
+
+.german-bingo-toast {
+  position: fixed;
+  bottom: max(24px, env(safe-area-inset-bottom));
+  left: 50%;
+  transform: translateX(-50%);
+  background: #36318e;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 10px;
+  font-size: 13px;
+  max-width: min(360px, calc(100vw - 32px));
+  z-index: 100;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.45);
+  text-align: center;
+}
+
+.german-bingo-toast.warning {
+  background: #f43f5e;
+}
+
+.german-bingo-modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(26, 22, 37, 0.97);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  z-index: 200;
+}
+
+.german-bingo-modal h2 {
+  font-size: clamp(22px, 5vw, 28px);
+  margin-bottom: 8px;
+  color: #d2f500;
+}
+
+.german-bingo-modal .score {
+  font-size: clamp(40px, 10vw, 56px);
+  font-weight: 800;
+  margin: 16px 0;
+}
+
+.german-bingo-results {
+  width: 100%;
+  max-width: min(400px, 100%);
+  max-height: min(40vh, 280px);
+  overflow-y: auto;
+  margin: 16px 0;
+  font-size: 14px;
+  list-style: none;
+  padding: 0;
+}
+
+.german-bingo-results li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 12px;
+  margin-bottom: 6px;
+  border-radius: 8px;
+  border-bottom: none;
+}
+
+.german-bingo-results li.result-correct {
+  background: rgba(34, 197, 94, 0.2);
+  border: 1px solid rgba(34, 197, 94, 0.5);
+}
+
+.german-bingo-results li.result-wrong {
+  background: rgba(239, 68, 68, 0.2);
+  border: 1px solid rgba(239, 68, 68, 0.5);
+}
+
+.german-bingo-results .result-badge {
+  font-weight: 800;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.german-bingo-results li.result-correct .result-badge {
+  color: #4ade80;
+}
+
+.german-bingo-results li.result-wrong .result-badge {
+  color: #f87171;
+}
+
+.german-bingo-replay {
+  background: #d2f500;
+  color: #1a1625;
+  border: none;
+  padding: 16px 32px;
+  border-radius: 10px;
+  font-weight: 800;
+  font-size: 14px;
+  cursor: pointer;
+  margin-top: 16px;
+  letter-spacing: 0.04em;
+}
+
+.german-bingo-replay:hover {
+  filter: brightness(1.05);
+}
+
+.german-bingo-loading,
+.german-bingo-error {
+  min-height: 100dvh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  padding: 24px;
+  text-align: center;
+}
+
+.german-bingo-error button,
+.german-bingo-error a {
+  background: #d2f500;
+  color: #1a1625;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-weight: 700;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+/* Desktop : zone de jeu un peu plus large */
+@media (min-width: 768px) {
+  .german-bingo-inner {
+    max-width: 560px;
+  }
+
+  .german-bingo-grid {
+    max-height: min(65vh, 560px);
+  }
+}

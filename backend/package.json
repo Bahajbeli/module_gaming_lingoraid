@@ -1,0 +1,55 @@
+{
+  "name": "lingoraid-backend",
+  "version": "1.0.0",
+  "description": "API LingoRaid (auth + jeux)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "init-db": "node scripts/init-db.js",
+    "ensure-users": "node scripts/ensure-users.js",
+    "db:migrate": "npx prisma migrate dev",
+    "db:generate": "npx prisma generate",
+    "db:seed": "node prisma/seed.js",
+    "fix:croswords": "node scripts/fix-croswords-json.js",
+    "seed:crosswords": "node scripts/fix-croswords-json.js && node scripts/seed-crosswords-progressive.js",
+    "seed:crosswords:clear": "node scripts/fix-croswords-json.js && node scripts/seed-crosswords-progressive.js --clear",
+    "seed:creativity": "node scripts/seed-creativity-progressive.js --no-ai",
+    "seed:creativity:clear": "node scripts/seed-creativity-progressive.js --clear --no-ai",
+    "cloudinary:ping": "node scripts/cloudinary-ping.js",
+    "seed:creativity:test": "node scripts/seed-creativity-progressive.js --count 5 --dry-run",
+    "seed:creativity:500": "node scripts/seed-creativity-levels-500.js",
+    "seed:creativity:500:test": "node scripts/seed-creativity-levels-500.js --count 10",
+    "migrate": "npx prisma migrate dev",
+    "generate": "npx prisma generate",
+    "studio": "npx prisma studio"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@prisma/client": "^5.7.0",
+    "axios": "^1.13.2",
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^2.10.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "form-data": "^4.0.0",
+    "google-auth-library": "^10.3.0",
+    "helmet": "^8.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^1.4.5-lts.1",
+    "node-fetch": "^3.3.2",
+    "pg": "^8.21.0",
+    "prisma": "^5.7.0",
+    "resend": "^6.12.4",
+    "socket.io": "^4.7.4",
+    "youtube-dl-exec": "^3.1.7",
+    "zod": "^4.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "LingoRaid",
+    "slug": "lingoraid-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#4f46e5"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.lingoraid.mobile"
+    },
+    "android": {
+      "package": "com.lingoraid.mobile",
+      "usesCleartextTraffic": true
+    },
+    "extra": {
+      "apiUrl": "http://localhost:5000"
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}

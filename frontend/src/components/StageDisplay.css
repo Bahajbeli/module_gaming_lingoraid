@@ -1,0 +1,335 @@
+.stage-display-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  animation: fadeIn 0.3s ease;
+}
+
+.stage-display-modal {
+  background: white;
+  border-radius: 15px;
+  width: 90%;
+  max-width: 800px;
+  max-height: 90vh;
+  overflow: hidden;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+  animation: slideIn 0.3s ease;
+}
+
+.stage-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 25px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+}
+
+.stage-info h2 {
+  margin: 0;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.stage-title {
+  margin: 5px 0 0 0;
+  font-size: 16px;
+  opacity: 0.9;
+}
+
+.close-button {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 28px;
+  cursor: pointer;
+  padding: 0;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: background-color 0.3s ease;
+}
+
+.close-button:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.progress-bar {
+  position: relative;
+  height: 8px;
+  background: #f0f0f0;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #27ae60, #2ecc71);
+  transition: width 0.3s ease;
+}
+
+.progress-text {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 12px;
+  color: #666;
+  font-weight: 500;
+}
+
+.stage-content {
+  padding: 30px;
+  max-height: 60vh;
+  overflow-y: auto;
+}
+
+.step-content {
+  text-align: center;
+}
+
+.instruction-step,
+.question-step,
+.interactive-step,
+.video-step {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.instruction-icon,
+.question-icon,
+.interactive-icon,
+.video-icon {
+  font-size: 48px;
+  margin-bottom: 10px;
+}
+
+.step-content h3 {
+  margin: 0;
+  font-size: 22px;
+  color: #2c3e50;
+  font-weight: 600;
+}
+
+.step-content p {
+  margin: 0;
+  font-size: 16px;
+  color: #555;
+  line-height: 1.6;
+  max-width: 600px;
+}
+
+.answer-input {
+  width: 100%;
+  max-width: 400px;
+  padding: 12px 16px;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  font-size: 16px;
+  transition: border-color 0.3s ease;
+}
+
+.answer-input:focus {
+  outline: none;
+  border-color: #667eea;
+}
+
+.submit-button {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.submit-button:hover {
+  transform: translateY(-2px);
+}
+
+.hint {
+  background: #fff3cd;
+  border: 1px solid #ffeaa7;
+  border-radius: 8px;
+  padding: 12px 16px;
+  color: #856404;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.video-container {
+  width: 100%;
+  max-width: 600px;
+  aspect-ratio: 16/9;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.video-container iframe {
+  width: 100%;
+  height: 100%;
+}
+
+.interactive-content {
+  width: 100%;
+  max-width: 600px;
+  min-height: 200px;
+  border: 2px dashed #ddd;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f8f9fa;
+}
+
+.stage-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 25px;
+  background: #f8f9fa;
+  border-top: 1px solid #e9ecef;
+}
+
+.action-button {
+  background: #6c757d;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.action-button:hover:not(:disabled) {
+  background: #5a6268;
+  transform: translateY(-1px);
+}
+
+.action-button:disabled {
+  background: #adb5bd;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.action-button.next {
+  background: #28a745;
+}
+
+.action-button.next:hover:not(:disabled) {
+  background: #218838;
+}
+
+.stage-status {
+  text-align: center;
+  font-size: 14px;
+  color: #6c757d;
+}
+
+.completed-status {
+  color: #28a745;
+  font-weight: 600;
+}
+
+.progress-status {
+  color: #6c757d;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateY(-50px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .stage-display-modal {
+    width: 95%;
+    margin: 10px;
+  }
+  
+  .stage-header {
+    padding: 15px 20px;
+  }
+  
+  .stage-info h2 {
+    font-size: 20px;
+  }
+  
+  .stage-title {
+    font-size: 14px;
+  }
+  
+  .stage-content {
+    padding: 20px;
+  }
+  
+  .step-content h3 {
+    font-size: 18px;
+  }
+  
+  .step-content p {
+    font-size: 14px;
+  }
+  
+  .stage-actions {
+    padding: 15px 20px;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .action-button {
+    width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .stage-display-modal {
+    width: 100%;
+    height: 100%;
+    border-radius: 0;
+    margin: 0;
+  }
+  
+  .stage-content {
+    max-height: 50vh;
+  }
+  
+  .instruction-icon,
+  .question-icon,
+  .interactive-icon,
+  .video-icon {
+    font-size: 36px;
+  }
+}

@@ -1,0 +1,283 @@
+/**
+ * Fix mojibake (UTF-8 read as Latin-1) and replace French UI strings with English.
+ * Run: node scripts/localize-en.js
+ */
+const fs = require('fs');
+const path = require('path');
+
+const SRC = path.join(__dirname, '..', 'src');
+
+const REPLACEMENTS = [
+  // Mojibake sequences (longest first)
+  ['CrÃ©ativitÃ©', 'Creativity'],
+  ['CrÃ©ativitÃ', 'Creativity'],
+  ['Mots CroisÃ©s', 'Crosswords'],
+  ['mots croisÃ©s', 'crosswords'],
+  ['rÃ©elles', 'real'],
+  ['rÃ©cupÃ©ration', 'loading'],
+  ['terminÃ©s', 'completed'],
+  ['terminÃ©', 'completed'],
+  ['dÃ©bloquÃ©s', 'unlocked'],
+  ['dÃ©bloquÃ©', 'unlocked'],
+  ['gagnÃ©s', 'earned'],
+  ['MaÃ®trisez', 'Master'],
+  ['EntraÃ®nez', 'Train'],
+  ['Retour Ã  l\'accueil', 'Back to home'],
+  ['Retour Ã l\'accueil', 'Back to home'],
+  ['Ã©tapes', 'steps'],
+  ['VerrouillÃ©', 'Locked'],
+  ['verrouillÃ©', 'locked'],
+  ['CrÃ©ez', 'Create'],
+  ['crÃ©ation', 'creation'],
+  ['crÃ©er', 'create'],
+  ['En-tÃªte', 'Header'],
+  ['DÃ©corations', 'Decorations'],
+  ['arriÃ¨re-plan', 'background'],
+  ['animÃ©es', 'animated'],
+  ['DonnÃ©es', 'Data'],
+  ['dÃ©monstration', 'demo'],
+  ['dÃ©marrage', 'start'],
+  ['DÃ©marrer', 'Start'],
+  ['dÃ©fis', 'challenges'],
+  ['RafraÃ®chir', 'Refresh'],
+  ['bientÃ´t', 'soon'],
+  ['CÅ“urs', 'Hearts'],
+  ['cÅ“ur', 'heart'],
+  ['cÅ“urs', 'hearts'],
+  ['DÃ©tection', 'Detection'],
+  ['rÃ©gÃ©nÃ©ration', 'regeneration'],
+  ['dÃ©jÃ ', 'already'],
+  ['dÃ©jÃ', 'already'],
+  ['Ã©coulÃ©', 'elapsed'],
+  ['Temps Ã©coulÃ©', 'Time elapsed'],
+  ['â† ', ''],
+  ['â€"', '—'],
+  ['â€¢', '•'],
+  ['âœ…', ''],
+  ['âœ¨', ''],
+  ['ðŸŽ¯', ''],
+  ['ðŸŽ­', ''],
+  ['ðŸ”¤', ''],
+  ['ðŸŒ', ''],
+  ['ðŸ’¡', ''],
+  ['Ã—', '×'],
+  ['Ã¨', 'e'],
+  ['Ã©', 'e'],
+  ['Ã ', 'a'],
+  ['Ã¢', 'a'],
+  ['Ã®', 'i'],
+  ['Ã´', 'o'],
+  ['Ã»', 'u'],
+
+  // French UI → English (phrases before words)
+  ['Choisissez votre type de jeu', 'Choose your game type'],
+  ['Choisissez votre mode de jeu', 'Choose your game mode'],
+  ['Simulations Conversationnelles', 'Conversation Simulations'],
+  ['Simulation conversationnelle avec IA', 'AI conversation simulation'],
+  ['Choisissez une simulation pour commencer', 'Pick a simulation to start'],
+  ['Commencer la conversation', 'Start conversation'],
+  ['Retour aux simulations', 'Back to simulations'],
+  ['Retour aux jeux', 'Back to games'],
+  ['Retour aux modes', 'Back to modes'],
+  ['Chargement des jeux...', 'Loading games...'],
+  ['Chargement des simulations...', 'Loading simulations...'],
+  ['Erreur lors du chargement des jeux', 'Error loading games'],
+  ['Erreur lors du chargement des simulations', 'Error loading simulations'],
+  ['Erreur lors du démarrage du jeu', 'Error starting game'],
+  ['Erreur lors du chargement du jeu', 'Error loading game'],
+  ['Erreur lors de la communication avec l\'IA', 'Error communicating with AI'],
+  ['Erreur lors du démarrage de la conversation', 'Error starting conversation'],
+  ['Erreur lors de la finalisation du jeu', 'Error finishing game'],
+  ['Erreur lors du traitement vocal', 'Error processing voice'],
+  ['Jeu verrouillé', 'Game locked'],
+  ['Jeu terminé avec un score de', 'Game finished with score'],
+  ['Affrontez des défis solo ou rejoignez la communauté', 'Take on solo challenges or join the community'],
+  ['Jouez avec d\'autres apprenants', 'Play with other learners'],
+  ['Entraînez-vous en solo', 'Practice on your own'],
+  ['Créez une salle ou rejoignez-en une', 'Create a room or join one'],
+  ['Testez vos connaissances avec des questions', 'Test your knowledge with questions'],
+  ['Résolvez des mots croisés en allemand', 'Solve German crosswords'],
+  ['Créez des phrases et des histoires', 'Create sentences and stories'],
+  ['Simulez des conversations réelles', 'Practice real conversations'],
+  ['Simulez des conversations rÃ©elles', 'Practice real conversations'],
+  ['YouTube : écoutez, répétez, quiz IA', 'YouTube: listen, repeat, AI quiz'],
+  ['Total des jeux', 'Total games'],
+  ['Jeux débloqués', 'Unlocked games'],
+  ['Jeux terminés', 'Completed games'],
+  ['Score moyen', 'Average score'],
+  ['Score final :', 'Final score:'],
+  ['Entrez votre score', 'Enter your score'],
+  ['Valider le score', 'Submit score'],
+  ['Terminer le jeu', 'Finish game'],
+  ['Maîtrisez l\'allemand par le jeu et l\'aventure', 'Master German through play and adventure'],
+  ['Streak gaming', 'Gaming streak'],
+  ['jours', 'days'],
+  ['Niveau ', 'Level '],
+  ['Badges gagnés', 'Badges earned'],
+  ['Mode En Ligne', 'Online Mode'],
+  ['Mode Solo', 'Solo Mode'],
+  ['Deutsch Bingo', 'Deutsch Bingo'],
+  ['Classez le vocabulaire allemand sur une grille', 'Sort German vocabulary on a grid'],
+  ['Associer les libellés à l\'image', 'Match labels to the image'],
+  ['Grille à compléter en allemand', 'German crossword grid'],
+  ['Classer les mots sur la grille', 'Sort words on the grid'],
+  ['Créativité', 'Creativity'],
+  ['Mots croisés', 'Crosswords'],
+  ['Mots Croisés', 'Crosswords'],
+  ['Simulation', 'Simulation'],
+  ['Shadowing', 'Shadowing'],
+  ['Quiz', 'Quiz'],
+  ['Termine', 'Completed'],
+  ['En cours', 'In progress'],
+  ['Disponible', 'Available'],
+  ['Verrouille', 'Locked'],
+  ['Rejouer', 'Play again'],
+  ['Continuer', 'Continue'],
+  ['Jouer', 'Play'],
+  ['Progression', 'Progress'],
+  ['points', 'points'],
+  ['Accueil', 'Home'],
+  ['Se déconnecter', 'Sign out'],
+  ['Connexion', 'Sign in'],
+  ['Chargement...', 'Loading...'],
+  ['Chargement', 'Loading'],
+  ['Retour', 'Back'],
+  ['Erreur', 'Error'],
+  ['Instructions', 'Instructions'],
+  ['Conversation', 'Conversation'],
+  ['Terminer', 'Finish'],
+  ['Aucune image', 'No image'],
+  ['Thème de conversation:', 'Conversation topic:'],
+  ['Thème:', 'Topic:'],
+  ['Contexte visuel', 'Visual context'],
+  ['Facile', 'Easy'],
+  ['Moyen', 'Medium'],
+  ['Difficile', 'Hard'],
+  ['Activer le microphone', 'Enable microphone'],
+  ['Cliquer pour parler', 'Click to speak'],
+  ['Arrêter et envoyer', 'Stop and send'],
+  ['Arrêter la lecture IA', 'Stop AI playback'],
+  ['Réécouter', 'Replay'],
+  ['Tapez votre message en allemand...', 'Type your message in German...'],
+  ['L\'IA réfléchit...', 'AI is thinking...'],
+  ['Parlez ou tapez vos messages en allemand dans le chat à droite.', 'Speak or type in German in the chat on the right.'],
+  ['Règles du jeu :', 'Game rules:'],
+  ['Parlez ou tapez en allemand', 'Speak or type in German'],
+  ['Restez sur le thème choisi', 'Stay on topic'],
+  ['L\'IA répond en allemand (voix ou texte)', 'AI replies in German (voice or text)'],
+  ['Texte = 10 pts · Vocal = 15 pts', 'Text = 10 pts · Voice = 15 pts'],
+  ['Écoute en cours… parlez en allemand, puis cliquez « Arrêter et envoyer ».', 'Listening… speak in German, then click Stop and send.'],
+  ['Micro actif — cliquez pour enregistrer votre message.', 'Mic active — click to record your message.'],
+  ['Transcription et réponse IA en cours…', 'Transcribing and generating AI reply…'],
+  ['ou texte', 'or text'],
+  ['Simulation Terminée !', 'Simulation complete!'],
+  ['Félicitations ! Vous avez terminé la simulation conversationnelle.', 'Congratulations! You finished the conversation simulation.'],
+  ['Score final :', 'Final score:'],
+  ['Connectez-vous ou attendez la régénération de vos cœurs (24 h par cœur).', 'Sign in or wait for heart regeneration (24h per heart).'],
+  ['Plus de cœurs disponibles. Revenez dans 24 h.', 'No hearts left. Come back in 24 hours.'],
+  ['Plus de cœurs. Prochain cœur dans', 'No hearts left. Next heart in'],
+  ['Créer un compte gratuit', 'Create a free account'],
+  ['Se connecter', 'Sign in'],
+  ['Resolvez des crosswords en allemand', 'Solve German crosswords'],
+  ['Create des phrases et des histoires', 'Create sentences and stories'],
+  ['Simulez des conversations real', 'Practice real conversations'],
+  [' Creer une salle', 'Create a room'],
+  [' Rejoindre une salle', 'Join a room'],
+  ['Creer une nouvelle salle', 'Create a new room'],
+  ['Nom de la salle', 'Room name'],
+  ['Ma salle de conversation', 'My conversation room'],
+  ['Mode au hasard', 'Random mode'],
+  ['Un jeu différent à chaque tour', 'A different game each round'],
+  ['Type de jeu', 'Game type'],
+  ['Aucune salle disponible pour le moment', 'No rooms available right now'],
+  ['Soyez le premier Ã  create une salle et commencez Ã  pratiquer avec d\'autres apprenants !', 'Be the first to create a room and practice with other learners!'],
+  ['Soyez le premier à create une salle', 'Be the first to create a room'],
+  [' Creer une salle', 'Create a room'],
+  ['Hote:', 'Host:'],
+  ['ðŸ\'¤ Hote:', 'Host:'],
+  ['joueurs', 'players'],
+  ['Partie en ligne', 'Online match'],
+  ['tours', 'rounds'],
+  ['Rejoindre', 'Join'],
+  ['Error lors du chargement des salles', 'Error loading rooms'],
+  ['Error lors de la creation de la salle', 'Error creating room'],
+  ['Error lors de la jointure', 'Error joining room'],
+  ['der / die / das', 'der / die / das'],
+  ['Quiz Articles', 'Article Quiz'],
+  ['Classez le vocabulaire allemand sur une grille 3×3', 'Sort German vocabulary on a 3×3 grid'],
+  ['Classez le vocabulaire allemand sur une grille', 'Sort German vocabulary on a grid'],
+  ['JOUER', 'PLAY'],
+  ['Master l\'allemand par le jeu et l\'aventure', 'Master German through play and adventure'],
+  ['1/0 steps', '1/0 steps'],
+  [' et des histoires', ' and stories'],
+  ['Error lors de la loading', 'Error loading'],
+  ['Error lors du', 'Error while'],
+  ['Apprenez l\'allemand en jouant', 'Learn German by playing'],
+  ['Jouez et apprenez en vous amusant', 'Play and learn while having fun'],
+  ['Quiz, mots croisés, bingo…', 'Quiz, crosswords, bingo…'],
+  ['Vidéos YouTube + transcription Whisper', 'YouTube videos + Whisper transcription'],
+  ['Répétition + quiz IA', 'Repeat + AI quiz'],
+  ['Quiz & défis', 'Quizzes & challenges'],
+  ['Solo & multijoueur', 'Solo & multiplayer'],
+  ['Commencer', 'Start'],
+  ['Explorateur', 'Explorer'],
+  ['Bienvenue', 'Welcome'],
+  ['Veuillez', 'Please'],
+  ['Impossible de', 'Unable to'],
+  ['Mot de passe', 'Password'],
+  ['Prénom', 'First name'],
+  ['Région', 'Region'],
+  ['Inscription', 'Sign up'],
+  ['Déjà un compte', 'Already have an account'],
+  ['Pas encore de compte', 'No account yet'],
+  ['privée', 'private'],
+  ['publique', 'public'],
+  ['Salon', 'Lobby'],
+  ['Prêt', 'Ready'],
+  ['En attente', 'Waiting'],
+  ['Démarrer', 'Start'],
+  ['Quitter', 'Leave'],
+  ['Invité', 'Guest'],
+  ['Hôte', 'Host'],
+];
+
+function walk(dir, files = []) {
+  for (const name of fs.readdirSync(dir)) {
+    const p = path.join(dir, name);
+    if (fs.statSync(p).isDirectory()) walk(p, files);
+    else if (/\.(js|jsx|html)$/.test(name)) files.push(p);
+  }
+  return files;
+}
+
+let totalFiles = 0;
+let totalChanges = 0;
+
+for (const file of walk(SRC)) {
+  if (file.includes('locales' + path.sep)) continue;
+  let content = fs.readFileSync(file, 'utf8');
+  const original = content;
+  for (const [from, to] of REPLACEMENTS) {
+    if (content.includes(from)) {
+      content = content.split(from).join(to);
+    }
+  }
+  if (content !== original) {
+    fs.writeFileSync(file, content, 'utf8');
+    totalFiles++;
+    totalChanges++;
+  }
+}
+
+// public/index.html
+const indexHtml = path.join(__dirname, '..', 'public', 'index.html');
+if (fs.existsSync(indexHtml)) {
+  let html = fs.readFileSync(indexHtml, 'utf8');
+  html = html.replace(/lang="[^"]*"/, 'lang="en"');
+  if (!html.includes('lang="en"')) {
+    html = html.replace('<html', '<html lang="en"');
+  }
+  fs.writeFileSync(indexHtml, html, 'utf8');
+}
+
+console.log(`Updated ${totalFiles} files under src/`);

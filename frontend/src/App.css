@@ -1,0 +1,203 @@
+/* Styles de base pour l'application Deutsche Lernen */
+
+/* Variables CSS personnalisées */
+:root {
+  --german-50: #f0f9ff;
+  --german-100: #e0f2fe;
+  --german-200: #bae6fd;
+  --german-300: #7dd3fc;
+  --german-400: #38bdf8;
+  --german-500: #0ea5e9;
+  --german-600: #0284c7;
+  --german-700: #0369a1;
+  --german-800: #075985;
+  --german-900: #0c4a6e;
+}
+
+/* Styles globaux */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--german-50);
+}
+
+/* Jeu Deutsch Bingo plein écran */
+.App--immersive {
+  min-height: 100dvh;
+  background: #1a1625;
+}
+
+.App--immersive body,
+.App--immersive {
+  overflow-x: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Classes utilitaires */
+.german-50 { background-color: var(--german-50); }
+.german-100 { background-color: var(--german-100); }
+.german-200 { background-color: var(--german-200); }
+.german-300 { background-color: var(--german-300); }
+.german-400 { background-color: var(--german-400); }
+.german-500 { background-color: var(--german-500); }
+.german-600 { background-color: var(--german-600); }
+.german-700 { background-color: var(--german-700); }
+.german-800 { background-color: var(--german-800); }
+.german-900 { background-color: var(--german-900); }
+
+/* Animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in-up {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+/* Transitions */
+.transition-all {
+  transition: all 0.3s ease;
+}
+
+.transition-colors {
+  transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
+}
+
+.transition-transform {
+  transition: transform 0.3s ease;
+}
+
+/* Boutons */
+.btn-primary {
+  @apply bg-german-600 text-white px-4 py-2 rounded-lg hover:bg-german-700 transition-colors;
+}
+
+.btn-secondary {
+  @apply bg-gray-200 text-gray-800 px-4 py-2 rounded-lg hover:bg-gray-300 transition-colors;
+}
+
+/* Formulaires */
+.form-input {
+  @apply w-full p-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-german-500 focus:border-transparent;
+}
+
+.form-select {
+  @apply w-full p-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-german-500 focus:border-transparent;
+}
+
+.form-textarea {
+  @apply w-full p-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-german-500 focus:border-transparent;
+}
+
+/* Cartes */
+.card {
+  @apply bg-white rounded-lg shadow-md p-6;
+}
+
+.card-hover {
+  @apply bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow;
+}
+
+/* Navigation */
+.nav-link {
+  @apply text-gray-600 hover:text-german-600 transition-colors;
+}
+
+.nav-link-active {
+  @apply text-german-600 font-medium;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+/* Scrollbar personnalisée */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--german-400);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--german-500);
+}
+
+/* Focus visible pour l'accessibilité */
+*:focus-visible {
+  outline: 2px solid var(--german-500);
+  outline-offset: 2px;
+}
+
+/* États de chargement */
+.loading {
+  @apply animate-pulse bg-gray-200;
+}
+
+.loading-text {
+  @apply animate-pulse bg-gray-200 h-4 rounded;
+}
+
+/* Messages d'erreur et de succès */
+.error-message {
+  @apply bg-red-50 border border-red-200 text-red-700 px-4 py-3 rounded-lg;
+}
+
+.success-message {
+  @apply bg-green-50 border border-green-200 text-green-700 px-4 py-3 rounded-lg;
+}
+
+.info-message {
+  @apply bg-blue-50 border border-blue-200 text-blue-700 px-4 py-3 rounded-lg;
+}
+
+/* Badges et étiquettes */
+.badge {
+  @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium;
+}
+
+.badge-primary {
+  @apply bg-german-100 text-german-800;
+}
+
+.badge-success {
+  @apply bg-green-100 text-green-800;
+}
+
+.badge-warning {
+  @apply bg-yellow-100 text-yellow-800;
+}
+
+.badge-error {
+  @apply bg-red-100 text-red-800;
+}

@@ -1,0 +1,22 @@
+{
+  "name": "lingoraid",
+  "version": "1.0.0",
+  "description": "LingoRaid — landing, login et jeux",
+  "main": "backend/index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run backend:dev\" \"npm run frontend:dev\"",
+    "backend:dev": "cd backend && npm run dev",
+    "frontend:dev": "cd frontend && npm start",
+    "mobile:dev": "cd frontmobile && npm start",
+    "mobile:install": "cd frontmobile && npm install",
+    "build": "cd frontend && npm run build",
+    "start": "cd backend && npm start",
+    "db:generate": "cd backend && npm run db:generate",
+    "db:migrate": "cd backend && npm run db:migrate",
+    "db:seed": "cd backend && npm run db:seed"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

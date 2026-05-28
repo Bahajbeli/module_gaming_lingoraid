@@ -26,9 +26,9 @@ const CreativityRoadMap = () => {
   });
 
   // Charger les jeux depuis l'API
-  // eslint-disable-next-line react-hooks/exhaustive-deps
   useEffect(() => {
     fetchGames();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [gameType]);
 
   const fetchGames = async () => {

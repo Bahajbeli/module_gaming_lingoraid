@@ -355,6 +355,7 @@ const CrosswordRunner = ({ onComplete, itemId, timerSeconds }) => {
         onComplete?.(Math.round((ok / total) * 100), timeTaken);
       }
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [grid, targets, timerSeconds, allFilled, isCorrect, timeTaken, onComplete]);
 
   useEffect(() => {

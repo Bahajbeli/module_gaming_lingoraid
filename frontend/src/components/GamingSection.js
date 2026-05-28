@@ -4,16 +4,12 @@ import {
   ArrowLeft,
   Play,
   Lock,
-  Unlock,
   Trophy,
   Users,
   User,
   Gamepad2,
   Plus,
-  Zap,
   Target,
-  Award,
-  Flame,
   MessageCircle,
   Puzzle,
   Sparkles,
@@ -34,6 +30,7 @@ const SOLO_GAME_META = {
 const GamingSection = () => {
   const navigate = useNavigate();
   const [games, setGames] = useState({});
+  // eslint-disable-next-line no-unused-vars
   const [gameProgress, setGameProgress] = useState({});
   const [loading, setLoading] = useState(true);
   const [selectedMode, setSelectedMode] = useState(null);
@@ -255,6 +252,8 @@ const GamingSection = () => {
 };
 
 // Composant carte de statistique
+// Composant carte de statistique
+/*
 const StatCard = ({ title, value, icon: Icon, color, suffix = "" }) => (
   <motion.div 
     whileHover={{ scale: 1.02, y: -2 }}
@@ -275,6 +274,7 @@ const StatCard = ({ title, value, icon: Icon, color, suffix = "" }) => (
     </p>
   </motion.div>
 );
+*/
 
 // Composant carte de mode
 const ModeCard = ({ mode, title, description, icon: Icon, color, onClick }) => (

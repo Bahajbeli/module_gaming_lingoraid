@@ -111,6 +111,7 @@ const CreativityRunner = ({ onComplete, itemId }) => {
     setLines(result);
   };
 
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   useEffect(() => { recalcLines(); }, [assign, cfg]);
   useEffect(() => {
     const onResize = () => {
@@ -123,6 +124,7 @@ const CreativityRunner = ({ onComplete, itemId }) => {
     };
     window.addEventListener('resize', onResize);
     return () => window.removeEventListener('resize', onResize);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const onImageLoad = () => {
@@ -137,6 +139,7 @@ const CreativityRunner = ({ onComplete, itemId }) => {
   if (error) return <div className="p-6 text-center text-red-600">{error}</div>;
   if (!cfg) return null;
 
+  // eslint-disable-next-line no-unused-vars
   const mid = Math.ceil(labels.length / 2);
 
   return (

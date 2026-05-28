@@ -68,6 +68,7 @@ const OnlineGameLobby = () => {
       }
       cleanupWebRTC();
     };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [roomId, user]);
 
   const fetchRoomDetails = async () => {

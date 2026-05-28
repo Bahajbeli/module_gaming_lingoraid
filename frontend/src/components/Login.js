@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { useAuth } from '../contexts/AuthContext';
-import { BookOpen, Eye, EyeOff, Shield, User, UserPlus, Check, X } from 'lucide-react';
+import { BookOpen, Eye, EyeOff, Shield, UserPlus, Check, X } from 'lucide-react';
 import { motion } from 'framer-motion';
 import { WORLD_REGIONS } from '../constants/worldRegions';
 
@@ -181,6 +181,7 @@ const Login = () => {
     }
   };
 
+  // eslint-disable-next-line no-unused-vars
   const fillDemo = (demoEmail, demoPassword) => {
     setEmail(demoEmail);
     setPassword(demoPassword);

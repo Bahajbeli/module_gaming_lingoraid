@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Link, useNavigate, useLocation } from 'react-router-dom';
 import { useAuth } from '../contexts/AuthContext';
-import { BookOpen, Menu, X, User, LogOut, Settings, Home, Gamepad2, Tv, BarChart3, Shield } from 'lucide-react';
+import { Menu, X, User, LogOut, Settings, Home, Gamepad2, Shield } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 // Logo : placer lingo.png dans frontend/public
 
@@ -23,7 +23,7 @@ const Navbar = () => {
       const to = setTimeout(() => setToast(null), 3500);
       return () => clearTimeout(to);
     }
-  }, [location]);
+  }, [location, navigate]);
 
   const handleLogout = () => {
     logout();

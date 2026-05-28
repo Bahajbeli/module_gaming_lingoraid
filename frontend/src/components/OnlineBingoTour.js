@@ -28,6 +28,8 @@ const OnlineBingoTour = ({ payload, onComplete }) => {
     // Wait, endGame is a dependency. It's better to use an effect when gameOver changes.
   }, [gameOver]);
 
+  const score = gameResults.filter((r) => r.isCorrect).length;
+
   useEffect(() => {
     if (gameOver) {
       const isPerfect = score >= gridClasses.length;
@@ -59,8 +61,6 @@ const OnlineBingoTour = ({ payload, onComplete }) => {
     acc[r.classId] = r;
     return acc;
   }, {});
-
-  const score = gameResults.filter((r) => r.isCorrect).length;
   const scorePercent = gridClasses.length
     ? Math.round((score / gridClasses.length) * 100)
     : 0;

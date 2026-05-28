@@ -3,7 +3,7 @@ import axios from 'axios';
 // En dev CRA : proxy package.json → localhost:5000. Sinon REACT_APP_API_URL ou :5000.
 const API_BASE =
   process.env.REACT_APP_API_URL ||
-  (process.env.NODE_ENV === 'production' ? 'http://localhost:5000' : '');
+  (process.env.NODE_ENV === 'production' ? 'https://backend-u6jh.onrender.com' : '');
 
 // Configuration de base d'axios
 const api = axios.create({
@@ -75,7 +75,7 @@ api.interceptors.response.use(
 // Fonction utilitaire pour construire les URLs des assets
 const UPLOADS_BASE =
   process.env.REACT_APP_API_URL ||
-  (process.env.NODE_ENV === 'production' ? 'http://localhost:5000' : '');
+  (process.env.NODE_ENV === 'production' ? 'https://backend-u6jh.onrender.com' : '');
 
 export const getAssetUrl = (url) => {
   if (!url) return '';

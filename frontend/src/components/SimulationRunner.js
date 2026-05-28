@@ -641,7 +641,7 @@ const SimulationRunner = () => {
                     <div className="h-48 bg-gray-200 flex items-center justify-center">
                       {metadata.imagePath ? (
                         <img
-                          src={`http://localhost:5000${metadata.imagePath}`}
+                          src={`https://backend-u6jh.onrender.com${metadata.imagePath}`}
                           alt={simulation.title}
                           className="w-full h-full object-cover"
                         />
@@ -859,7 +859,7 @@ const SimulationRunner = () => {
               <h3 className="text-lg font-semibold text-german-800 mb-4">Visual context</h3>
               {metadata.imagePath ? (
                 <img
-                  src={`http://localhost:5000${metadata.imagePath}`}
+                  src={`https://backend-u6jh.onrender.com${metadata.imagePath}`}
                   alt={selectedSimulation.title}
                   className="w-full h-64 object-cover rounded-lg shadow-md"
                 />

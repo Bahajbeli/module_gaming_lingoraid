@@ -47,16 +47,16 @@ const CourseForm = () => {
         // include persisted videoUrl (YouTube link or uploaded path)
         videoUrl: courseData.videoUrl || ''
       });
-      setImagePreview(courseData.imagePath ? `http://localhost:5000${courseData.imagePath}` : null);
+      setImagePreview(courseData.imagePath ? `https://backend-u6jh.onrender.com${courseData.imagePath}` : null);
       // Ensure video preview points to backend when stored as an uploaded file
       const isAbsoluteUrl = (url) => typeof url === 'string' && /^(https?:)?\/\//i.test(url);
       let videoUrl = courseData.videoUrl || null;
       if (videoUrl && !isAbsoluteUrl(videoUrl)) {
         // If backend stored relative path like /uploads/xxx.mp4, prefix with server origin
-        videoUrl = `http://localhost:5000${videoUrl}`;
+        videoUrl = `https://backend-u6jh.onrender.com${videoUrl}`;
       }
       setVideoPreview(videoUrl);
-      setPdfPreview(courseData.pdfPath ? `http://localhost:5000${courseData.pdfPath}` : null);
+      setPdfPreview(courseData.pdfPath ? `https://backend-u6jh.onrender.com${courseData.pdfPath}` : null);
     } catch (error) {
       console.error('Error lors de la récupération du cours:', error);
       setError('Error while chargement du cours');

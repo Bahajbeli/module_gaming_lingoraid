@@ -120,7 +120,7 @@ const OnlineGameLobby = () => {
 
   const initializeSocket = () => {
     const newSocket = io(
-      process.env.REACT_APP_SERVER_URL || "http://localhost:5000",
+      process.env.REACT_APP_SERVER_URL || "https://backend-u6jh.onrender.com",
       {
         auth: { token },
       }
@@ -242,7 +242,7 @@ const OnlineGameLobby = () => {
       console.log('Received voice message via relay:', messageId);
       try {
         // Play le message audio reçu
-        const audio = new Audio(`http://localhost:5000${audioUrl}`);
+        const audio = new Audio(`https://backend-u6jh.onrender.com${audioUrl}`);
         audio.play().then(() => {
           console.log('Playing relayed voice message');
         }).catch(e => {

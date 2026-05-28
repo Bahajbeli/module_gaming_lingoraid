@@ -112,7 +112,7 @@ const AdminSimulationManager = () => {
       try {
         const metadata = JSON.parse(simulation.metadata);
         if (metadata.imagePath) {
-          setImagePreview(`http://localhost:5000${metadata.imagePath}`);
+          setImagePreview(`https://backend-u6jh.onrender.com${metadata.imagePath}`);
         }
       } catch (e) {
         console.error('Error parsing metadata:', e);
@@ -372,7 +372,7 @@ const AdminSimulationManager = () => {
                 <div className="h-48 bg-gray-200 flex items-center justify-center">
                   {metadata.imagePath ? (
                     <img
-                      src={`http://localhost:5000${metadata.imagePath}`}
+                      src={`https://backend-u6jh.onrender.com${metadata.imagePath}`}
                       alt={simulation.title}
                       className="w-full h-full object-cover"
                     />

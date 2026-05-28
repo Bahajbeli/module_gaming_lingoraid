@@ -42,7 +42,7 @@ const Profile = () => {
 
     try {
       const token = localStorage.getItem('token');
-      const response = await fetch('http://localhost:5000/api/profile', {
+      const response = await fetch('https://backend-u6jh.onrender.com/api/profile', {
         method: 'PUT',
         headers: {
           'Content-Type': 'application/json',
@@ -86,7 +86,7 @@ const Profile = () => {
 
     try {
       const token = localStorage.getItem('token');
-      const response = await fetch('http://localhost:5000/api/profile/password', {
+      const response = await fetch('https://backend-u6jh.onrender.com/api/profile/password', {
         method: 'PUT',
         headers: {
           'Content-Type': 'application/json',

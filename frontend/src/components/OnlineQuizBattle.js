@@ -41,7 +41,7 @@ const OnlineQuizBattle = () => {
   useEffect(() => {
     if (!token || !roomId) return undefined;
 
-    const socket = io(process.env.REACT_APP_SERVER_URL || 'http://localhost:5000', {
+    const socket = io(process.env.REACT_APP_SERVER_URL || 'https://backend-u6jh.onrender.com', {
       auth: { token },
     });
     socketRef.current = socket;

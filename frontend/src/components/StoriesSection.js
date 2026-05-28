@@ -905,7 +905,7 @@ const StoriesSection = () => {
                       } : {}}>
                         <WordByWord content={s} highlighted={i===currentSentence} onTranslate={async (word) => {
                           try {
-                            const res = await fetch('http://localhost:5000/api/translate', {
+                            const res = await fetch('https://backend-u6jh.onrender.com/api/translate', {
                               method: 'POST',
                               headers: { 'Content-Type': 'application/json' },
                               body: JSON.stringify({ q: word, source: 'de', target: 'fr' })

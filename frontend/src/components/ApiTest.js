@@ -14,7 +14,7 @@ const ApiTest = () => {
     try {
       // Test 1: API de santé
       console.log('🧪 Test 1: API de santé...');
-      const healthResponse = await fetch('http://localhost:5000/api/health');
+      const healthResponse = await fetch('https://backend-u6jh.onrender.com/api/health');
       results.push({
         test: 'API de santé',
         status: healthResponse.status,
@@ -33,7 +33,7 @@ const ApiTest = () => {
     try {
       // Test 2: Authentification
       console.log('🧪 Test 2: Authentification...');
-      const loginResponse = await fetch('http://localhost:5000/api/auth/login', {
+      const loginResponse = await fetch('https://backend-u6jh.onrender.com/api/auth/login', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -56,7 +56,7 @@ const ApiTest = () => {
         // Test 3: API des cours avec token
         try {
           console.log('🧪 Test 3: API des cours...');
-          const coursesResponse = await fetch('http://localhost:5000/api/courses/levels', {
+          const coursesResponse = await fetch('https://backend-u6jh.onrender.com/api/courses/levels', {
             headers: {
               'Authorization': `Bearer ${loginData.token}`
             }

@@ -6,7 +6,7 @@ import api from '../utils/axios';
 const CourseList = () => {
   const getAssetUrl = (url) => {
     if (!url) return '';
-    return url.startsWith('/uploads/') ? `http://localhost:5000${url}` : url;
+    return url.startsWith('/uploads/') ? `https://backend-u6jh.onrender.com${url}` : url;
   };
 
   const [courses, setCourses] = useState([]);

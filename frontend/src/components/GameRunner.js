@@ -154,24 +154,23 @@ const GameRunner = () => {
       let nextItemId = null;
       let nextStageNumber = null;
       try {
+        const stage = Number(stageNumber) || 1;
+        
+        // 1. Sauvegarder la progression dans la BD
+        let progressRes = null;
+        try {
+          progressRes = await api.post(`/api/game-progress/${type}/complete`, { stageNumber: stage });
+        } catch (err) {
+          console.error("Error saving progress to DB", err);
+        }
+
+        // 2. Récupérer la liste pour déterminer le prochain jeu
         const endpoint = type === 'creativite' ? '/api/creativity/list' : '/api/crosswords/list';
         const res = await api.get(endpoint);
         const items = Array.isArray(res.data?.items) ? res.data.items : [];
         const total = items.length;
         
-        const key = `roadMapProgress_${type}`;
-        const saved = localStorage.getItem(key);
-        const current = saved ? JSON.parse(saved) : { currentStage: 1, completedStages: [] };
-        const stage = Number(stageNumber) || current.currentStage || 1;
-
-        const completed = new Set(current.completedStages || []);
-        completed.add(stage);
-        const nextStage = Math.min(stage + 1, Math.max(1, total));
-
-        const updated = { currentStage: nextStage, completedStages: Array.from(completed).sort((a,b)=>a-b) };
-        localStorage.setItem(key, JSON.stringify(updated));
-
-        // items are ordered by creation. index = stage - 1. So next item is at index = stage.
+        // Items are ordered by creation. index = stage - 1. So next item is at index = stage.
         if (stage < total && items[stage]) {
            nextItemId = items[stage].id;
            nextStageNumber = stage + 1;

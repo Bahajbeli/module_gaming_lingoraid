@@ -71,34 +71,30 @@ const CreativityRoadMap = () => {
     }
   };
 
-  // Charger la progression depuis le localStorage ou l'état initial
+  // Charger la progression depuis le backend
   useEffect(() => {
-    const savedProgress = localStorage.getItem(`roadMapProgress_${gameType}`);
-    if (savedProgress) {
-      setRoadMapProgress(prev => ({
-        ...prev,
-        [gameType]: JSON.parse(savedProgress)
-      }));
+    const fetchProgress = async () => {
+      try {
+        const response = await api.get(`/api/game-progress/${gameType}`);
+        const { currentStage, completedStages } = response.data;
+        
+        setRoadMapProgress(prev => ({
+          ...prev,
+          [gameType]: {
+            ...prev[gameType],
+            currentStage: currentStage || 1,
+            completedStages: completedStages || []
+          }
+        }));
+      } catch (error) {
+        console.error("Error fetching game progress:", error);
+      }
+    };
+    
+    if (user) {
+      fetchProgress();
     }
-  }, [gameType]);
-
-  // Si aucune progression sauvegardée n'existe encore, initialiser une valeur par défaut
-  useEffect(() => {
-    const key = `roadMapProgress_${gameType}`;
-    const saved = localStorage.getItem(key);
-    if (!saved && games.length > 0) {
-      const initial = { currentStage: 1, completedStages: [] };
-      localStorage.setItem(key, JSON.stringify(initial));
-      setRoadMapProgress(prev => ({ ...prev, [gameType]: initial }));
-    }
-  }, [gameType, games.length]);
-
-  // Sauvegarder la progression dans le localStorage
-  // eslint-disable-next-line no-unused-vars
-  const saveProgress = (newProgress) => {
-    setRoadMapProgress(newProgress);
-    localStorage.setItem(`roadMapProgress_${gameType}`, JSON.stringify(newProgress[gameType]));
-  };
+  }, [gameType, user]);
 
   const handleStageClick = (stageNumber) => {
     console.log(`Stage ${stageNumber} clicked for ${gameType}`);

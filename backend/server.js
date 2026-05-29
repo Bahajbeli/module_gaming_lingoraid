@@ -77,6 +77,7 @@ const translateRoutes = require("./routes/translate");
 const aiQuizRoutes = require("./routes/ai-quiz");
 const progressAnalysisRoutes = require("./routes/progressAnalysis");
 const germanBingoRoutes = require("./routes/german-bingo");
+const gameProgressRoutes = require("./routes/gameProgress");
 
 app.use("/api/auth", authRoutes);
 app.use("/api/courses", courseRoutes);
@@ -95,6 +96,7 @@ app.use("/api/translate", translateRoutes);
 app.use("/api/ai-quiz", aiQuizRoutes);
 app.use("/api/progress-analysis", progressAnalysisRoutes);
 app.use("/api/german-bingo", germanBingoRoutes);
+app.use("/api/game-progress", gameProgressRoutes);
 
 // Socket.IO pour les salles de jeu
 const { setupGameSocket } = require("./socket/gameSocket");

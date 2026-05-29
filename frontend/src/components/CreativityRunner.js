@@ -177,18 +177,28 @@ const CreativityRunner = ({ onComplete, itemId }) => {
         
         <div className="p-6 flex-1 bg-gray-50/50 flex flex-col">
           <div className="flex flex-col gap-4 flex-1 content-start justify-center">
-            {labels.map((t, i) => (
-              <div
-                key={i}
-                draggable
-                onDragStart={(e) => onDragStart(e, i)}
-                onClick={() => setSelectedLabelIdx(selectedLabelIdx === i ? null : i)}
-                className={`px-4 py-3 border rounded-xl shadow-sm transition-all cursor-pointer select-none font-semibold text-center ${selectedLabelIdx === i ? 'bg-purple-100 border-purple-500 ring-2 ring-purple-300 text-purple-800 scale-105' : 'bg-white border-gray-200 hover:shadow-md hover:border-purple-300 text-gray-700'}`}
-                ref={(el) => { if (!labelRefs.current[i]) labelRefs.current[i] = { current: el }; else labelRefs.current[i].current = el; }}
-              >
-                {t}
-              </div>
-            ))}
+            {labels.map((t, i) => {
+              const assigned = Object.values(assign).includes(i);
+              return (
+                <div
+                  key={i}
+                  draggable={!assigned}
+                  onDragStart={(e) => !assigned && onDragStart(e, i)}
+                  onClick={(e) => {
+                    e.preventDefault();
+                    if (!assigned) setSelectedLabelIdx(selectedLabelIdx === i ? null : i);
+                  }}
+                  className={`px-4 py-3 border rounded-xl shadow-sm transition-all select-none font-semibold text-center ${
+                    assigned ? 'bg-gray-100 text-gray-400 border-gray-200 opacity-50 cursor-not-allowed' :
+                    selectedLabelIdx === i ? 'bg-purple-100 border-purple-500 ring-2 ring-purple-300 text-purple-800 scale-105 cursor-pointer' : 
+                    'bg-white border-gray-200 hover:shadow-md hover:border-purple-300 text-gray-700 cursor-pointer'
+                  }`}
+                  ref={(el) => { if (!labelRefs.current[i]) labelRefs.current[i] = { current: el }; else labelRefs.current[i].current = el; }}
+                >
+                  {t}
+                </div>
+              );
+            })}
           </div>
 
           <div className="mt-8 pt-6 border-t border-gray-200">
@@ -237,10 +247,15 @@ const CreativityRunner = ({ onComplete, itemId }) => {
                   style={{ left, top, transform: 'translate(-50%, -50%)' }}
                   onDragOver={(e) => e.preventDefault()}
                   onDrop={(e) => onDrop(e, i)}
-                  onClick={() => onPointClick(i)}
+                  onClick={(e) => { e.preventDefault(); onPointClick(i); }}
                   title={assign[i] != null ? labels[assign[i]] : 'Glissez un libellé ici'}
                   ref={(el) => { if (!pointRefs.current[i]) pointRefs.current[i] = { current: el }; else pointRefs.current[i].current = el; }}
                 >
+                  {assign[i] != null && (
+                    <div className="absolute top-full mt-1 bg-white px-3 py-1 rounded-lg shadow-md text-sm font-bold text-purple-700 whitespace-nowrap z-30 border border-purple-200 pointer-events-none">
+                      {labels[assign[i]]}
+                    </div>
+                  )}
                   <span className="text-3xl md:text-4xl select-none pointer-events-none drop-shadow-sm">
                     {p.emoji || '●'}
                   </span>
@@ -256,10 +271,15 @@ const CreativityRunner = ({ onComplete, itemId }) => {
                 className={`relative w-20 h-20 flex flex-col items-center justify-center cursor-pointer transition-transform hover:scale-110 bg-white rounded-2xl shadow-sm border-2 ${selectedLabelIdx !== null && assign[i] == null ? 'border-purple-500 ring-4 ring-purple-300 animate-pulse' : 'border-amber-100 hover:border-purple-300'}`}
                 onDragOver={(e) => e.preventDefault()}
                 onDrop={(e) => onDrop(e, i)}
-                onClick={() => onPointClick(i)}
+                onClick={(e) => { e.preventDefault(); onPointClick(i); }}
                 title={assign[i] != null ? labels[assign[i]] : 'Glissez un libellé ici'}
                 ref={(el) => { if (!pointRefs.current[i]) pointRefs.current[i] = { current: el }; else pointRefs.current[i].current = el; }}
               >
+                {assign[i] != null && (
+                  <div className="absolute -bottom-5 bg-white px-3 py-1 rounded-lg shadow-md text-sm font-bold text-purple-700 whitespace-nowrap z-30 border border-purple-200 pointer-events-none">
+                    {labels[assign[i]]}
+                  </div>
+                )}
                 <span className="text-5xl select-none pointer-events-none drop-shadow-sm pb-1">
                   {p.emoji || '❓'}
                 </span>

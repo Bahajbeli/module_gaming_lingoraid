@@ -15,6 +15,7 @@ const CreativityRunner = ({ onComplete, itemId }) => {
   const labelRefs = useRef({}); // idx -> ref
   const [lines, setLines] = useState([]); // [{x1,y1,x2,y2}]
   const [imgSize, setImgSize] = useState({ w: 0, h: 0, nw: 0, nh: 0 });
+  const [selectedLabelIdx, setSelectedLabelIdx] = useState(null);
 
   useEffect(() => {
     (async () => {
@@ -52,6 +53,22 @@ const CreativityRunner = ({ onComplete, itemId }) => {
 
   const onDragStart = (e, i) => {
     e.dataTransfer.setData('text/plain', String(i));
+  };
+
+  const onPointClick = (idx) => {
+    if (selectedLabelIdx !== null) {
+      setAssign(a => ({ ...a, [idx]: selectedLabelIdx }));
+      setSelectedLabelIdx(null);
+    } else {
+      // Si aucun label sélectionné, un clic sur un point assigné le libère
+      if (assign[idx] !== undefined) {
+        setAssign(a => {
+          const newA = { ...a };
+          delete newA[idx];
+          return newA;
+        });
+      }
+    }
   };
 
   const score = useMemo(() => {
@@ -155,7 +172,7 @@ const CreativityRunner = ({ onComplete, itemId }) => {
       <div className="w-full md:w-80 flex-shrink-0 z-10 flex flex-col bg-white rounded-2xl shadow-xl border border-gray-100 overflow-hidden">
         <div className="bg-gradient-to-r from-purple-500 to-indigo-600 p-6 text-white text-center">
           <h3 className="text-xl font-bold mb-1">Libellés</h3>
-          <p className="text-purple-100 text-sm">Glissez-les vers les points sur l'image</p>
+          <p className="text-purple-100 text-sm">Glissez-les ou touchez-les puis un point</p>
         </div>
         
         <div className="p-6 flex-1 bg-gray-50/50 flex flex-col">
@@ -165,7 +182,8 @@ const CreativityRunner = ({ onComplete, itemId }) => {
                 key={i}
                 draggable
                 onDragStart={(e) => onDragStart(e, i)}
-                className="px-4 py-3 bg-white border border-gray-200 rounded-xl shadow-sm hover:shadow-md hover:border-purple-300 transition-all cursor-grab active:cursor-grabbing text-gray-700 font-semibold text-center select-none"
+                onClick={() => setSelectedLabelIdx(selectedLabelIdx === i ? null : i)}
+                className={`px-4 py-3 border rounded-xl shadow-sm transition-all cursor-pointer select-none font-semibold text-center ${selectedLabelIdx === i ? 'bg-purple-100 border-purple-500 ring-2 ring-purple-300 text-purple-800 scale-105' : 'bg-white border-gray-200 hover:shadow-md hover:border-purple-300 text-gray-700'}`}
                 ref={(el) => { if (!labelRefs.current[i]) labelRefs.current[i] = { current: el }; else labelRefs.current[i].current = el; }}
               >
                 {t}
@@ -215,10 +233,11 @@ const CreativityRunner = ({ onComplete, itemId }) => {
               return (
                 <div
                   key={i}
-                  className="absolute w-12 h-12 flex items-center justify-center cursor-pointer transition-transform hover:scale-110"
+                  className={`absolute w-12 h-12 flex items-center justify-center cursor-pointer transition-transform hover:scale-110 ${selectedLabelIdx !== null && assign[i] == null ? 'animate-pulse ring-4 ring-purple-400 rounded-full bg-white/50' : ''}`}
                   style={{ left, top, transform: 'translate(-50%, -50%)' }}
                   onDragOver={(e) => e.preventDefault()}
                   onDrop={(e) => onDrop(e, i)}
+                  onClick={() => onPointClick(i)}
                   title={assign[i] != null ? labels[assign[i]] : 'Glissez un libellé ici'}
                   ref={(el) => { if (!pointRefs.current[i]) pointRefs.current[i] = { current: el }; else pointRefs.current[i].current = el; }}
                 >
@@ -234,9 +253,10 @@ const CreativityRunner = ({ onComplete, itemId }) => {
             {shuffledPoints.map((p, i) => (
               <div
                 key={i}
-                className="relative w-20 h-20 flex flex-col items-center justify-center cursor-pointer transition-transform hover:scale-110 bg-white rounded-2xl shadow-sm border-2 border-amber-100 hover:border-purple-300"
+                className={`relative w-20 h-20 flex flex-col items-center justify-center cursor-pointer transition-transform hover:scale-110 bg-white rounded-2xl shadow-sm border-2 ${selectedLabelIdx !== null && assign[i] == null ? 'border-purple-500 ring-4 ring-purple-300 animate-pulse' : 'border-amber-100 hover:border-purple-300'}`}
                 onDragOver={(e) => e.preventDefault()}
                 onDrop={(e) => onDrop(e, i)}
+                onClick={() => onPointClick(i)}
                 title={assign[i] != null ? labels[assign[i]] : 'Glissez un libellé ici'}
                 ref={(el) => { if (!pointRefs.current[i]) pointRefs.current[i] = { current: el }; else pointRefs.current[i].current = el; }}
               >

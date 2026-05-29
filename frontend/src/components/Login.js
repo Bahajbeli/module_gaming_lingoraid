@@ -29,6 +29,19 @@ const Login = () => {
     if (!authLoading && user) navigate('/app', { replace: true });
   }, [user, authLoading, navigate]);
 
+  const handleGoogleCallbackRef = useRef();
+
+  useEffect(() => {
+    handleGoogleCallbackRef.current = async (response) => {
+      const res = await googleLogin(response.credential);
+      if (res.success) {
+        navigate('/app');
+      } else {
+        setError(res.error || 'Erreur lors de la connexion avec Google');
+      }
+    };
+  }, [googleLogin, navigate]);
+
   useEffect(() => {
     const clientId = '964615058500-4sk2747ga4t6gt5if22g0rvrq2aaqtpv.apps.googleusercontent.com';
     const init = () => {
@@ -36,25 +49,26 @@ const Login = () => {
       try {
         if (!googleInitedRef.current) {
           window.google.accounts.id.initialize({
-          client_id: clientId,
-          callback: async (response) => {
-            const res = await googleLogin(response.credential);
-            if (res.success) navigate('/app');
-          },
+            client_id: clientId,
+            callback: (response) => {
+              if (handleGoogleCallbackRef.current) {
+                handleGoogleCallbackRef.current(response);
+              }
+            }
+          });
+          window.google.accounts.id.renderButton(googleDivRef.current, {
+            theme: 'outline',
+            size: 'large',
+            type: 'standard',
+            shape: 'pill',
+            text: 'signin_with',
+            width: 360,
+            logo_alignment: 'left'
           });
           googleInitedRef.current = true;
         }
-        window.google.accounts.id.renderButton(googleDivRef.current, {
-          theme: 'outline',
-          size: 'large',
-          type: 'standard',
-          shape: 'pill',
-          text: 'signin_with',
-          width: 360,
-          logo_alignment: 'left'
-        });
       } catch (e) {
-        // ignore
+        console.error('Google Auth Init Error:', e);
       }
     };
 
@@ -62,10 +76,12 @@ const Login = () => {
       init();
     } else {
       const script = document.querySelector('script[src="https://accounts.google.com/gsi/client"]');
-      if (script) script.addEventListener('load', init, { once: true });
-      return () => { if (script) script.removeEventListener('load', init); };
+      if (script) {
+        script.addEventListener('load', init, { once: true });
+        return () => { script.removeEventListener('load', init); };
+      }
     }
-  }, [googleLogin, navigate]);
+  }, []);
 
   // Empêcher une redirection automatique depuis un 401 pendante qui rechargerait la page en boucle
   useEffect(() => {
